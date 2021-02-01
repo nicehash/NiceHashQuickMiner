@@ -1,1 +1,1 @@
-# NiceHashQuickMiner
+# NiceHash QuickMiner
