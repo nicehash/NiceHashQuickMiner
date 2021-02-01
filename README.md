@@ -1,8 +1,23 @@
 # NiceHash QuickMiner
-[NiceHash QuickMiner](https://github.com/nicehash/NiceHashQuickMiner/releases) contains latest version of Excavator bundled with:
+NiceHash QuickMiner is very simple, easy and quick way to start mining and earning Bitcoins on PC with Windows 10 x64.
+
+**URGENT NOTICE! NiceHash QuickMiner is currently in BETA testing. Anyone can participate. Please, submit bugs [here](https://github.com/nicehash/NiceHashQuickMiner/issues).**
+
+Supported hardware:
+* NVIDIA GeForce GTX 1000 series,
+* NVIDIA GeForce RTX 2000 series,
+* NVIDIA GeForce RTX 3000 series,
+* Intel CPUs with AVX2,
+* AMD CPUs with AVX2.
+
+NiceHash QuickMiner contains latest version of [Excavator](https://github.com/nicehash/excavator) bundled with:
 * watchdog (NiceHashQuickMiner.exe),
 * autostart service (nhqmservice.exe) and
-* OCTune
+* OCTune.
+
+# Download
+
+Download latest version from release page: https://github.com/nicehash/NiceHashQuickMiner/releases
 
 # Installation
 Simply extract all files in .zip archive into any folder you want.
@@ -18,7 +33,7 @@ Simply double click `NiceHashQuickMiner.exe` and mining process will start. You 
 
 Some extra features are available in your Windows tray (notification area); right click NiceHash icon and you can add/remove autostart task or service. By enabling autostart, NiceHash QuickMiner will start with Windows automatically. NiceHash QuickMiner is bundled with CPU miner - XMRig. CPU mining is possible on CPUs that support AVX2 instruction set.
 
-# Deinstallation
+# Uninstallation
 Delete all files. If you have added autostart, make sure to disable autostart before you delete all files.
 Alternative way; run `NiceHashQuickMiner.exe --uninstall` and all files and folders will be purged from your PC automatically. If you also add `--keepconfig`, then config files will be kept.
 
