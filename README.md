@@ -1,10 +1,11 @@
 # NiceHash QuickMiner
 NiceHash QuickMiner is a very simple, easy and quick way to start mining and earning Bitcoins on PC with Windows 10 x64. It has following features:
-* It uses ONLY Excavator for GPU mining and XMRig for CPU mining. Excavator is in-house developed miner and is 100% free of any malware and [XMRig is open source CPU miner](https://github.com/xmrig/xmrig). There are some more open source C# libraries used. Code running as NiceHash QuickMiner is either developed by NiceHash or used from public repositories which means it is 100% safe and you do not have to worry about exposing your PC's sensitive data or getting infected with malware. NiceHash QuickMiner will (in the future) NEVER use any closed source software, software of unknown or unverified origin.
+* It uses ONLY [Excavator for GPU mining](https://github.com/nicehash/excavator) and XMRig for CPU mining. Excavator is in-house developed miner and is 100% free of any malware and [XMRig is open source CPU miner](https://github.com/xmrig/xmrig). There are some more open source C# libraries used. Code running as NiceHash QuickMiner is either developed by NiceHash or used from public repositories which means it is 100% safe and you do not have to worry about exposing your PC's sensitive data or getting infected with malware. NiceHash QuickMiner will (in the future) NEVER use any closed source software, software of unknown or unverified origin.
 * No benchmarks, you start mining IMMEDIATELY.
 * No third party tools for GPU overclocking needed. NiceHash QuickMiner has its own powerful and quick tool for setting overclocks and fan speeds. Determine best overclock easily and quickly as never before.
 * Watchdog which takes care of restarting mining process if something fails.
 * Windows autostart methods.
+* Automatic updates.
 
 **URGENT NOTICE! NiceHash QuickMiner is currently in BETA testing. Anyone can participate. Please, submit bugs [here](https://github.com/nicehash/NiceHashQuickMiner/issues).**
 
@@ -23,6 +24,8 @@ NiceHash QuickMiner contains latest version of [Excavator](https://github.com/ni
 # Download
 
 Download latest version from release page: https://github.com/nicehash/NiceHashQuickMiner/releases
+
+Stable versions are marked with `stable`. `RC` versions are Release-Candidate versions (not considered stable).
 
 # Installation
 Simply extract all files in .zip archive into any folder you want.
