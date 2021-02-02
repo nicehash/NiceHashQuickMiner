@@ -1,1 +1,10 @@
-{"version_str":"0.3.0.1_RC1","version":30001,"stable":{"version_str":"0.3.0.0","version":30000}}
+{
+  "version_str":"0.3.0.1_RC1",
+  "version":30001,
+  "package_sha256":"BE406C5C5CD94DF52008BFB0C6BB538305D8FC4B0BD520CD21EDB7B73268A134",
+  "stable":{
+    "version_str":"0.3.0.0",
+    "version":30000,
+    "package_sha256":"BE406C5C5CD94DF52008BFB0C6BB538305D8FC4B0BD520CD21EDB7B73268A134"
+  }
+}
