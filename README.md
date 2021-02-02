@@ -6,6 +6,7 @@ NiceHash QuickMiner is a very simple, easy and quick way to start mining and ear
 * Watchdog which takes care of restarting mining process if something fails.
 * Windows autostart methods.
 * Automatic updates.
+* No developer fees. There is only NiceHash 2% pool-side fee with PPS (pay-per-share) payout scheme.
 
 **URGENT NOTICE! NiceHash QuickMiner is currently in BETA testing. Anyone can participate. Please, submit bugs [here](https://github.com/nicehash/NiceHashQuickMiner/issues).**
 
