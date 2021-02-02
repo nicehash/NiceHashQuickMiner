@@ -95,3 +95,11 @@ You have to fiddle with core clock, memory clock and power limit until you find 
 When you are running cards over risers, this adds extra instability factor to your configuration. You need to make sure your risers (comm link between CPU and GPU) are max stable. To achieve this, you need to set PCI Generation to 1 in BIOS (or at least 2). Having higher Generation introduce more instability because communication between CPU and GPU is faster and there are more chances for something to go wrong. There is no speed penalty when running Gen1 - your cards will hash at the same speed.
 
 If one of your cards crashes during mining and you see device `ERROR` it most likely means riser instability. This is especially true, if it happens when your card is not overclocked. In this case replace riser, cable and set PCIE gen1 in BIOS.
+
+# Additional information - 3rd party libraries and code used
+* C# .NET library log4net: https://logging.apache.org/log4net/index.html
+* C# .NET library managedCuda: http://kunzmi.github.io/managedCuda
+* C# .NET library Microsoft.Win32.TaskScheduler: https://github.com/dahall/TaskScheduler#main-library
+* C# .NET library websocket-sharp: https://github.com/sta/websocket-sharp
+* XMRig miner (https://github.com/xmrig/xmrig); we have compiled version 6.7.0 with some modifications. The miner is stored in Excavator and it is extracted and launched when needed for CPU Mining.
+* XMRig miner uses signed driver WinRing0x64.sys. This driver has been signed on Saturday, 26 July 2008 by Noriyuki MIYAZAKI. We do not have source for it, however, we believe that this driver pose no security threat at all as it has good reputation by Microsoft and has been used by various software for almost 13 years already.
