@@ -90,11 +90,29 @@ Increase core clock +25 at a time until your `Min KT` and `Avg KT` stop improvin
 _4. Play with settings to achieve best KT values_
 You have to fiddle with core clock, memory clock and power limit until you find best KT values (lowest) and max stability (no shares above target - `HW err` stays at 0). Once you find best values, you will have the highest possible speed. You can save your OC configuration so it will be applied next time Excavator is started.
 
+
 **Larger rigs - risers and BIOS settings**
 
 When you are running cards over risers, this adds extra instability factor to your configuration. You need to make sure your risers (comm link between CPU and GPU) are max stable. To achieve this, you need to set PCI Generation to 1 in BIOS (or at least 2). Having higher Generation introduce more instability because communication between CPU and GPU is faster and there are more chances for something to go wrong. There is no speed penalty when running Gen1 - your cards will hash at the same speed.
 
 If one of your cards crashes during mining and you see device `ERROR` it most likely means riser instability. This is especially true, if it happens when your card is not overclocked. In this case replace riser, cable and set PCIE gen1 in BIOS.
+
+
+**Fine tune crash/error case scenarios**
+
+NiceHash QuickMiner can detect two possible erroneous device states:
+* when speed is abnormally high and
+* when speed falls to 0.
+
+For both cases, you can choose among three options how NiceHash QuickMiner should act:
+* do nothing (value = 1),
+* restart Excavator (value = 2) or
+* restart whole rig (value = 3).
+
+You can fine tune these values by adjusting values `whenDeviceSpeedTooHigh` and `whenDeviceSpeedZero` in _nhqm.conf_ file. In some cases, you may prefer to do simple restart of Excavator. In some cases, restart of Excavator is not enough and whole rig needs to be restarted. And some of you may deal with this case manually each time. For that purpose, error state of the device is displayed in NiceHash Rig Manager:
+
+![Rig Manager - Device Error](https://github.com/nicehash/NiceHashQuickMiner/blob/main/images/error.png?raw=true)
+
 
 # Additional information - 3rd party libraries and code used
 * C# .NET library log4net: https://logging.apache.org/log4net/index.html
