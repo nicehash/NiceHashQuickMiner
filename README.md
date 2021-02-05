@@ -11,9 +11,9 @@ NiceHash QuickMiner is a very simple, easy and quick way to start mining and ear
 **URGENT NOTICE! NiceHash QuickMiner is currently in BETA testing. Anyone can participate. Please, submit bugs [here](https://github.com/nicehash/NiceHashQuickMiner/issues).**
 
 Supported hardware:
-* NVIDIA GeForce GTX 1000 series,
-* NVIDIA GeForce RTX 2000 series,
-* NVIDIA GeForce RTX 3000 series,
+* NVIDIA GeForce GTX 1000 series with min. 6 GB of GDDRAM,
+* NVIDIA GeForce RTX 2000 series with min. 6 GB of GDDRAM,
+* NVIDIA GeForce RTX 3000 series with min. 6 GB of GDDRAM,
 * Intel CPUs with AVX2,
 * AMD CPUs with AVX2.
 
