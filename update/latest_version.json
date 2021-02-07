@@ -3,8 +3,8 @@
   "version":30002,
   "package_sha256":"145D16C4E0C2F3411D99A781594D5AF130A131679625C3C4E0ECC6E8A683C840",
   "stable":{
-    "version_str":"0.3.0.0",
-    "version":30000,
-    "package_sha256":""
+    "version_str":"0.3.0.2",
+    "version":30002,
+    "package_sha256":"145D16C4E0C2F3411D99A781594D5AF130A131679625C3C4E0ECC6E8A683C840"
   }
 }
