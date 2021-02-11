@@ -6,6 +6,10 @@ Why you should use NiceHash QuickMiner over NiceHash Miner? Read [here](https://
 
 **URGENT NOTICE! NiceHash QuickMiner is currently in BETA testing. Anyone can participate. Please, submit bugs [here](https://github.com/nicehash/NiceHashQuickMiner/issues).**
 
+Current expected income when using NiceHash QuickMiner:
+
+![Profitabilities](https://imagegen.nicehash.com/getimg.png?t=8536778306)
+
 Supported hardware:
 * NVIDIA GeForce GTX 1000 series with min. 6 GB of GDDRAM,
 * NVIDIA GeForce RTX 2000 series with min. 6 GB of GDDRAM,
