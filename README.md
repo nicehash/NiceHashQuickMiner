@@ -4,7 +4,7 @@ Please use [Wiki](https://github.com/nicehash/NiceHashQuickMiner/wiki) (still wo
 
 Why you should use NiceHash QuickMiner over NiceHash Miner? Read [here](https://github.com/nicehash/NiceHashQuickMiner/wiki/Why-NiceHash-QuickMiner).
 
-**URGENT NOTICE! Very cool feature comming in near future! Click-to-tune any card to nearly perfect efficiency in a very short time (less than 5 minutes!). You can see a video teaser of autotuner in action bringing RTX 3080 from stock to 100 MH/s at 220W in less than 2 minutes! Video is on [YouTube](https://www.youtube.com/watch?v=tkZL8AO48pk).**
+**URGENT NOTICE! Very cool feature comming in near future! Click-to-tune any card to nearly perfect efficiency in a very short time (less than 5 minutes!). You can see a video teaser of autotuner in action bringing RTX 3080 from stock to 100 MH/s at 220W in less than 2 minutes! Video is on [YouTube](https://www.youtube.com/watch?v=tkZL8AO48pk). The latest version with this feature is now available in v0.3.0.5 RC and can be downloaded from [here](https://github.com/nicehash/NiceHashQuickMiner/releases/tag/v0.3.0.5_RC).**
 
 Current expected income when using NiceHash QuickMiner:
 
