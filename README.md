@@ -6,6 +6,8 @@ Why you should use NiceHash QuickMiner over NiceHash Miner? Read [here](https://
 
 **URGENT NOTICE! Latest cool feature - measuring GDDR6X temperature for RTX 3080 and 3090! Now available in v0.3.0.7 RC and can be downloaded from [here](https://github.com/nicehash/NiceHashQuickMiner/releases/tag/v0.3.0.7_RC).**
 
+![GDDR6X Temp](https://github.com/nicehash/NiceHashQuickMiner/blob/main/images/gddr6x.png?raw=true)
+
 Current expected income when using NiceHash QuickMiner:
 
 <a href="https://www.nicehash.com/profitability-calculator" target="_blank">![Profitability list](https://imagegen.nicehash.com/getimg.png?t=45747563)</a>
