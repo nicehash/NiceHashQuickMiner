@@ -1,7 +1,7 @@
 {
   "data_version": 1,
   "devices": [
-    { "name": "GeForce RTX 3090", optimize_profiles": [
+    { "name": "GeForce RTX 3090", "optimize_profiles": [
       { "id": 1, "ptype": 0, "delta_mem_clock": 800, "max_core_clock": 1065 },
       { "id": 2, "ptype": 0, "delta_mem_clock": -500, "max_core_clock": 990 }
     ]}
