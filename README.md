@@ -4,11 +4,11 @@ Please use [Wiki](https://github.com/nicehash/NiceHashQuickMiner/wiki) (still wo
 
 Why you should use NiceHash QuickMiner over NiceHash Miner? Read [here](https://github.com/nicehash/NiceHashQuickMiner/wiki/Why-NiceHash-QuickMiner).
 
-**URGENT NOTICE! Very cool feature comming in near future! Click-to-tune any card to nearly perfect efficiency in a very short time (less than 5 minutes!). You can see a video teaser of autotuner in action bringing RTX 3080 from stock to 100 MH/s at 220W in less than 2 minutes! Video is on [YouTube](https://www.youtube.com/watch?v=tkZL8AO48pk). The latest version with this feature is now available in v0.3.0.6 RC and can be downloaded from [here](https://github.com/nicehash/NiceHashQuickMiner/releases/tag/v0.3.0.6_RC).**
+**URGENT NOTICE! Latest cool feature - measuring GDDR6X temperature for RTX 3080 and 3090! Now available in v0.3.0.7 RC and can be downloaded from [here](https://github.com/nicehash/NiceHashQuickMiner/releases/tag/v0.3.0.7_RC).**
 
 Current expected income when using NiceHash QuickMiner:
 
-<a href="https://www.nicehash.com/profitability-calculator" target="_blank">![Profitability list](https://imagegen.nicehash.com/getimg.png?t=v_DATE)</a>
+<a href="https://www.nicehash.com/profitability-calculator" target="_blank">![Profitability list](https://imagegen.nicehash.com/getimg.png?t=45747563)</a>
 
 Supported hardware:
 * NVIDIA GeForce GTX 1000 series with min. 6 GB of GDDRAM,
