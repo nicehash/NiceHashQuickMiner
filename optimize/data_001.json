@@ -2,8 +2,8 @@
   "data_version": 1,
   "devices": [
     { "name": "GeForce RTX 3090", "power_profiles": [
-      { "id": 1, "ptype": 0, "abs_mem_clock": "10300", "max_core_clock": "1065" },
-      { "id": 2, "ptype": 0, "abs_mem_clock": "9001", "max_core_clock": "990" }
+      { "id": 1, "ptype": 0, "abs_mem_clock": "800", "max_core_clock": "1065" },
+      { "id": 2, "ptype": 0, "abs_mem_clock": "-500", "max_core_clock": "990" }
     ]}
   ]
 }
