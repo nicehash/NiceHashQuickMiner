@@ -1,0 +1,22 @@
+{
+  "data_version": 2,
+  "iteration": 1,
+  "devices": [
+    { "name": "GeForce RTX 3090", "optimize_profiles": [
+      { "id": 2, "ptype": 0, "delta_mem_clock": 800, "max_core_clock": 1065, "fan_mode": 2, "fan_targ_gpu_temp" : 55, "fan_targ_vram_temp": 95 },
+      { "id": 1, "ptype": 0, "delta_mem_clock": -500, "max_core_clock": 990, "fan_mode": 2, "fan_targ_gpu_temp" : 55, "fan_targ_vram_temp": 95 }
+    ]},
+    { "name": "GeForce RTX 3080", "optimize_profiles": [
+      { "id": 2, "ptype": 0, "delta_mem_clock": 900, "max_core_clock": 1065, "fan_mode": 2, "fan_targ_gpu_temp" : 55, "fan_targ_vram_temp": 95 },
+      { "id": 1, "ptype": 0, "delta_mem_clock": 400, "max_core_clock": 990, "fan_mode": 2, "fan_targ_gpu_temp" : 55, "fan_targ_vram_temp": 95 }
+    ]},
+    { "name": "GeForce RTX 3070", "optimize_profiles": [
+      { "id": 2, "ptype": 0, "delta_mem_clock": 1150, "max_core_clock": 1050, "fan_mode": 1, "fan_targ_gpu_temp" : 55 },
+      { "id": 1, "ptype": 0, "delta_mem_clock": 800, "max_core_clock": 810, "fan_mode": 1, "fan_targ_gpu_temp" : 55 }
+    ]},
+    { "name": "GeForce RTX 3060 Ti", "optimize_profiles": [
+      { "id": 2, "ptype": 0, "delta_mem_clock": 1150, "max_core_clock": 1350, "fan_mode": 1, "fan_targ_gpu_temp" : 55 },
+      { "id": 1, "ptype": 0, "delta_mem_clock": 800, "max_core_clock": 1350, "fan_mode": 1, "fan_targ_gpu_temp" : 55 }
+    ]}
+  ]
+}
