@@ -29,6 +29,10 @@
     { "name": "GeForce RTX 2060", "optimize_profiles": [
       { "id": 2, "ptype": 0, "delta_mem_clock": 900, "max_core_clock": 1050, "fan_mode": 2, "fan_targ_gpu_temp" : 55 },
       { "id": 1, "ptype": 0, "delta_mem_clock": 600, "max_core_clock": 990, "fan_mode": 2, "fan_targ_gpu_temp" : 55 }
+    ]},
+    { "name": "GeForce GTX 1660 Ti", "optimize_profiles": [
+      { "id": 2, "ptype": 0, "delta_mem_clock": 900, "max_core_clock": 900, "fan_mode": 2, "fan_targ_gpu_temp" : 55 },
+      { "id": 1, "ptype": 0, "delta_mem_clock": 600, "max_core_clock": 930, "fan_mode": 2, "fan_targ_gpu_temp" : 55 }
     ]}
   ]
 }
