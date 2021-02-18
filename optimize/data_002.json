@@ -18,6 +18,10 @@
       { "id": 2, "ptype": 0, "delta_mem_clock": 1150, "max_core_clock": 1350, "fan_mode": 2, "fan_targ_gpu_temp" : 55 },
       { "id": 1, "ptype": 0, "delta_mem_clock": 800, "max_core_clock": 1350, "fan_mode": 2, "fan_targ_gpu_temp" : 55 }
     ]},
+    { "name": "GeForce RTX 2080 Ti", "optimize_profiles": [
+      { "id": 2, "ptype": 0, "delta_mem_clock": 900, "max_core_clock": 1050, "fan_mode": 2, "fan_targ_gpu_temp" : 55 },
+      { "id": 1, "ptype": 0, "delta_mem_clock": 600, "max_core_clock": 990, "fan_mode": 2, "fan_targ_gpu_temp" : 55 }
+    ]},
     { "name": "GeForce RTX 2080", "optimize_profiles": [
       { "id": 2, "ptype": 0, "delta_mem_clock": 900, "max_core_clock": 1020, "fan_mode": 2, "fan_targ_gpu_temp" : 55 },
       { "id": 1, "ptype": 0, "delta_mem_clock": 600, "max_core_clock": 990, "fan_mode": 2, "fan_targ_gpu_temp" : 55 }
