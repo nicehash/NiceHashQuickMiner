@@ -9,6 +9,7 @@ If the file's SHA1 or SHA256 does not match **precisely with each letter and num
 
 File Name | Checksum
 ----------|--------------
+[NiceHash_QuickMiner_v0.3.2.1_RC.zip](https://github.com/nicehash/NiceHashQuickMiner/releases/tag/v0.3.2.1_RC) | **SHA1:** 01EDCA09212394937E7A31FED6E57F5C791D3A1D<br> **SHA256**: 3267AF25B6783A9DEDF6515C144CF2C9B62A39E24CF09BED3CF4D22DEE90C877
 [NiceHash_QuickMiner_v0.3.2.0_RC.zip](https://github.com/nicehash/NiceHashQuickMiner/releases/tag/v0.3.2.0_RC) | **SHA1:** FE5A96F3579E0A06391EBD70C08D65841DF4A804<br> **SHA256**: 7B9F9B309074117793CFBF6D49C69927665DB047D54871DE4EDFD1A741FD22F1
 [NiceHash_QuickMiner_v0.3.1.2_RC.zip](https://github.com/nicehash/NiceHashQuickMiner/releases/tag/v0.3.1.2_RC) | **SHA1:** 23D8F009793736D780B4ECFB0B2F854094A2FD85<br> **SHA256**: 7B6BB6761B9E99F177C43924C67BF0F9C4797C2DBECD6075FE69DF68A5BD9DBB
 [NiceHash_QuickMiner_v0.3.1.1_RC.zip](https://github.com/nicehash/NiceHashQuickMiner/releases/tag/v0.3.1.1_RC) | **SHA1:** 77C030E4A0B39D59A680ED0230E06910971213EF<br> **SHA256**: 3026BB4A3334318CD94189CAB70DFC5FE92506A99509A66A61936829C8AFE475
