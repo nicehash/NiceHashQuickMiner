@@ -3,40 +3,40 @@
   "iteration": 1,
   "devices": [
     { "name": "GeForce RTX 3090", "optimize_profiles": [
-      { "id": 2, "ptype": 0, "delta_mem_clock": 800, "max_core_clock": 1065, "fan_mode": 3, "fan_targ_gpu_temp" : 55, "fan_targ_vram_temp": 94 },
-      { "id": 1, "ptype": 0, "delta_mem_clock": -400, "max_core_clock": 945, "fan_mode": 3, "fan_targ_gpu_temp" : 56, "fan_targ_vram_temp": 94 }
+      { "id": 2, "ptype": 0, "delta_mem_clock": 800, "max_core_clock": 1065, "fan_mode": 3, "fan_targ_gpu_temp" : 58, "fan_targ_vram_temp": 94 },
+      { "id": 1, "ptype": 0, "delta_mem_clock": -400, "max_core_clock": 945, "fan_mode": 3, "fan_targ_gpu_temp" : 58, "fan_targ_vram_temp": 94 }
     ]},
     { "name": "GeForce RTX 3080", "optimize_profiles": [
-      { "id": 2, "ptype": 0, "delta_mem_clock": 900, "max_core_clock": 1065, "fan_mode": 3, "fan_targ_gpu_temp" : 56, "fan_targ_vram_temp": 94 },
-      { "id": 1, "ptype": 0, "delta_mem_clock": 400, "max_core_clock": 990, "fan_mode": 3, "fan_targ_gpu_temp" : 56, "fan_targ_vram_temp": 94 }
+      { "id": 2, "ptype": 0, "delta_mem_clock": 900, "max_core_clock": 1065, "fan_mode": 3, "fan_targ_gpu_temp" : 58, "fan_targ_vram_temp": 94 },
+      { "id": 1, "ptype": 0, "delta_mem_clock": 400, "max_core_clock": 990, "fan_mode": 3, "fan_targ_gpu_temp" : 58, "fan_targ_vram_temp": 94 }
     ]},
     { "name": "GeForce RTX 3070", "optimize_profiles": [
-      { "id": 2, "ptype": 0, "delta_mem_clock": 1150, "max_core_clock": 1050, "fan_mode": 2, "fan_targ_gpu_temp" : 56 },
-      { "id": 1, "ptype": 0, "delta_mem_clock": 800, "max_core_clock": 810, "fan_mode": 2, "fan_targ_gpu_temp" : 56 }
+      { "id": 2, "ptype": 0, "delta_mem_clock": 1150, "max_core_clock": 1050, "fan_mode": 2, "fan_targ_gpu_temp" : 58 },
+      { "id": 1, "ptype": 0, "delta_mem_clock": 900, "max_core_clock": 810, "fan_mode": 2, "fan_targ_gpu_temp" : 58 }
     ]},
     { "name": "GeForce RTX 3060 Ti", "optimize_profiles": [
-      { "id": 2, "ptype": 0, "delta_mem_clock": 1150, "max_core_clock": 1350, "fan_mode": 2, "fan_targ_gpu_temp" : 56 },
-      { "id": 1, "ptype": 0, "delta_mem_clock": 800, "max_core_clock": 1350, "fan_mode": 2, "fan_targ_gpu_temp" : 56 }
+      { "id": 2, "ptype": 0, "delta_mem_clock": 1150, "max_core_clock": 1350, "fan_mode": 2, "fan_targ_gpu_temp" : 58 },
+      { "id": 1, "ptype": 0, "delta_mem_clock": 750, "max_core_clock": 1320, "fan_mode": 2, "fan_targ_gpu_temp" : 58 }
     ]},
     { "name": "GeForce RTX 2080 Ti", "optimize_profiles": [
-      { "id": 2, "ptype": 0, "delta_mem_clock": 900, "max_core_clock": 1050, "fan_mode": 2, "fan_targ_gpu_temp" : 56 },
-      { "id": 1, "ptype": 0, "delta_mem_clock": 600, "max_core_clock": 990, "fan_mode": 2, "fan_targ_gpu_temp" : 56 }
+      { "id": 2, "ptype": 0, "delta_mem_clock": 900, "max_core_clock": 1050, "fan_mode": 2, "fan_targ_gpu_temp" : 58 },
+      { "id": 1, "ptype": 0, "delta_mem_clock": 600, "max_core_clock": 990, "fan_mode": 2, "fan_targ_gpu_temp" : 58 }
     ]},
     { "name": "GeForce RTX 2080", "optimize_profiles": [
-      { "id": 2, "ptype": 0, "delta_mem_clock": 900, "max_core_clock": 1020, "fan_mode": 2, "fan_targ_gpu_temp" : 56 },
-      { "id": 1, "ptype": 0, "delta_mem_clock": 600, "max_core_clock": 990, "fan_mode": 2, "fan_targ_gpu_temp" : 56 }
+      { "id": 2, "ptype": 0, "delta_mem_clock": 900, "max_core_clock": 1020, "fan_mode": 2, "fan_targ_gpu_temp" : 58 },
+      { "id": 1, "ptype": 0, "delta_mem_clock": 600, "max_core_clock": 990, "fan_mode": 2, "fan_targ_gpu_temp" : 58 }
     ]},
     { "name": "GeForce RTX 2070 SUPER", "optimize_profiles": [
-      { "id": 2, "ptype": 0, "delta_mem_clock": 900, "max_core_clock": 990, "fan_mode": 2, "fan_targ_gpu_temp" : 56 },
-      { "id": 1, "ptype": 0, "delta_mem_clock": 600, "max_core_clock": 960, "fan_mode": 2, "fan_targ_gpu_temp" : 56 }
+      { "id": 2, "ptype": 0, "delta_mem_clock": 900, "max_core_clock": 990, "fan_mode": 2, "fan_targ_gpu_temp" : 58 },
+      { "id": 1, "ptype": 0, "delta_mem_clock": 600, "max_core_clock": 960, "fan_mode": 2, "fan_targ_gpu_temp" : 58 }
     ]},
     { "name": "GeForce RTX 2060", "optimize_profiles": [
       { "id": 2, "ptype": 0, "delta_mem_clock": 900, "max_core_clock": 1050, "fan_mode": 2, "fan_targ_gpu_temp" : 56 },
       { "id": 1, "ptype": 0, "delta_mem_clock": 600, "max_core_clock": 990, "fan_mode": 2, "fan_targ_gpu_temp" : 56 }
     ]},
     { "name": "GeForce GTX 1660 Ti", "optimize_profiles": [
-      { "id": 2, "ptype": 0, "delta_mem_clock": 900, "max_core_clock": 900, "fan_mode": 2, "fan_targ_gpu_temp" : 55 },
-      { "id": 1, "ptype": 0, "delta_mem_clock": 600, "max_core_clock": 930, "fan_mode": 2, "fan_targ_gpu_temp" : 55 }
+      { "id": 2, "ptype": 0, "delta_mem_clock": 900, "max_core_clock": 900, "fan_mode": 2, "fan_targ_gpu_temp" : 58 },
+      { "id": 1, "ptype": 0, "delta_mem_clock": 600, "max_core_clock": 930, "fan_mode": 2, "fan_targ_gpu_temp" : 58 }
     ]}
   ]
 }
