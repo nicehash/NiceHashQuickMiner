@@ -31,8 +31,8 @@
       { "id": 1, "ptype": 0, "delta_mem_clock": 600, "max_core_clock": 960, "fan_mode": 2, "fan_targ_gpu_temp" : 58 }
     ]},
     { "name": "GeForce RTX 2060", "optimize_profiles": [
-      { "id": 2, "ptype": 0, "delta_mem_clock": 900, "max_core_clock": 1050, "fan_mode": 2, "fan_targ_gpu_temp" : 56 },
-      { "id": 1, "ptype": 0, "delta_mem_clock": 600, "max_core_clock": 990, "fan_mode": 2, "fan_targ_gpu_temp" : 56 }
+      { "id": 2, "ptype": 0, "delta_mem_clock": 900, "max_core_clock": 1050, "fan_mode": 2, "fan_targ_gpu_temp" : 58 },
+      { "id": 1, "ptype": 0, "delta_mem_clock": 600, "max_core_clock": 990, "fan_mode": 2, "fan_targ_gpu_temp" : 58 }
     ]},
     { "name": "GeForce GTX 1660 Ti", "optimize_profiles": [
       { "id": 2, "ptype": 0, "delta_mem_clock": 900, "max_core_clock": 900, "fan_mode": 2, "fan_targ_gpu_temp" : 58 },
