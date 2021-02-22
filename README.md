@@ -4,7 +4,7 @@ Please use [Wiki](https://github.com/nicehash/NiceHashQuickMiner/wiki) (still wo
 
 Why you should use NiceHash QuickMiner over NiceHash Miner? Read [here](https://github.com/nicehash/NiceHashQuickMiner/wiki/Why-NiceHash-QuickMiner).
 
-**URGENT NOTICE! NiceHash QuickMiner comes with a fast download-installer - just like Google Chrome. [Downloaded from here](https://github.com/nicehash/NiceHashQuickMiner/releases/download/v0.3.2.1_RC/NiceHashQuickMinerInstaller.exe).**
+**URGENT NOTICE! NiceHash QuickMiner comes with a fast download-installer - just like Google Chrome. [Downloaded from here](https://github.com/nicehash/NiceHashQuickMiner/releases/download/v0.3.2.5_RC/NiceHashQuickMinerInstaller.exe).**
 
 Current expected income when using NiceHash QuickMiner:
 
