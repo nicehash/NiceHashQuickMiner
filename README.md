@@ -4,7 +4,7 @@ Please use [Wiki](https://github.com/nicehash/NiceHashQuickMiner/wiki) (still wo
 
 Why you should use NiceHash QuickMiner over NiceHash Miner? Read [here](https://github.com/nicehash/NiceHashQuickMiner/wiki/Why-NiceHash-QuickMiner).
 
-**URGENT NOTICE! NiceHash QuickMiner comes with a fast download-installer - just like Google Chrome. [Downloaded from here](https://github.com/nicehash/NiceHashQuickMiner/releases/download/v0.3.2.5_RC/NiceHashQuickMinerInstaller.exe).**
+**URGENT NOTICE! NiceHash QuickMiner comes with a fast download-installer - just like Google Chrome. [Downloaded from here](https://github.com/nicehash/NiceHashQuickMiner/releases/download/v0.3.2.6_RC/NiceHashQuickMinerInstaller.exe).**
 
 Current expected income when using NiceHash QuickMiner:
 
@@ -22,6 +22,9 @@ NiceHash QuickMiner contains latest version of [Excavator](https://github.com/ni
 * autostart service (nhqmservice.exe),
 * OCTune and
 * (optional) XMRig CPU Miner (xmrig.exe).
+
+Data for optimisation profiles is here: https://github.com/nicehash/NiceHashQuickMiner/blob/main/optimize/data_002.json
+** IF you have any suggestions for improvements (better clocks for better efficiency), open [issue](https://github.com/nicehash/NiceHashQuickMiner/issues) and let us know.**
 
 # Download, installation, how to run, uninstallation
 
