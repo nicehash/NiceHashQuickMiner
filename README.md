@@ -23,8 +23,8 @@ NiceHash QuickMiner contains latest version of [Excavator](https://github.com/ni
 * OCTune and
 * (optional) XMRig CPU Miner (xmrig.exe).
 
-Data for optimisation profiles is here: https://github.com/nicehash/NiceHashQuickMiner/blob/main/optimize/data_002.json
-** IF you have any suggestions for improvements (better clocks for better efficiency), open [issue](https://github.com/nicehash/NiceHashQuickMiner/issues) and let us know.**
+Data for optimisation profiles is here: https://github.com/nicehash/NiceHashQuickMiner/blob/main/optimize/data_002.json<br />
+**If you have any suggestions for improvements (better clocks for better efficiency), open [issue](https://github.com/nicehash/NiceHashQuickMiner/issues) and let us know.**
 
 # Download, installation, how to run, uninstallation
 
