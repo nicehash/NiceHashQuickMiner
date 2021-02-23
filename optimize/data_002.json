@@ -59,7 +59,7 @@
       { "id": 1, "ptype": 0, "delta_mem_clock": 400, "max_core_clock": 1200, "fan_mode": 2, "fan_targ_gpu_temp" : 58 }
     ]},
     { "name": "TITAN V", "optimize_profiles": [
-      { "id": 2, "ptype": 0, "delta_mem_clock": 0, "max_core_clock": 960, "fan_mode": 2, "fan_targ_gpu_temp" : 58 },
+      { "id": 2, "ptype": 0, "delta_mem_clock": 50, "max_core_clock": 1020, "fan_mode": 2, "fan_targ_gpu_temp" : 58 },
       { "id": 1, "ptype": 0, "delta_mem_clock": 0, "max_core_clock": 930, "fan_mode": 2, "fan_targ_gpu_temp" : 58 }
     ]}
   ]
