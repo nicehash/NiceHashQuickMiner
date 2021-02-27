@@ -4,7 +4,7 @@ Please use [Wiki](https://github.com/nicehash/NiceHashQuickMiner/wiki) (still wo
 
 Why you should use NiceHash QuickMiner over NiceHash Miner? Read [here](https://github.com/nicehash/NiceHashQuickMiner/wiki/Why-NiceHash-QuickMiner).
 
-**URGENT NOTICE! Even though Mobile chips are officially not supported and there were issues with latest stable version, 0.3.2.7 RC is out with a fix for Mobile GPUs. Simply [download an installer](https://github.com/nicehash/NiceHashQuickMiner/releases/download/v0.3.2.6/NiceHashQuickMinerInstaller.exe) and choose 0.3.2.7 RC version to be installed.**
+**URGENT NOTICE! Automatic service location is available from 0.3.3.0, plus Export logs which makes collecting logs for the purpose of submitting issues here much easier. [download an installer](https://github.com/nicehash/NiceHashQuickMiner/releases/download/v0.3.2.6/NiceHashQuickMinerInstaller.exe) and choose 0.3.3.0 RC version to be installed.**
 
 Current expected income when using NiceHash QuickMiner:
 
