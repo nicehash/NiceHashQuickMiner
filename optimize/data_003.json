@@ -1,0 +1,66 @@
+{
+  "data_version": 3,
+  "iteration": 1,
+  "devices": [
+    { "name": "GeForce RTX 3090", "op": [
+      { "id": 2, "pt": 0, "dmc": 800, "mcc": 1065, "fm": 3, "ftg" : 58, "ftr": 94 },
+      { "id": 1, "pt": 0, "dmc": -400, "mcc": 945, "fm": 3, "ftg" : 58, "ftr": 94 }
+    ]},
+    { "name": "GeForce RTX 3080", "op": [
+      { "id": 2, "pt": 0, "dmc": 900, "mcc": 1080, "fm": 3, "ftg" : 58, "ftr": 94 },
+      { "id": 1, "pt": 0, "dmc": 400, "mcc": 975, "fm": 3, "ftg" : 58, "ftr": 94 }
+    ]},
+    { "name": "GeForce RTX 3070", "op": [
+      { "id": 2, "pt": 0, "dmc": 1150, "mcc": 1050, "fm": 2, "ftg" : 58 },
+      { "id": 1, "pt": 0, "dmc": 900, "mcc": 810, "fm": 2, "ftg" : 58 }
+    ]},
+    { "name": "GeForce RTX 3060 Ti", "op": [
+      { "id": 2, "pt": 0, "dmc": 1150, "mcc": 1350, "fm": 2, "ftg" : 58 },
+      { "id": 1, "pt": 0, "dmc": 750, "mcc": 1320, "fm": 2, "ftg" : 58 }
+    ]},
+    { "name": "GeForce RTX 2080 Ti", "op": [
+      { "id": 2, "pt": 0, "dmc": 900, "mcc": 1050, "fm": 2, "ftg" : 58 },
+      { "id": 1, "pt": 0, "dmc": 600, "mcc": 990, "fm": 2, "ftg" : 58 }
+    ]},
+    { "name": "GeForce RTX 2080 SUPER", "op": [
+      { "id": 2, "pt": 0, "dmc": 900, "mcc": 1200, "fm": 2, "ftg" : 58 },
+      { "id": 1, "pt": 0, "dmc": 600, "mcc": 1080, "fm": 2, "ftg" : 58 }
+    ]},
+    { "name": "GeForce RTX 2080", "op": [
+      { "id": 2, "pt": 0, "dmc": 900, "mcc": 1020, "fm": 2, "ftg" : 58 },
+      { "id": 1, "pt": 0, "dmc": 600, "mcc": 990, "fm": 2, "ftg" : 58 }
+    ]},
+    { "name": "GeForce RTX 2070 SUPER", "op": [
+      { "id": 2, "pt": 0, "dmc": 900, "mcc": 990, "fm": 2, "ftg" : 58 },
+      { "id": 1, "pt": 0, "dmc": 600, "mcc": 960, "fm": 2, "ftg" : 58 }
+    ]},
+    { "name": "GeForce RTX 2070", "op": [
+      { "id": 2, "pt": 0, "dmc": 900, "mcc": 1020, "fm": 2, "ftg" : 58 },
+      { "id": 1, "pt": 0, "dmc": 600, "mcc": 930, "fm": 2, "ftg" : 58 }
+    ]},
+    { "name": "GeForce RTX 2060 SUPER", "op": [
+      { "id": 2, "pt": 0, "dmc": 800, "mcc": 1200, "fm": 2, "ftg" : 58 },
+      { "id": 1, "pt": 0, "dmc": 600, "mcc": 1080, "fm": 2, "ftg" : 58 }
+    ]},
+    { "name": "GeForce RTX 2060", "op": [
+      { "id": 2, "pt": 0, "dmc": 900, "mcc": 1050, "fm": 2, "ftg" : 58 },
+      { "id": 1, "pt": 0, "dmc": 600, "mcc": 990, "fm": 2, "ftg" : 58 }
+    ]},
+    { "name": "GeForce GTX 1660 Ti", "op": [
+      { "id": 2, "pt": 0, "dmc": 900, "mcc": 900, "fm": 2, "ftg" : 58 },
+      { "id": 1, "pt": 0, "dmc": 600, "mcc": 930, "fm": 2, "ftg" : 58 }
+    ]},
+    { "name": "GeForce GTX 1660 SUPER", "op": [
+      { "id": 2, "pt": 0, "dmc": -505, "mcc": 960, "fm": 2, "ftg" : 58 },
+      { "id": 1, "pt": 0, "dmc": -705, "mcc": 870, "fm": 2, "ftg" : 58 }
+    ]},
+    { "name": "GeForce GTX 1660", "op": [
+      { "id": 2, "pt": 0, "dmc": 600, "mcc": 1230, "fm": 2, "ftg" : 58 },
+      { "id": 1, "pt": 0, "dmc": 400, "mcc": 1200, "fm": 2, "ftg" : 58 }
+    ]},
+    { "name": "TITAN V", "op": [
+      { "id": 2, "pt": 0, "dmc": 50, "mcc": 1020, "fm": 2, "ftg" : 58 },
+      { "id": 1, "pt": 0, "dmc": 0, "mcc": 930, "fm": 2, "ftg" : 58 }
+    ]}
+  ]
+}
