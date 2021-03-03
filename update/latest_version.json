@@ -1,7 +1,7 @@
 {
-  "version_str":"0.3.3.0_RC",
-  "version":30300,
-  "package_sha256":"7D1C40845CEA87CBD0F1379A7F3C9581637D01E850C9B207EB941772DA5DE0B5",
+  "version_str":"0.4.0.1_RC",
+  "version":40001,
+  "package_sha256":"6532BC0625137B420A466D20C1AF5C4409027B2964E97DFEF4BC0A0613255AC2",
   "stable":{
     "version_str":"0.3.2.6",
     "version":30206,
