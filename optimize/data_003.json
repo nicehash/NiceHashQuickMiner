@@ -11,7 +11,7 @@
       { "id": 1, "pt": 0, "dmc": 400, "mcc": 975, "fm": 3, "ftg" : 62, "ftr": 98 }
     ]},
     { "name": "GeForce RTX 3070", "op": [
-      { "id": 2, "pt": 0, "dmc": 1150, "mcc": 1050, "fm": 3, "ftg" : 58, "ftr": 74 },
+      { "id": 2, "pt": 0, "dmc": 1170, "mcc": 1065, "fm": 3, "ftg" : 58, "ftr": 74 },
       { "id": 1, "pt": 0, "dmc": 900, "mcc": 810, "fm": 3, "ftg" : 62, "ftr": 78 }
     ]},
     { "name": "GeForce RTX 3060 Ti", "op": [
