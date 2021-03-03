@@ -11,7 +11,7 @@
       { "id": 1, "ptype": 0, "delta_mem_clock": 400, "max_core_clock": 975, "fan_mode": 3, "fan_targ_gpu_temp" : 58, "fan_targ_vram_temp": 94 }
     ]},
     { "name": "GeForce RTX 3070", "optimize_profiles": [
-      { "id": 2, "ptype": 0, "delta_mem_clock": 1150, "max_core_clock": 1050, "fan_mode": 2, "fan_targ_gpu_temp" : 58 },
+      { "id": 2, "ptype": 0, "delta_mem_clock": 1170, "max_core_clock": 1065, "fan_mode": 2, "fan_targ_gpu_temp" : 58 },
       { "id": 1, "ptype": 0, "delta_mem_clock": 900, "max_core_clock": 810, "fan_mode": 2, "fan_targ_gpu_temp" : 58 }
     ]},
     { "name": "GeForce RTX 3060 Ti", "optimize_profiles": [
