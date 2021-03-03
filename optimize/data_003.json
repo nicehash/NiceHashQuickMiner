@@ -22,6 +22,10 @@
       { "id": 2, "pt": 0, "dmc": 1100, "mcc": 1140, "fm": 3, "ftg" : 58, "ftr": 74 },
       { "id": 1, "pt": 0, "dmc": 700, "mcc": 1110, "fm": 3, "ftg" : 62, "ftr": 78 }
     ]},
+    { "name": "TITAN RTX", "op": [
+      { "id": 2, "pt": 0, "dmc": 1100, "mcc": 1020, "fm": 3, "ftg" : 58, "ftr": 68 },
+      { "id": 1, "pt": 0, "dmc": 600, "mcc": 960, "fm": 3, "ftg" : 62, "ftr": 72 }
+    ]},
     { "name": "GeForce RTX 2080 Ti", "op": [
       { "id": 2, "pt": 0, "dmc": 900, "mcc": 1050, "fm": 3, "ftg" : 58, "ftr": 74 },
       { "id": 1, "pt": 0, "dmc": 600, "mcc": 990, "fm": 3, "ftg" : 62, "ftr": 78 }
