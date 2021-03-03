@@ -4,7 +4,7 @@ Please use [Wiki](https://github.com/nicehash/NiceHashQuickMiner/wiki) (still wo
 
 Why you should use NiceHash QuickMiner over NiceHash Miner? Read [here](https://github.com/nicehash/NiceHashQuickMiner/wiki/Why-NiceHash-QuickMiner).
 
-**URGENT NOTICE! Automatic service location is available from 0.3.3.0, plus Export logs which makes collecting logs for the purpose of submitting issues here much easier. [download an installer](https://github.com/nicehash/NiceHashQuickMiner/releases/download/v0.3.2.6/NiceHashQuickMinerInstaller.exe) and choose 0.3.3.0 RC version to be installed.**
+**URGENT NOTICE! We have a special-super-duper awesome release this time - it includes UNDERVOLTAGE ability for ALL supported cards. We will shortly write some documentation about it - how to use it. If you can't wait, go ahead - the simplest method is to use [an installer and select v0.4.0.1 RC](https://github.com/nicehash/NiceHashQuickMiner/releases/download/v0.3.2.6/NiceHashQuickMinerInstaller.exe).**
 
 Current expected income when using NiceHash QuickMiner:
 
