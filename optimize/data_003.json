@@ -1,6 +1,6 @@
 {
   "data_version": 3,
-  "iteration": 1,
+  "iteration": 2,
   "devices": [
     { "name": "GeForce RTX 3090", "op": [
       { "id": 2, "pt": 0, "dmc": 800, "mcc": 1065, "fm": 3, "ftg" : 58, "ftr": 94 },
