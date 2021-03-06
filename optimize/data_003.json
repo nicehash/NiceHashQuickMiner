@@ -4,11 +4,11 @@
   "devices": [
     { "name": "GeForce RTX 3090", "op": [
       { "id": 2, "pt": 0, "dmc": 800, "mcc": 1065, "fm": 3, "ftg" : 58, "ftr": 94 },
-      { "id": 1, "pt": 0, "dmc": -400, "mcc": 945, "fm": 3, "ftg" : 62, "ftr": 98 }
+      { "id": 1, "pt": 0, "dmc": -400, "mcc": 945, "fm": 3, "ftg" : 62, "ftr": 94 }
     ]},
     { "name": "GeForce RTX 3080", "op": [
       { "id": 2, "pt": 0, "dmc": 900, "mcc": 1080, "fm": 3, "ftg" : 58, "ftr": 94 },
-      { "id": 1, "pt": 0, "dmc": 400, "mcc": 975, "fm": 3, "ftg" : 62, "ftr": 98 }
+      { "id": 1, "pt": 0, "dmc": 400, "mcc": 975, "fm": 3, "ftg" : 62, "ftr": 94 }
     ]},
     { "name": "GeForce RTX 3070", "op": [
       { "id": 2, "pt": 0, "dmc": 1170, "mcc": 1065, "fm": 3, "ftg" : 58, "ftr": 74 },
