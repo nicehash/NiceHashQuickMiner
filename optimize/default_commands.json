@@ -1,0 +1,37 @@
+[{
+		"time": 0,
+		"commands": []
+	},{
+		"time": 20,
+		"commands": [{
+				"id": 1,
+				"method": "workers.reset.all",
+				"params": []
+			}]
+	}, {
+		"time": 30,
+		"loop": 30,
+		"commands": [{
+				"id": 1,
+				"method": "worker.print.efficiencies",
+				"params": []
+			}]
+	}, {
+		"time": 1,
+		"loop": 4,
+		"commands": [{
+				"id": 1,
+				"method": "devices.smartfan.exec",
+				"params": []
+			}]
+	}, {
+		"event": "on_quit",
+		"commands": []
+	}, {
+		"event": "on_quickminer.start",
+		"commands": []
+	}, {
+		"event": "on_quickminer.stop",
+		"commands": []
+	}
+]
