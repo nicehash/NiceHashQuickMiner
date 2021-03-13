@@ -4,7 +4,9 @@ Please use [Wiki](https://github.com/nicehash/NiceHashQuickMiner/wiki) (still wo
 
 Why you should use NiceHash QuickMiner over NiceHash Miner? Read [here](https://github.com/nicehash/NiceHashQuickMiner/wiki/Why-NiceHash-QuickMiner).
 
-**URGENT NOTICE! Power related issue should be gone! If you ever had these issues, try latest version - [download installer and choose v0.4.1.3](https://github.com/nicehash/NiceHashQuickMiner/releases/download/v0.4.1.3/NiceHashQuickMinerInstaller.exe).**
+**URGENT NOTICE! If you have issues with NiceHash QuickMiner not working (properly), then [read here - the problem is UI bug of Windows Defender](https://github.com/nicehash/NiceHashQuickMiner/issues/204).**
+
+**Power related issue should be gone! If you ever had these issues, try latest version - [download installer and choose v0.4.1.3](https://github.com/nicehash/NiceHashQuickMiner/releases/download/v0.4.1.3/NiceHashQuickMinerInstaller.exe).**
 
 Current expected income when using NiceHash QuickMiner:
 
