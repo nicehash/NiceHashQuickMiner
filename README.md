@@ -21,7 +21,6 @@ Supported hardware:
 
 NiceHash QuickMiner contains latest version of [Excavator](https://github.com/nicehash/excavator) bundled with:
 * watchdog (NiceHashQuickMiner.exe),
-* autostart service (nhqmservice.exe),
 * OCTune and
 * (optional) XMRig CPU Miner (xmrig.exe).
 
