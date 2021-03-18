@@ -47,7 +47,7 @@
       { "id": 1, "pt": 0, "dmc": 600, "mcc": 930, "fm": 3, "ftg" : 62, "ftr": 78 }
     ]},
     { "name": "GeForce RTX 2060 SUPER", "op": [
-      { "id": 2, "pt": 0, "dmc": 800, "mcc": 1200, "fm": 3, "ftg" : 58, "ftr": 74 },
+      { "id": 2, "pt": 0, "dmc": 900, "mcc": 1200, "fm": 3, "ftg" : 58, "ftr": 74 },
       { "id": 1, "pt": 0, "dmc": 600, "mcc": 1080, "fm": 3, "ftg" : 62, "ftr": 78 }
     ]},
     { "name": "GeForce RTX 2060", "op": [
