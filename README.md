@@ -6,7 +6,7 @@ Why you should use NiceHash QuickMiner over NiceHash Miner? Read [here](https://
 
 **URGENT NOTICE! If you have issues with NiceHash QuickMiner not working (properly), then [read here - the problem is UI bug of Windows Defender](https://github.com/nicehash/NiceHashQuickMiner/issues/204).**
 
-**Latest version with ability to set memory timings - say goodbye to EthEnlargementPill - [download v0.4.2.0_RC](https://github.com/nicehash/NiceHashQuickMiner/releases/download/v0.4.2.0_RC/NiceHash_QuickMiner_v0.4.2.0_RC.zip).**
+**Latest version with ability to set memory timings - say goodbye to EthEnlargementPill - [download v0.4.2.0_RC](https://github.com/nicehash/NiceHashQuickMiner/releases/download/v0.4.2.0_RC/NiceHash_QuickMiner_v0.4.2.0_RC.zip).** Documentation regarding memory timings will be available here (it is currently being built): https://github.com/nicehash/NiceHashQuickMiner/wiki/Memory-timings
 
 Current expected income when using NiceHash QuickMiner:
 
