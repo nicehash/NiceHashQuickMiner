@@ -1,0 +1,78 @@
+{
+  "data_version": 4,
+  "iteration": 1,
+  "devices": [
+    { "name": "GeForce RTX 3090", "op": [
+      { "id": 2, "pt": 0, "dmc": 800, "mcc": 1065, "fm": 3, "ftg" : 58, "ftr": 94 },
+      { "id": 1, "pt": 0, "dmc": -400, "mcc": 945, "fm": 3, "ftg" : 62, "ftr": 94 }
+    ]},
+    { "name": "GeForce RTX 3080", "op": [
+      { "id": 2, "pt": 0, "dmc": 900, "mcc": 1080, "fm": 3, "ftg" : 58, "ftr": 94 },
+      { "id": 1, "pt": 0, "dmc": 400, "mcc": 975, "fm": 3, "ftg" : 62, "ftr": 94 }
+    ]},
+    { "name": "GeForce RTX 3070", "op": [
+      { "id": 2, "pt": 0, "dmc": 1170, "mcc": 1065, "fm": 3, "ftg" : 58, "ftr": 74 },
+      { "id": 1, "pt": 0, "dmc": 900, "mcc": 810, "fm": 3, "ftg" : 62, "ftr": 78 }
+    ]},
+    { "name": "GeForce RTX 3060 Ti", "op": [
+      { "id": 2, "pt": 0, "dmc": 1150, "mcc": 1350, "fm": 3, "ftg" : 58, "ftr": 74 },
+      { "id": 1, "pt": 0, "dmc": 750, "mcc": 1320, "fm": 3, "ftg" : 62, "ftr": 78 }
+    ]},
+    { "name": "GeForce RTX 3060", "op": [
+      { "id": 2, "pt": 0, "dmc": 1100, "mcc": 1500, "fm": 3, "ftg" : 58, "ftr": 74 },
+      { "id": 1, "pt": 0, "dmc": 700, "mcc": 1440, "fm": 3, "ftg" : 62, "ftr": 78 }
+    ]},
+    { "name": "TITAN RTX", "op": [
+      { "id": 2, "pt": 0, "dmc": 1100, "mcc": 1020, "fm": 3, "ftg" : 58, "ftr": 68 },
+      { "id": 1, "pt": 0, "dmc": 600, "mcc": 960, "fm": 3, "ftg" : 62, "ftr": 72 }
+    ]},
+    { "name": "GeForce RTX 2080 Ti", "op": [
+      { "id": 2, "pt": 0, "dmc": 1000, "mcc": 1050, "fm": 3, "ftg" : 58, "ftr": 74 },
+      { "id": 1, "pt": 0, "dmc": 600, "mcc": 990, "fm": 3, "ftg" : 62, "ftr": 78 }
+    ]},
+    { "name": "GeForce RTX 2080 SUPER", "op": [
+      { "id": 2, "pt": 0, "dmc": 900, "mcc": 1200, "fm": 3, "ftg" : 58, "ftr": 74 },
+      { "id": 1, "pt": 0, "dmc": 600, "mcc": 1080, "fm": 3, "ftg" : 62, "ftr": 78 }
+    ]},
+    { "name": "GeForce RTX 2080", "op": [
+      { "id": 2, "pt": 0, "dmc": 900, "mcc": 1020, "fm": 3, "ftg" : 58, "ftr": 74 },
+      { "id": 1, "pt": 0, "dmc": 600, "mcc": 990, "fm": 3, "ftg" : 62, "ftr": 78 }
+    ]},
+    { "name": "GeForce RTX 2070 SUPER", "op": [
+      { "id": 2, "pt": 0, "dmc": 900, "mcc": 990, "fm": 3, "ftg" : 58, "ftr": 74 },
+      { "id": 1, "pt": 0, "dmc": 600, "mcc": 960, "fm": 3, "ftg" : 62, "ftr": 78 }
+    ]},
+    { "name": "GeForce RTX 2070", "op": [
+      { "id": 2, "pt": 0, "dmc": 900, "mcc": 1020, "fm": 3, "ftg" : 58, "ftr": 74 },
+      { "id": 1, "pt": 0, "dmc": 600, "mcc": 930, "fm": 3, "ftg" : 62, "ftr": 78 }
+    ]},
+    { "name": "GeForce RTX 2060 SUPER", "op": [
+      { "id": 2, "pt": 0, "dmc": 900, "mcc": 1200, "fm": 3, "ftg" : 58, "ftr": 74 },
+      { "id": 1, "pt": 0, "dmc": 600, "mcc": 1080, "fm": 3, "ftg" : 62, "ftr": 78 }
+    ]},
+    { "name": "GeForce RTX 2060", "op": [
+      { "id": 2, "pt": 0, "dmc": 900, "mcc": 1050, "fm": 3, "ftg" : 58, "ftr": 74 },
+      { "id": 1, "pt": 0, "dmc": 600, "mcc": 990, "fm": 3, "ftg" : 62, "ftr": 78 }
+    ]},
+    { "name": "GeForce GTX 1660 Ti", "op": [
+      { "id": 2, "pt": 0, "dmc": 900, "mcc": 900, "fm": 3, "ftg" : 58, "ftr": 74 },
+      { "id": 1, "pt": 0, "dmc": 600, "mcc": 930, "fm": 3, "ftg" : 62, "ftr": 78 }
+    ]},
+    { "name": "GeForce GTX 1660 SUPER", "op": [
+      { "id": 2, "pt": 0, "dmc": -505, "mcc": 960, "fm": 3, "ftg" : 58, "ftr": 74 },
+      { "id": 1, "pt": 0, "dmc": -705, "mcc": 870, "fm": 3, "ftg" : 62, "ftr": 78 }
+    ]},
+    { "name": "GeForce GTX 1660", "op": [
+      { "id": 2, "pt": 0, "dmc": 600, "mcc": 1230, "fm": 3, "ftg" : 58, "ftr": 74 },
+      { "id": 1, "pt": 0, "dmc": 400, "mcc": 1200, "fm": 3, "ftg" : 62, "ftr": 78 }
+    ]},
+    { "name": "TITAN V", "op": [
+      { "id": 2, "pt": 0, "dmc": 15, "mcc": 930, "fm": 2, "ftg" : 58 },
+      { "id": 1, "pt": 0, "dmc": 0, "mcc": 930, "fm": 2, "ftg" : 62 }
+    ]},
+    { "name": "GeForce GTX 1080 Ti", "op": [
+      { "id": 2, "pt": 1, "dmc": -50, "dcc": 0, "fm": 2, "ftg" : 58, "mt": [["FAW","16"],["RRD","4"]] },
+      { "id": 1, "pt": 1, "dmc": -20, "dcc": 0, "fm": 2, "ftg" : 62, "mt": [["FAW","20"],["RRD","5"]] }
+    ]}
+  ]
+}
