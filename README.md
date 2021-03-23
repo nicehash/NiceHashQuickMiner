@@ -6,7 +6,7 @@ Why you should use NiceHash QuickMiner over NiceHash Miner? Read [here](https://
 
 **URGENT NOTICE! If you have issues with NiceHash QuickMiner not working (properly), then [read here - the problem is UI bug of Windows Defender](https://github.com/nicehash/NiceHashQuickMiner/issues/204).**
 
-**Latest version with ability to set memory timings - say goodbye to EthEnlargementPill - [download v0.4.2.1_RC now with support in OCTune](https://github.com/nicehash/NiceHashQuickMiner/releases/download/v0.4.2.1_RC/NiceHash_QuickMiner_v0.4.2.1_RC.zip).** Documentation regarding memory timings will be available here (it is currently being built): https://github.com/nicehash/NiceHashQuickMiner/wiki/Memory-timings
+**Latest version brings OPTIMIZE for GTX 1080 Ti and GTX 1080 - [download v0.4.3.0_RC now try it out](https://github.com/nicehash/NiceHashQuickMiner/releases/download/v0.4.3.0_RC/NiceHash_QuickMiner_v0.4.3.0_RC.zip).** Compare your results with [our findings](https://github.com/nicehash/NiceHashQuickMiner/wiki/One-click-Optimizations#what-can-i-expect-from-optimizations) and open [an issue](https://github.com/nicehash/NiceHashQuickMiner/issues) if your results are drastically different.
 
 Current expected income when using NiceHash QuickMiner:
 
