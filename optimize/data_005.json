@@ -1,6 +1,7 @@
 {
   "data_version": 5,
   "iteration": 1,
+  "op_names": [{ "id": 1, "name": "Lite" }, { "id": 2, "name": "Medium" }, { "id": 11, "name": "Efficient" }],
   "devices": [
     { "name": "GeForce RTX 3090", "op": [
       { "id": 2, "pt": 0, "dmc": 800, "mcc": 1065, "fm": 3, "ftg" : 58, "ftr": 94 },
