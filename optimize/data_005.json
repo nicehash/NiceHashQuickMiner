@@ -92,7 +92,7 @@
     ]},
     { "name": "GeForce GTX 1070", "op": [
       { "id": 11, "pt": 2, "dmc": -100, "mcc": 1800, "mcv": 850, "fm": 2, "ftg" : 62, "mt": [] },
-      { "id": 2, "pt": 1, "dmc": 300, "dcc": 90, "pl": 140, "fm": 2, "ftg" : 58, "mt": [] },
+      { "id": 2, "pt": 1, "dmc": 300, "dcc": 45, "pl": 140, "fm": 2, "ftg" : 58, "mt": [] },
       { "id": 1, "pt": 1, "dmc": 0, "dcc": 0, "pl": 120, "fm": 2, "ftg" : 62, "mt": [] }
     ]},
     { "name": "GeForce GTX 1060 6GB", "op": [
