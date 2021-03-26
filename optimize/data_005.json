@@ -1,7 +1,7 @@
 {
   "data_version": 5,
   "iteration": 1,
-  "op_names": [{ "id": 1, "name": "Lite" }, { "id": 2, "name": "Medium" }, { "id": 11, "name": "Efficient" }],
+  "op_names": [{ "id": 1, "name": "Lite" }, { "id": 2, "name": "Medium" }, { "id": 11, "name": "Efficient" }, { "id": 12, "name": "EfficientLow" }],
   "devices": [
     { "name": "GeForce RTX 3090", "op": [
       { "id": 2, "pt": 0, "dmc": 800, "mcc": 1065, "fm": 3, "ftg" : 58, "ftr": 94 },
@@ -91,6 +91,7 @@
       { "id": 1, "pt": 1, "dmc": 0, "dcc": 0, "pl": 120, "fm": 2, "ftg" : 62, "mt": [] }
     ]},
     { "name": "GeForce GTX 1060 6GB", "op": [
+      { "id": 12, "pt": 2, "dmc": -25, "mcc": 1485, "mcv": 750, "fm": 2, "ftg" : 62, "mt": [["FAW","28"],["RRD","7"],["REFRESH","7"],["REFRESH_LO","3"]] },
       { "id": 11, "pt": 2, "dmc": 600, "mcc": 1800, "mcv": 850, "fm": 2, "ftg" : 62, "mt": [["FAW","28"],["RRD","7"],["REFRESH","7"],["REFRESH_LO","3"]] },
       { "id": 2, "pt": 1, "dmc": 600, "dcc": 45, "pl": 90, "fm": 2, "ftg" : 58, "mt": [["FAW","28"],["RRD","7"],["REFRESH","7"],["REFRESH_LO","3"]] },
       { "id": 1, "pt": 1, "dmc": 300, "dcc": 0, "pl": 80, "fm": 2, "ftg" : 62, "mt": [] }
