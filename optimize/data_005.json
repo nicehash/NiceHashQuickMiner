@@ -90,7 +90,7 @@
       { "id": 1, "pt": 1, "dmc": 0, "dcc": 0, "pl": 120, "fm": 2, "ftg" : 62, "mt": [] }
     ]},
     { "name": "GeForce GTX 1060 6GB", "op": [
-      { "id": 11, "pt": 2, "dmc": 600, "mcc": 1800, "mcv": 800, "fm": 2, "ftg" : 62, "mt": [["FAW","28"],["RRD","7"],["REFRESH","7"],["REFRESH_LO","3"]] },
+      { "id": 11, "pt": 2, "dmc": 600, "mcc": 1800, "mcv": 825, "fm": 2, "ftg" : 62, "mt": [["FAW","28"],["RRD","7"],["REFRESH","7"],["REFRESH_LO","3"]] },
       { "id": 2, "pt": 1, "dmc": 600, "dcc": 45, "pl": 90, "fm": 2, "ftg" : 58, "mt": [["FAW","28"],["RRD","7"],["REFRESH","7"],["REFRESH_LO","3"]] },
       { "id": 1, "pt": 1, "dmc": 300, "dcc": 0, "pl": 80, "fm": 2, "ftg" : 62, "mt": [] }
     ]}
