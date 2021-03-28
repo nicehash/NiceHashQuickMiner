@@ -12,7 +12,7 @@ Current expected income when using NiceHash QuickMiner:
 
 <a href="https://www.nicehash.com/profitability-calculator" target="_blank">![Profitability list](https://imagegen.nicehash.com/getimg.png?t=45747563)</a>
 
-For news, updates and important info regarding NiceHash QuickMiner, follow us on twitter: https://twitter.com/HdjeZo
+For news, updates and important info regarding NiceHash QuickMiner, follow us on twitter: https://twitter.com/NHdjeZo
 
 Supported hardware:
 * NVIDIA GeForce GTX 1000 series with min. 6 GB of GDDRAM,
