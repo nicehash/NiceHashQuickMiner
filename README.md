@@ -4,7 +4,7 @@ Please use [Wiki](https://github.com/nicehash/NiceHashQuickMiner/wiki) (still wo
 
 Why you should use NiceHash QuickMiner over NiceHash Miner? Read [here](https://github.com/nicehash/NiceHashQuickMiner/wiki/Why-NiceHash-QuickMiner).
 
-**URGENT NOTICE! If you have issues with NiceHash QuickMiner not working (properly), then [read here - the problem is UI bug of Windows Defender](https://github.com/nicehash/NiceHashQuickMiner/issues/204).**
+**URGENT NOTICE! It looks like latest NVIDIA drivers (461.92 and 491.75, perhaps others) have massive memory leak bugs in NVML library. [Read more about it here.](https://github.com/nicehash/NiceHashQuickMiner/issues/292)**
 
 **Did you want more OPTIMIZATION profiles? Today your wish come true. Be patient please, we are slowly adding more and more of them - [download v0.4.4.0_RC now and get access to High and Efficient One-Click-OPTIMIZATION](https://github.com/nicehash/NiceHashQuickMiner/releases/download/v0.4.4.0_RC/NiceHash_QuickMiner_v0.4.4.0_RC.zip).** Compare your results with [our findings](https://github.com/nicehash/NiceHashQuickMiner/wiki/One-click-Optimizations#what-can-i-expect-from-optimizations) and open [an issue](https://github.com/nicehash/NiceHashQuickMiner/issues) if your results are drastically different.
 
