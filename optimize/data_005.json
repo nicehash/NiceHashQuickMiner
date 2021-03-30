@@ -60,7 +60,8 @@
       { "id": 1, "pt": 0, "dmc": 600, "mcc": 1080, "fm": 3, "ftg" : 62, "ftr": 78 }
     ]},
     { "name": "GeForce RTX 2060", "op": [
-      { "id": 2, "pt": 0, "dmc": 900, "mcc": 1050, "fm": 3, "ftg" : 58, "ftr": 74 },
+      { "id": 3, "pt": 0, "dmc": 1000, "mcc": 1020, "fm": 3, "ftg" : 58, "ftr": 74 },
+      { "id": 2, "pt": 0, "dmc": 800, "mcc": 1020, "fm": 3, "ftg" : 58, "ftr": 74 },
       { "id": 1, "pt": 0, "dmc": 600, "mcc": 990, "fm": 3, "ftg" : 62, "ftr": 78 }
     ]},
     { "name": "GeForce GTX 1660 Ti", "op": [
