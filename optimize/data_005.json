@@ -24,7 +24,8 @@
       { "id": 1, "pt": 0, "dmc": 750, "mcc": 1320, "fm": 3, "ftg" : 62, "ftr": 78 }
     ]},
     { "name": "GeForce RTX 3060", "op": [
-      { "id": 2, "pt": 0, "dmc": 1050, "mcc": 1500, "fm": 3, "ftg" : 58, "ftr": 74 },
+      { "id": 3, "pt": 0, "dmc": 1200, "mcc": 1560, "fm": 3, "ftg" : 58, "ftr": 74 },
+      { "id": 2, "pt": 0, "dmc": 1000, "mcc": 1500, "fm": 3, "ftg" : 58, "ftr": 74 },
       { "id": 1, "pt": 0, "dmc": 700, "mcc": 1440, "fm": 3, "ftg" : 62, "ftr": 78 }
     ]},
     { "name": "TITAN RTX", "op": [
