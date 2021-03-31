@@ -34,11 +34,12 @@
       { "id": 1, "pt": 0, "dmc": 600, "mcc": 960, "fm": 3, "ftg" : 62, "ftr": 72 }
     ]},
     { "name": "GeForce RTX 2080 Ti", "op": [
-      { "id": 3, "pt": 0, "dmc": 1200, "mcc": 1080, "fm": 3, "ftg" : 58, "ftr": 74 },
-      { "id": 2, "pt": 0, "dmc": 1000, "mcc": 1050, "fm": 3, "ftg" : 58, "ftr": 74 },
+      { "id": 3, "pt": 0, "dmc": 1100, "mcc": 1080, "fm": 3, "ftg" : 58, "ftr": 74 },
+      { "id": 2, "pt": 0, "dmc": 900, "mcc": 1050, "fm": 3, "ftg" : 58, "ftr": 74 },
       { "id": 1, "pt": 0, "dmc": 600, "mcc": 990, "fm": 3, "ftg" : 62, "ftr": 78 }
     ]},
     { "name": "GeForce RTX 2080 SUPER", "op": [
+      { "id": 3, "pt": 0, "dmc": 1100, "mcc": 1200, "fm": 3, "ftg" : 58, "ftr": 74 },
       { "id": 2, "pt": 0, "dmc": 900, "mcc": 1200, "fm": 3, "ftg" : 58, "ftr": 74 },
       { "id": 1, "pt": 0, "dmc": 600, "mcc": 1080, "fm": 3, "ftg" : 62, "ftr": 78 }
     ]},
@@ -53,11 +54,13 @@
       { "id": 1, "pt": 0, "dmc": 600, "mcc": 960, "fm": 3, "ftg" : 62, "ftr": 78 }
     ]},
     { "name": "GeForce RTX 2070", "op": [
-      { "id": 2, "pt": 0, "dmc": 900, "mcc": 1020, "fm": 3, "ftg" : 58, "ftr": 74 },
+      { "id": 3, "pt": 0, "dmc": 1000, "mcc": 1050, "fm": 3, "ftg" : 58, "ftr": 74 },
+      { "id": 2, "pt": 0, "dmc": 800, "mcc": 1020, "fm": 3, "ftg" : 58, "ftr": 74 },
       { "id": 1, "pt": 0, "dmc": 600, "mcc": 930, "fm": 3, "ftg" : 62, "ftr": 78 }
     ]},
     { "name": "GeForce RTX 2060 SUPER", "op": [
-      { "id": 2, "pt": 0, "dmc": 900, "mcc": 1200, "fm": 3, "ftg" : 58, "ftr": 74 },
+      { "id": 3, "pt": 0, "dmc": 1000, "mcc": 1290, "fm": 3, "ftg" : 58, "ftr": 74 },
+      { "id": 2, "pt": 0, "dmc": 800, "mcc": 1200, "fm": 3, "ftg" : 58, "ftr": 74 },
       { "id": 1, "pt": 0, "dmc": 600, "mcc": 1080, "fm": 3, "ftg" : 62, "ftr": 78 }
     ]},
     { "name": "GeForce RTX 2060", "op": [
@@ -66,9 +69,9 @@
       { "id": 1, "pt": 0, "dmc": 600, "mcc": 990, "fm": 3, "ftg" : 62, "ftr": 78 }
     ]},
     { "name": "GeForce GTX 1660 Ti", "op": [
-      { "id": 3, "pt": 0, "dmc": 1100, "mcc": 930, "fm": 3, "ftg" : 58, "ftr": 74 },
-      { "id": 2, "pt": 0, "dmc": 900, "mcc": 900, "fm": 3, "ftg" : 58, "ftr": 74 },
-      { "id": 1, "pt": 0, "dmc": 600, "mcc": 930, "fm": 3, "ftg" : 62, "ftr": 78 }
+      { "id": 3, "pt": 0, "dmc": 1000, "mcc": 930, "fm": 3, "ftg" : 58, "ftr": 74 },
+      { "id": 2, "pt": 0, "dmc": 800, "mcc": 810, "fm": 3, "ftg" : 58, "ftr": 74 },
+      { "id": 1, "pt": 0, "dmc": 600, "mcc": 720, "fm": 3, "ftg" : 62, "ftr": 78 }
     ]},
     { "name": "GeForce GTX 1660 SUPER", "op": [
       { "id": 11, "pt": 2, "dmc": -505, "mcc": 960, "mcv": 625, "fm": 3, "ftg" : 62, "ftr": 78, "mt": [], "rm": "Hynix" },
