@@ -8,7 +8,7 @@ Why you should use NiceHash QuickMiner over NiceHash Miner? Read [here](https://
 1. Update to the [latest non-DCH drivers](https://www.nvidia.com/download/driverResults.aspx/172060/en-us). For laptops, [download these](https://www.nvidia.com/download/driverResults.aspx/172061/en-us).
 2. Update NiceHash QuickMiner to [v0.4.5.4 RC](https://github.com/nicehash/NiceHashQuickMiner/releases/tag/v0.4.5.4_RC).
 
-**Did you want more OPTIMIZATION profiles? Today your wish come true. Be patient please, we are slowly adding more and more of them - [download v0.4.5.4_RC now and get access to High and Efficient One-Click-OPTIMIZATION](https://github.com/nicehash/NiceHashQuickMiner/releases/download/v0.4.5.4_RC/NiceHashQuickMinerInstaller.exe).** Compare your results with [our findings](https://github.com/nicehash/NiceHashQuickMiner/wiki/One-click-Optimizations#what-can-i-expect-from-optimizations) and open [an issue](https://github.com/nicehash/NiceHashQuickMiner/issues) if your results are drastically different.
+**Did you want more OPTIMIZATION profiles? Today your wish come true. Be patient please, we are slowly adding more and more of them - [download v0.4.5.4_RC now and get access to High and Efficient One-Click-OPTIMIZATION](https://github.com/nicehash/NiceHashQuickMiner/releases/download/v0.4.5.0_RC/NiceHashQuickMinerInstaller.exe).** Compare your results with [our findings](https://github.com/nicehash/NiceHashQuickMiner/wiki/One-click-Optimizations#what-can-i-expect-from-optimizations) and open [an issue](https://github.com/nicehash/NiceHashQuickMiner/issues) if your results are drastically different.
 
 Current expected income when using NiceHash QuickMiner:
 
