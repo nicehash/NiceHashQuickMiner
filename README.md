@@ -23,6 +23,8 @@ Supported hardware:
 * Intel CPUs with AVX2,
 * AMD CPUs with AVX2.
 
+If you have GeForce RTX 3060, [read here about drivers](https://github.com/nicehash/NiceHashQuickMiner/wiki/GeForce-RTX-3060).
+
 NiceHash QuickMiner contains latest version of [Excavator](https://github.com/nicehash/excavator) bundled with:
 * watchdog (NiceHashQuickMiner.exe),
 * OCTune and
