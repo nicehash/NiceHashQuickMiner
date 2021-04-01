@@ -87,9 +87,9 @@
       { "id": 1, "pt": 0, "dmc": 400, "mcc": 1200, "fm": 3, "ftg" : 62, "ftr": 78 }
     ]},
     { "name": "TITAN V", "op": [
-      { "id": 3, "pt": 0, "dmc": 45, "mcc": 960, "fm": 2, "ftg" : 56 },
-      { "id": 2, "pt": 0, "dmc": 15, "mcc": 930, "fm": 2, "ftg" : 58 },
-      { "id": 1, "pt": 0, "dmc": 0, "mcc": 930, "fm": 2, "ftg" : 62 }
+      { "id": 3, "pt": 0, "dmc": 45, "mcc": 960, "fm": 3, "ftg" : 56, "ftr": 70 },
+      { "id": 2, "pt": 0, "dmc": 15, "mcc": 930, "fm": 3, "ftg" : 58, "ftr": 74 },
+      { "id": 1, "pt": 0, "dmc": 0, "mcc": 930, "fm": 3, "ftg" : 62, "ftr": 78 }
     ]},
     { "name": "TITAN X (Pascal)", "op": [
       { "id": 12, "pt": 2, "dmc": -910, "mcc": 1560, "mcv": 800, "fm": 2, "ftg" : 62, "mt": [["FAW","16"],["RRD","4"],["REFRESH","8"],["REFRESH_LO","4"],["RD_RCD","23"],["RFC","128"]] },
