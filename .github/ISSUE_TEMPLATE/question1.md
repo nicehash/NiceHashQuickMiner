@@ -1,7 +1,7 @@
 ---
 name: Question
 about: Ask unexplained question
-title: "[QUESTION]"
+title: "[QUESTION] "
 labels: question
 assignees: ''
 
