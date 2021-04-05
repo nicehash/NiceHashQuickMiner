@@ -14,14 +14,14 @@
       { "id": 1, "pt": 0, "dmc": 400, "mcc": 975, "fm": 3, "ftg" : 62, "ftr": 94 }
     ]},
     { "name": "GeForce RTX 3070", "op": [
-      { "id": 3, "pt": 0, "dmc": 1350, "mcc": 1095, "fm": 3, "ftg" : 56, "ftr": 70 },
+      { "id": 3, "pt": 0, "dmc": 1370, "mcc": 1110, "fm": 3, "ftg" : 56, "ftr": 70 },
       { "id": 2, "pt": 0, "dmc": 1170, "mcc": 1065, "fm": 3, "ftg" : 58, "ftr": 74 },
       { "id": 1, "pt": 0, "dmc": 900, "mcc": 810, "fm": 3, "ftg" : 62, "ftr": 78 }
     ]},
     { "name": "GeForce RTX 3060 Ti", "op": [
-      { "id": 3, "pt": 0, "dmc": 1350, "mcc": 1410, "fm": 3, "ftg" : 56, "ftr": 70 },
-      { "id": 2, "pt": 0, "dmc": 1150, "mcc": 1350, "fm": 3, "ftg" : 58, "ftr": 74 },
-      { "id": 1, "pt": 0, "dmc": 750, "mcc": 1320, "fm": 3, "ftg" : 62, "ftr": 78 }
+      { "id": 3, "pt": 0, "dmc": 1320, "mcc": 1410, "fm": 3, "ftg" : 56, "ftr": 70 },
+      { "id": 2, "pt": 0, "dmc": 1120, "mcc": 1350, "fm": 3, "ftg" : 58, "ftr": 74 },
+      { "id": 1, "pt": 0, "dmc": 800, "mcc": 1320, "fm": 3, "ftg" : 62, "ftr": 78 }
     ]},
     { "name": "GeForce RTX 3060", "op": [
       { "id": 3, "pt": 0, "dmc": 1200, "mcc": 1560, "fm": 3, "ftg" : 56, "ftr": 70 },
