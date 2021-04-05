@@ -83,13 +83,13 @@
     ]},
     { "name": "GeForce GTX 1660 SUPER", "op": [
       { "id": 11, "pt": 2, "dmc": -505, "mcc": 960, "mcv": 625, "fm": 3, "ftg" : 62, "ftr": 78, "mt": [], "rm": "Hynix" },
-      { "id": 11, "pt": 2, "dmc": 500, "mcc": 960, "mcv": 625, "fm": 3, "ftg" : 62, "ftr": 78, "mt": [], "rm": "Micron" },
+      { "id": 11, "pt": 2, "dmc": 600, "mcc": 990, "mcv": 625, "fm": 3, "ftg" : 62, "ftr": 78, "mt": [], "rm": "Micron" },
       { "id": 11, "pt": 2, "dmc": 900, "mcc": 960, "mcv": 625, "fm": 3, "ftg" : 62, "ftr": 78, "mt": [] },
       { "id": 2, "pt": 0, "dmc": -505, "mcc": 960, "fm": 3, "ftg" : 58, "ftr": 74, "rm": "Hynix" },
-      { "id": 2, "pt": 0, "dmc": 500, "mcc": 960, "fm": 3, "ftg" : 58, "ftr": 74, "rm": "Micron" },
+      { "id": 2, "pt": 0, "dmc": 400, "mcc": 870, "fm": 3, "ftg" : 58, "ftr": 74, "rm": "Micron" },
       { "id": 2, "pt": 0, "dmc": 900, "mcc": 960, "fm": 3, "ftg" : 58, "ftr": 74 },
       { "id": 1, "pt": 0, "dmc": -705, "mcc": 870, "fm": 3, "ftg" : 62, "ftr": 78, "rm": "Hynix" },
-      { "id": 1, "pt": 0, "dmc": 300, "mcc": 870, "fm": 3, "ftg" : 62, "ftr": 78, "rm": "Micron" },
+      { "id": 1, "pt": 0, "dmc": -505, "mcc": 720, "fm": 3, "ftg" : 62, "ftr": 78, "rm": "Micron" },
       { "id": 1, "pt": 0, "dmc": 600, "mcc": 870, "fm": 3, "ftg" : 62, "ftr": 78 }
     ]},
     { "name": "GeForce GTX 1660", "op": [
