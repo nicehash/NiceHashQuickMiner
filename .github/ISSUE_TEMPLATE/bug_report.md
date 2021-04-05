@@ -27,5 +27,9 @@ If applicable, add screenshots to help explain your problem.
  - Version number [e.g. 0.4.5.5]
  - RC or STABLE?
 
+**Hardware**
+Describe GPUs used and how are GPUs connected to the motherboard.
+CPU?
+
 **Additional context**
 Add any other context about the problem here.
