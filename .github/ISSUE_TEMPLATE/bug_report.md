@@ -31,5 +31,8 @@ If applicable, add screenshots to help explain your problem.
 Describe GPUs used and how are GPUs connected to the motherboard.
 CPU?
 
+**Logs**
+Activate logging first, then record event - bug - then export logs into a .zip file and attach it when submitting this issue.
+
 **Additional context**
 Add any other context about the problem here.
