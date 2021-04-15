@@ -11,7 +11,7 @@ Submit pull request and your translation may gets accepted.
 
 ### How to update language file?
 
-When new strings are added or modified, version gets increased. Using selected language (set in config file), execute `NiceHashQuickMiner.exe --language-dump`. This will dump your language file and make a console printout of missing strings. In production, missing strings are filled with English version of string. When existing strings are modified, it will be noted [here](/lang/UPDATES.md) which strings have been updated.
+When new strings are added or modified, version gets increased. Using selected language (set it in config file), execute `NiceHashQuickMiner.exe --language-dump`. This will dump your language file and make a console printout of missing strings. In production, missing strings are filled with English version of string. When existing strings are modified, it will be noted [here](/lang/UPDATES.md) which strings have been updated.
 
 Again, file must be valid JSON format (verify!) and UTF8 encoded.
 
