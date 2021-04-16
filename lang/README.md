@@ -1,6 +1,6 @@
 # NiceHash QuickMiner multilanguage support
 
-From version 0.5.0.0 NiceHash QuickMiner comes with multilanguage support.
+From [version 0.5.0.0 NiceHash QuickMiner](https://github.com/nicehash/NiceHashQuickMiner/releases/tag/v0.5.0.0_RCx) comes with multilanguage support.
 
 ### How to create language file?
 Download [dump_en.json](/lang/dump_en.json). All strings are marked with token (first element of the array). Modify only second element of the array.
