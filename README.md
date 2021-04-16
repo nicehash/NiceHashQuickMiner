@@ -4,11 +4,7 @@ Please use [Wiki](https://github.com/nicehash/NiceHashQuickMiner/wiki) (still wo
 
 Why you should use NiceHash QuickMiner over NiceHash Miner? Read [here](https://github.com/nicehash/NiceHashQuickMiner/wiki/Why-NiceHash-QuickMiner).
 
-**URGENT NOTICE! If you have any issues with NiceHash QuickMiner and recent NVIDIA drivers, then do following:**
-1. Update to the [latest non-DCH drivers](https://www.nvidia.com/download/driverResults.aspx/172060/en-us). For laptops, [download these](https://www.nvidia.com/download/driverResults.aspx/172061/en-us).
-2. Update NiceHash QuickMiner to [v0.4.7.1](https://github.com/nicehash/NiceHashQuickMiner/releases/tag/v0.4.7.1_RC).
-
-**Latest version comes with latest CUDA 11.2 Update 2. Let's hope this fixes issues of some cards having when building DAG. It is very recommended to use latest non-DCH drivers. [Download latest RC v0.4.7.1_RC from here.](https://github.com/nicehash/NiceHashQuickMiner/releases/download/v0.4.5.5/NiceHashQuickMinerInstaller.exe).**
+**Multilanguage support in latest version. [Download RC v0.5.0.1_RC from here.](https://github.com/nicehash/NiceHashQuickMiner/releases/download/v0.4.5.5/NiceHashQuickMinerInstaller.exe)**
 
 Current expected income when using NiceHash QuickMiner:
 
