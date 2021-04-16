@@ -9,6 +9,11 @@ Name your file with two letters - code of the language (eg: en, de, pt, es, ru, 
 
 Submit pull request and your translation may gets accepted.
 
+### How to test language file?
+Pick any existing language besides **en** and quit NiceHash QuickMiner. Open directory `.\langs\`. You will see language file of the chosen language. Open it and set your language file to have the same `version`. Delete chosen language file, copy in your language file and set your language file to have same name as deleted language. Start NiceHash QuickMiner - selected language will be yours.
+
+To revert this state simply delete your language file.
+
 ### How to update language file?
 
 When new strings are added or modified, version gets increased. Using selected language (set it in config file), execute:
