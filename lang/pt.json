@@ -1,4 +1,4 @@
-{	"version": 1,
+{	"version": 3,
 	"strings": [
 		["GEN00001","Sair"],
 		["GEN00002","OK"],
@@ -11,7 +11,7 @@
 		["INST0003","Descarregar e Instalar"],
 		["INST0004","Língua:"],
 		["INST0005","Pasta de instalação:"],
-    ["INST0006","Procurar"],
+    		["INST0006","Procurar"],
 		["INST0007","Tipo de versão:"],
 		["INST0008","Criar um atalho no ambiente de trabalho"],
 		["INST0009","Executar o NiceHash QuickMiner depois da instalação"],
