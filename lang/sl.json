@@ -1,4 +1,4 @@
-{	"version": 2,
+{	"version": 3,
 	"strings": [
 		["GEN00001","Izhod"],
 		["GEN00002","V redu"],
@@ -21,6 +21,7 @@
 		["INST0013","Če AV blokira datoteko, jo dovolite ali naredite izjemo, nato ponovite namestitev."],
 		["INST0014","Ni mogoče zagnati NicehashquickMiner.exe;Napaka:"],
 		["INST0015","je bil uspešno nameščen!"],
+		["INST0016","Nastavi OPTIMIZE (Lite) za vse naprave"],
 
 		["PROG0001","Nicehash QuickMiner že teče!"],
 		["PROG0002","Zaznano je bilo, da je Nicehah QuickMiner zrušil vaš računalnik."],
@@ -35,6 +36,7 @@
 		["FRM10001","POMEMBNO! QuickMinerja lahko nadzorujete preko kontekstnega menija. Z desnim klikom kliknite na ikono Nicehash v opravilni vrstici Windows. Poglej sliko za primer:"],
 		["FRM10002","Ok, testiral sem in razumem! Zapri to pogovorno okno."],
 		["FRM10003","Nalaganje: "],
+		["FRM10004","Pokaži nastavitve"],
 		["FRM10005","Vizitka"],
 		["FRM10006","Izvozi dnevnike"],
 		["FRM10007","Polni podrobni dnevniki"],
@@ -83,6 +85,8 @@
 		["FRM10073","Uspešno! Naslednje grafične kartice so bile optimizirane:"],
 		["FRM10101","Dodatno"],
 		["FRM10102","Vklopi MSI interrupts"],
+		["FRM10103","MSI izključen! Prosimo, vključite MSI za boljšo stabilnost!"],
+		["FRM10201","Nalaganje končano!"],
 
 		["FRM20001","Neveljaven rudarksi Bitcoin naslov. Vnesite svoj rudarski naslov za NiceHash:"],
 		["FRM20002","Odložišče"],
