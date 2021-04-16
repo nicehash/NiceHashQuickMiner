@@ -1,6 +1,5 @@
 {
 	"langs" : [
-		{ "short" : "sl", "name" : "Slovenski", "version" : 3 },
-		{ "short" : "zz", "name" : "Test", "version" : 1 }
+		{ "short" : "sl", "name" : "Slovenski", "version" : 3 }
 	]
 }
