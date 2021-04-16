@@ -1,4 +1,4 @@
-{	"version": 1,
+{	"version": 3,
 	"strings": [
 		["GEN00001","Exit"],
 		["GEN00002","OK"],
@@ -21,6 +21,7 @@
 		["INST0013","If AV is blocking the file, allow it or make an exception then repeat the installation."],
 		["INST0014","Unable to start NiceHashQuickMiner.exe; error:"],
 		["INST0015","has been successfully installed! Thank you for your support!"],
+		["INST0016","Apply OPTIMIZE (Lite) for all devices"],
 
 		["PROG0001","NiceHash QuickMiner is already running!"],
 		["PROG0002","It has been detected that NiceHah QuickMiner has crashed your PC."],
@@ -35,6 +36,7 @@
 		["FRM10001","IMPORTANT! You can control NiceHash QuickMiner through context menu. Right mouse click NiceHash Icon in your Windows Notifications taskbar. View following picture as an example:"],
 		["FRM10002","Okay, I have tested it and I understand it! Close this Dialog now."],
 		["FRM10003","Loading: "],
+		["FRM10004","Show Options"],
 		["FRM10005","About"],
 		["FRM10006","Export logs"],
 		["FRM10007","Full detailed logging"],
@@ -80,7 +82,11 @@
 		["FRM10070","Optimize stability by activating Message Signaled Interrupts (MSI) for all supported video cards. Your mining rig may get significantly improved stability.\n\nDANGER! In some rare cases, this action may break your display drivers. It is recommended to make a system restore before activating MSI.\n\nActivate MSI now?"],
 		["FRM10071","Action failed, error:"],
 		["FRM10072","All video cards are already optimized!"],
-		["FRM10073","Success! Following video cards were optimized:"],
+		["FRM10073","Success! Please, reboot your PC.\n\nFollowing video cards were optimized:"],
+		["FRM10101","Extra"],
+		["FRM10102","Apply MSI interrupts"],
+		["FRM10103","MSI disabled! Please, enable MSI for better stability!"],
+		["FRM10201","Finished loading!"],
 
 		["FRM20001","Invalid or no mining Bitcoin Address set. Please enter your NiceHash Mining Address:"],
 		["FRM20002","Clipboard paste"],
