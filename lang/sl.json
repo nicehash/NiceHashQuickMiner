@@ -82,7 +82,7 @@
 		["FRM10070","Optimiziraj stabilnost z aktiviranjem Message Signaled Interrupts (MSI) za vse podprte grafične kartice. Stabilnost vaše rudarske naprave se lahko bistveno izboljša.\n\nNEVARNOST! V nekaterih redkih primerih lahko ta ukrep prekine vaše gonilnike. Priporočljivo je, da se pripravi obnovitev sistema pred aktiviranjem MSI.\n\nAktiviram MSI zdaj?"],
 		["FRM10071","Ukrep ni uspel, napaka:"],
 		["FRM10072","Vse grafične kartice so že optimizirane!"],
-		["FRM10073","Uspešno! Naslednje grafične kartice so bile optimizirane:"],
+		["FRM10073","Uspešno! Prosimo, ponovno zaženite PC! Naslednje grafične kartice so bile optimizirane:"],
 		["FRM10101","Dodatno"],
 		["FRM10102","Vklopi MSI interrupts"],
 		["FRM10103","MSI izključen! Prosimo, vključite MSI za boljšo stabilnost!"],
