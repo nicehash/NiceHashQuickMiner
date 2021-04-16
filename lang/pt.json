@@ -21,6 +21,7 @@
 		["INST0013","Se o AV está a bloquear o ficheiro, permita-o ou faça uma exceção e repita a instalação."],
 		["INST0014","Não foi possível iniciar o NiceHashQuickMiner.exe; erro:"],
 		["INST0015","já foi instalado com sucesso! Obrigado pelo seu apoio!"],
+		["INST0016","Aplicar OTIMIZAÇÃO (Leve) para todos os dispositivos"],
 
 		["PROG0001","O NiceHash QuickMiner já está em execução!"],
 		["PROG0002","Foi detetado que o NiceHah QuickMiner levou ao 'crash' do seu PC."],
@@ -35,6 +36,7 @@
 		["FRM10001","IMPORTANTE! Pode controlar o NiceHash QuickMiner a partir do menu. Carregue com o botão direito do rato no ícone da NiceHash nas barra de Notificações do Windows. Veja o exemplo na seguinte imagem:"],
 		["FRM10002","Okay, eu testei e compreendo! Fechar esta janela agora."],
 		["FRM10003","A carregar: "],
+		["FRM10004","Mostrar Opções"],
 		["FRM10005","Sobre"],
 		["FRM10006","Exportação de logs"],
 		["FRM10007","Logging completo e detalhado"],
@@ -80,7 +82,11 @@
 		["FRM10070","Otimize a estabilidade ativando o Message Signaled Interrupts (MSI) para todas as GPUs. A estabilidade da sua rig poderá melhorar consideravelmente.\n\nPERIGO! Muito raramente, esta ação poderá causar erros nos drivers. É recomendado efetuar um ponto de restauro do sistema antes de ativar o MSI.\n\nAtivar o MSI agora?"],
 		["FRM10071","Ação falhada, erro:"],
 		["FRM10072","Todas as GPUs já estão otimizadas!"],
-		["FRM10073","Sucesso! As seguintes GPUs foram otimizadas:"],
+		["FRM10073","Sucesso! Reinicie o seu PC.\n\nAs seguintes GPUs foram otimizadas:"],
+		["FRM10101","Extra"],
+		["FRM10102","Aplicar interrupções MSI"],
+		["FRM10103","MSI desativado! Ative o MSI para uma melhor estabilidade!"],
+		["FRM10201","Carregamento completo!"],
 
 		["FRM20001","Emdereço de Mineração de BTC inválido ou em falta. Insira o seu Endereço de Mineração da NiceHash:"],
 		["FRM20002","Colar da Clipboard"],
