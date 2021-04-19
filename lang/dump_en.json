@@ -1,4 +1,4 @@
-{	"version": 3,
+{	"version": 4,
 	"strings": [
 		["GEN00001","Exit"],
 		["GEN00002","OK"],
@@ -64,7 +64,7 @@
 		["FRM10029","Failed to establish connection to excavator.exe. Please consult NiceHash QuickMiner troubleshooting guide."],
 		["FRM10030","Excavator.exe has been stopped!"],
 		["FRM10031","This PC does not have enough virtual memory. Increase virtual memory or add more physical RAM."],
-		["FRM10040","Game Mode still active!\n\nPlease, deactivate Game Mode before exiting NiceHash QuickMiner."],
+		["FRM10040","Game Mode still active!\n\nDo you wish to quit NiceHash QuickMiner anyway?"],
 		["FRM10041","This action will close NiceHash QuickMiner.\n\nAre you sure you want to quit NiceHash QuickMiner?"],
 		["FRM10042","Could not detect video card with connected display or you may be using older video card for display!"],
 		["FRM10043","Game mode activated on primary GPU with display. Mining has stopped on that GPU and game overclocks have been applied for it.\n\nGame on!"],
