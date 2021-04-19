@@ -3,6 +3,6 @@
 		{ "short" : "de", "name" : "Deutsch", "version" : 3 },
 		{ "short" : "pt", "name" : "Português", "version" : 3 },
 		{ "short" : "ru", "name" : "Русский", "version" : 3 },
-		{ "short" : "sl", "name" : "Slovenščina", "version" : 3 }
+		{ "short" : "sl", "name" : "Slovenščina", "version" : 4 }
 	]
 }
