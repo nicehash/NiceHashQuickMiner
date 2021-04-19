@@ -1,4 +1,4 @@
-{	"version": 3,
+{	"version": 4,
 	"strings": [
 		["GEN00001","Izhod"],
 		["GEN00002","V redu"],
@@ -64,7 +64,7 @@
 		["FRM10029","Ni mogoče vzpostaviti povezave z excavator.exe. Oglejte si vodnik za odpravljanje težav z Nicehash QuickMiner."],
 		["FRM10030","Excavator.exe se je ustavil!"],
 		["FRM10031","Ta računalnik nima dovolj virtualnega pomnilnika. Povečajte virtualni pomnilnik ali dodate več fizičnega RAM-a."],
-		["FRM10040","Način igre je še vedno aktiven!\n\nProsimo, deaktivirajte način igre pred izhodom iz QuickMinerja."],
+		["FRM10040","Način igre je še vedno aktiven!\n\nŽelite zapreti NiceHash QuickMiner v vsakem primeru?"],
 		["FRM10041","To dejanje se bo zaprlo NiceHash QuickMiner.\n\nSte prepričani, da želite zapreti Nicehash QuickMiner?"],
 		["FRM10042","Ne morem zaznati grafične kartice s priključenim zaslonom ali pa za prikaz uporabljate starejšo grafično kartico!"],
 		["FRM10043","Način igre aktiviran na primarni GPU z zaslonom. Rudarjenje se je na tem GPU ustavilo, uporabljen je igraški overclock.\n\nIgraj!"],
