@@ -1,4 +1,4 @@
-{	"version": 3,
+{	"version": 4,
 	"strings": [
 		["GEN00001","Sair"],
 		["GEN00002","OK"],
@@ -64,7 +64,7 @@
 		["FRM10029","Falha a estabelecer uma conexão com o excavator.exe. Consulte o guia troubleshooting do NiceHash QuickMiner."],
 		["FRM10030","O Excavator.exe parou!"],
 		["FRM10031","Este PC não tem memória virtual suficiente. Aumente a memória virtual ou adicione mais RAM."],
-		["FRM10040","O Modod de Jogo ainda está ativo!\n\nDesative o Modo de Jogo aintes de saír do NiceHash QuickMiner."],
+		["FRM10040","O Modod de Jogo ainda está ativo!\n\nAinda deseja sair do NiceHash QuickMiner?"],
 		["FRM10041","Esta ação fechará o NiceHash QuickMiner.\n\nTem a certeza que pretende saír do NiceHash QuickMiner?"],
 		["FRM10042","Não foi possível detetar uma placa gráfica conectada a um monitor, ou poderá estar a usar uma GPU muito antiga!"],
 		["FRM10043","O Modo de Jogo foi ativado na GPU principal, com ecrã. A mineração parou nesta GPU e os overclocks de jogos foram aplicados.\n\nBons jogos!"],
