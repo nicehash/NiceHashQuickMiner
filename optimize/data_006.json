@@ -142,6 +142,7 @@
     { "name": "GeForce GTX 1070 Ti", "op": [
       { "id": 12, "pt": 2, "dmc": 200, "mcc": 1485, "mcv": 750, "fm": 2, "ftg" : 62, "mt": [["FAW","28"],["RRD","7"],["REFRESH","7"],["REFRESH_LO","3"]] },
       { "id": 11, "pt": 2, "dmc": 300, "mcc": 1560, "mcv": 750, "fm": 2, "ftg" : 62, "mt": [["FAW","28"],["RRD","7"],["REFRESH","7"],["REFRESH_LO","3"]] },
+      { "id": 3, "pt": 2, "dmc": 800, "mcc": 1850, "mcv": 900, "fm": 2, "ftg" : 56, "mt": [["FAW","28"],["RRD","7"],["REFRESH","7"],["REFRESH_LO","3"]] },
       { "id": 2, "pt": 1, "dmc": 500, "dcc": 45, "pl": 125, "fm": 2, "ftg" : 58, "mt": [["FAW","28"],["RRD","7"],["REFRESH","7"],["REFRESH_LO","3"]] },
       { "id": 1, "pt": 1, "dmc": 300, "dcc": 0, "pl": 110, "fm": 2, "ftg" : 62, "mt": [] }
     ]},
