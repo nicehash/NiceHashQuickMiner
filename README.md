@@ -8,7 +8,7 @@ Why you should use NiceHash QuickMiner over NiceHash Miner? Read [here](https://
 
 Current expected income when using NiceHash QuickMiner:
 
-<a href="https://www.nicehash.com/profitability-calculator" target="_blank">![Profitability list](https://imagegen.nicehash.com/getimg.png?t=45747563)</a>
+<a href="https://www.nicehash.com/profitability-calculator" target="_blank">![Profitability list](https://miner-plugins.nicehash.com/nhqm/imagegen/getimg.png?t=4574123)</a>
 
 For news, updates and important info regarding NiceHash QuickMiner, follow us on twitter: https://twitter.com/NHdjeZo
 
