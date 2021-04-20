@@ -1,7 +1,7 @@
 {
 	"langs" : [
 		{ "short" : "de", "name" : "Deutsch", "version" : 3 },
-		{ "short" : "pt", "name" : "Português", "version" : 3 },
+		{ "short" : "pt", "name" : "Português", "version" : 4 },
 		{ "short" : "ru", "name" : "Русский", "version" : 4 },
 		{ "short" : "ja", "name" : "日本語", "version" : 4 },
 		{ "short" : "sl", "name" : "Slovenščina", "version" : 4 }
