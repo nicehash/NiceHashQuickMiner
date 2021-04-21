@@ -123,7 +123,7 @@
 		["FRM90011","Dê um nome único e interessante à sua rig!"],
 		["FRM90012","Nome do trabalhador:"],
 		["FRM90013","Gostaria que o NiceHash QuickMiner iniciasse automaticamente com o Windows?"],
-		["FRM90014","Autostart com o Windows (Método do Task Scheduler)"],
+		["FRM90014","Iniciar automaticamente com o Windows (Método do Task Scheduler)"],
 		["FRM90015","O que fazer com o seu PC quando as GPUs dão erro?"],
 		["FRM90016","Ação da gestão de Erros:"],
 		["FRM90017","Não fazer nada"],
@@ -135,7 +135,7 @@
 		["FRM90023","Se é novo, recomendamos que vá ao Rig Manager agora. Se quiser efetuar os OCs manualmente, vá à próxima página."],
 		["FRM90024","Leve-me ao Rig Manager >>"],
 		["FRM90025","Pode demorar vários minutos para o seu Mineiro aparecer no Rig Manager. Por favor, seja paciênte!"],
-		["FRM90026","O OCTune é uma poderosa ferramenta de overclocking, desenhada para cobrir todas as necessidades de um mineiro. É poderoso o suficiente para suportar modificações dos core clocks, memory clocks, limites de potência, tem a capacidade de alterar o comportamento das ventoinhas e permite o undervolt da GPU para reduzir o consumo energético e aumentar a eficiência. Desligue outras ferramentas de OC e deixe o OCTune ter controlo total!"],
+		["FRM90026","O OCTune é uma poderosa ferramenta de overclocking que satifaz todas as necessidades de um mineiro. Esta suporta modificações dos core clocks, memory clocks, limites de potência, a alteração do comportamento das ventoinhas e permite ainda o undervolt da GPU, para reduzir o consumo energético e aumentar a eficiência. Desligue outras ferramentas de OC e deixe o OCTune ter controlo total!"],
 		["FRM90027","Abrir o OCTune para ajustar >>"],
 
 		["F0100001","A iniciar automaticamente em breve..."],
