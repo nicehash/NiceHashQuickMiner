@@ -2,6 +2,7 @@
 	"langs" : [
 		{ "short" : "de", "name" : "Deutsch", "version" : 3 },
 		{ "short" : "es", "name" : "Español", "version" : 4 },
+		{ "short" : "fr", "name" : "Français", "version" : 4 },
 		{ "short" : "pt", "name" : "Português", "version" : 4 },
 		{ "short" : "ru", "name" : "Русский", "version" : 4 },
 		{ "short" : "ja", "name" : "日本語", "version" : 4 },
