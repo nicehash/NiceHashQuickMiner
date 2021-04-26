@@ -1,4 +1,4 @@
-{	"version": 4,
+{	"version": 5,
 	"strings": [
 		["GEN00001","Izhod"],
 		["GEN00002","V redu"],
@@ -87,6 +87,7 @@
 		["FRM10102","Vklopi MSI interrupts"],
 		["FRM10103","MSI izključen! Prosimo, vključite MSI za boljšo stabilnost!"],
 		["FRM10201","Nalaganje končano!"],
+		["FRM10301","Način igre vključen: ni možno spremeniti.\n\nProsimo, najprej izključite Način igre!"],
 
 		["FRM20001","Neveljaven rudarksi Bitcoin naslov. Vnesite svoj rudarski naslov za NiceHash:"],
 		["FRM20002","Odložišče"],
