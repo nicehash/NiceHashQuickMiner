@@ -24,7 +24,7 @@
 		["INST0016","Nastavi OPTIMIZE (Lite) za vse naprave"],
 
 		["PROG0001","Nicehash QuickMiner že teče!"],
-		["PROG0002","Zaznano je bilo, da je Nicehah QuickMiner zrušil vaš računalnik."],
+		["PROG0002","Zaznano je bilo, da je Nicehash QuickMiner zrušil vaš računalnik."],
 		["PROG0003","Želite ponastaviti vse nastavitvene profile nazaj na privzeto (ročno) vrednost za vse grafične kartice?"],
 		["PROG0004","Ne morem zagnati Nicehash QuickMiner.Napaka:\n\n - Manjkajoče datoteke\n\nNekatere datoteke so bile izbrisane s tretjim programom. - najverjetneje AV."],
 		["PROG0005","Napaka pri namestitvi!\n\nNicehash QuickMiner ni mogel nadaljevati z namestitvijo. Napaka:"],
