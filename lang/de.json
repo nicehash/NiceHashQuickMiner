@@ -24,7 +24,7 @@
 		["INST0016","OPTIMIERUNG (Lite) für alle Geräte anwenden"],
 
 		["PROG0001","Der NiceHash QuickMiner läuft bereits!"],
-		["PROG0002","Es wurde festgestellt, dass der NiceHah QuickMiner Ihren PC zum Absturtz gebracht hat."],
+		["PROG0002","Es wurde festgestellt, dass der NiceHash QuickMiner Ihren PC zum Absturtz gebracht hat."],
 		["PROG0003","Möchten Sie alle OPTIMIERUNGS Profile für alle Grafikkarten auf den Standardwert (Manuell) zurücksetzen?"],
 		["PROG0004","Der NiceHash QuickMiner kann nicht gestartet werden.Fehler:\n\n - fehlende Dateien\n\nEinige Dateien wurden von einem Drittanbieterprogramm gelöscht - höchstwahrscheinlich AV."],
 		["PROG0005","Fehler bei der Installation!\n\n Der NiceHash QuickMiner konnte mit der Installation nicht fortfahren. Fehler:"],
