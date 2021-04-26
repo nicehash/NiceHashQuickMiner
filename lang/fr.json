@@ -24,7 +24,7 @@
 		["INST0016","Appliquer OPTIMISER (Lite) pour tous les appareils"],
 
 		["PROG0001","NiceHash QuickMiner est déjà en cours d'exécution!"],
-		["PROG0002","Il a été détecté que NiceHah QuickMiner a écrasé votre PC."],
+		["PROG0002","Il a été détecté que NiceHash QuickMiner a écrasé votre PC."],
 		["PROG0003","Souhaitez vous réinitialiser tous les profils OPTIMISER définis par défaut (Manuel) valeur pour toutes les cartes vidéo?"],
 		["PROG0004","Impossible de démarrer NiceHash QuickMiner.Erreur:\n\n - fichiers manquants\n\nSome les fichiers ont été supprimés par un programme tiers - le plus probable AV."],
 		["PROG0005","Erreur lors de l'installation!\n\nNiceHash QuickMiner n'a pas pu continuer l'installation. Erreur:"],
