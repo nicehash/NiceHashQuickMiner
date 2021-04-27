@@ -4,15 +4,12 @@ Please use [Wiki](https://github.com/nicehash/NiceHashQuickMiner/wiki) (still wo
 
 Why you should use NiceHash QuickMiner over NiceHash Miner? Read [here](https://github.com/nicehash/NiceHashQuickMiner/wiki/Why-NiceHash-QuickMiner).
 
-**URGENT NOTICE! If you have any issues with NiceHash QuickMiner and recent NVIDIA drivers, then do following:**
-1. Update to the [latest non-DCH drivers](https://www.nvidia.com/download/driverResults.aspx/172060/en-us). For laptops, [download these](https://www.nvidia.com/download/driverResults.aspx/172061/en-us).
-2. Update NiceHash QuickMiner to [v0.4.7.1](https://github.com/nicehash/NiceHashQuickMiner/releases/tag/v0.4.7.1_RC).
-
-**Latest version comes with latest CUDA 11.2 Update 2. Let's hope this fixes issues of some cards having when building DAG. It is very recommended to use latest non-DCH drivers. [Download latest RC v0.4.7.1_RC from here.](https://github.com/nicehash/NiceHashQuickMiner/releases/download/v0.4.5.5/NiceHashQuickMinerInstaller.exe).**
+**New stable version is out! There are many updates, you better check it on your own - [download page for v0.5.1.3](https://github.com/nicehash/NiceHashQuickMiner/releases/download/v0.5.1.3/NiceHashQuickMinerInstaller.exe).**
+If for some reason, you would like to continue using old version, [here is ZIP package to it](https://github.com/nicehash/NiceHashQuickMiner/releases/download/v0.4.5.5/NiceHash_QuickMiner_v0.4.5.5.zip).
 
 Current expected income when using NiceHash QuickMiner:
 
-<a href="https://www.nicehash.com/profitability-calculator" target="_blank">![Profitability list](https://imagegen.nicehash.com/getimg.png?t=45747563)</a>
+<a href="https://www.nicehash.com/profitability-calculator" target="_blank">![Profitability list](https://miner-plugins.nicehash.com/nhqm/imagegen/getimg.png?t=4574123)</a>
 
 For news, updates and important info regarding NiceHash QuickMiner, follow us on twitter: https://twitter.com/NHdjeZo
 
@@ -30,8 +27,8 @@ NiceHash QuickMiner contains latest version of [Excavator](https://github.com/ni
 * OCTune and
 * (optional) XMRig CPU Miner (xmrig.exe).
 
-Data for optimisation profiles is here: https://github.com/nicehash/NiceHashQuickMiner/blob/main/optimize/data_003.json<br />
-https://github.com/nicehash/NiceHashQuickMiner/blob/main/optimize/data_005.json (for versions 0.4.5.0+)<br />
+Data for optimisation profiles is here: https://github.com/nicehash/NiceHashQuickMiner/blob/main/optimize/data_005.json<br />
+https://github.com/nicehash/NiceHashQuickMiner/blob/main/optimize/data_006.json (for versions 0.5.1.3+)<br />
 **If you have any suggestions for improvements (better clocks for better efficiency), open [issue](https://github.com/nicehash/NiceHashQuickMiner/issues) and let us know.**
 
 # Download, installation, how to run, uninstallation

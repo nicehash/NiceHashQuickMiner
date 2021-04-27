@@ -1,6 +1,6 @@
 # NiceHash QuickMiner multilanguage support
 
-From [version 0.5.0.0 NiceHash QuickMiner](https://github.com/nicehash/NiceHashQuickMiner/releases/tag/v0.5.0.0_RCx) comes with multilanguage support.
+From [version 0.5.0.0 NiceHash QuickMiner](https://github.com/nicehash/NiceHashQuickMiner/releases) comes with multilanguage support.
 
 ### How to create language file?
 Download [dump_en.json](/lang/dump_en.json). All strings are marked with token (first element of the array). Modify only second element of the array.
@@ -11,6 +11,16 @@ Submit pull request and your translation may gets accepted.
 
 ### How to test language file?
 Pick any existing language besides **en** and quit NiceHash QuickMiner. Open directory `.\langs\`. You will see language file of the chosen language. Open it and set your language file to have the same `version`. Delete chosen language file, copy in your language file and set your language file to have same name as deleted language. Start NiceHash QuickMiner - selected language will be yours.
+
+Append command line arguments to view special dialogs as stated in the following table:
+Command Line | Dialog Shown
+-------------|--------------
+--install | Download & installer
+--uninstall | Uninstall dialog
+--count | Windows start-up counter before standard launch
+--updatedfrom 0.3.0.0 | Displays various update-related message boxes before standard launch
+
+Example: `NiceHashQuickMiner.exe --install`
 
 To revert this state simply delete your language file.
 

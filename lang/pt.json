@@ -24,7 +24,7 @@
 		["INST0016","Aplicar OTIMIZAÇÃO (Leve) para todos os dispositivos"],
 
 		["PROG0001","O NiceHash QuickMiner já está em execução!"],
-		["PROG0002","Foi detetado que o NiceHah QuickMiner levou ao 'crash' do seu PC."],
+		["PROG0002","Foi detetado que o NiceHash QuickMiner levou ao 'crash' do seu PC."],
 		["PROG0003","Gostaria de redefinir todos os perfis de OTIMIZAÇÃO de volta para os valores padrão (Manual) para todas as GPUs?"],
 		["PROG0004","Não foi possível iniciar o NiceHash QuickMiner. Erro:\n\n - ficheiros em falta\n\nAlguns ficheiros foram apagados por um programa terceiro - provavelmente um AV."],
 		["PROG0005","Erro na instalação!\n\nO NiceHash QuickMiner não conseguio continuar a instalação. Erro:"],

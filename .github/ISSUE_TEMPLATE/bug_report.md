@@ -27,6 +27,9 @@ If applicable, add screenshots to help explain your problem.
  - Version number [e.g. 0.4.5.5]
  - RC or STABLE?
 
+**NVIDIA driver version**
+Which one do you use?
+
 **Hardware**
 Describe GPUs used and how are GPUs connected to the motherboard.
 CPU?

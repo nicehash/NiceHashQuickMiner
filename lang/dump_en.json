@@ -1,4 +1,4 @@
-{	"version": 3,
+{	"version": 5,
 	"strings": [
 		["GEN00001","Exit"],
 		["GEN00002","OK"],
@@ -24,7 +24,7 @@
 		["INST0016","Apply OPTIMIZE (Lite) for all devices"],
 
 		["PROG0001","NiceHash QuickMiner is already running!"],
-		["PROG0002","It has been detected that NiceHah QuickMiner has crashed your PC."],
+		["PROG0002","It has been detected that NiceHash QuickMiner has crashed your PC."],
 		["PROG0003","Would you like to reset all set OPTIMIZE profiles back to default (Manual) value for all video cards?"],
 		["PROG0004","Cannot start NiceHash QuickMiner.Error:\n\n - missing files\n\nSome files were deleted by a 3rd party program - most likely AV."],
 		["PROG0005","Error installing!\n\nNiceHash QuickMiner was unable to continue with the installation. Error:"],
@@ -64,7 +64,7 @@
 		["FRM10029","Failed to establish connection to excavator.exe. Please consult NiceHash QuickMiner troubleshooting guide."],
 		["FRM10030","Excavator.exe has been stopped!"],
 		["FRM10031","This PC does not have enough virtual memory. Increase virtual memory or add more physical RAM."],
-		["FRM10040","Game Mode still active!\n\nPlease, deactivate Game Mode before exiting NiceHash QuickMiner."],
+		["FRM10040","Game Mode still active!\n\nDo you wish to quit NiceHash QuickMiner anyway?"],
 		["FRM10041","This action will close NiceHash QuickMiner.\n\nAre you sure you want to quit NiceHash QuickMiner?"],
 		["FRM10042","Could not detect video card with connected display or you may be using older video card for display!"],
 		["FRM10043","Game mode activated on primary GPU with display. Mining has stopped on that GPU and game overclocks have been applied for it.\n\nGame on!"],
@@ -87,6 +87,7 @@
 		["FRM10102","Apply MSI interrupts"],
 		["FRM10103","MSI disabled! Please, enable MSI for better stability!"],
 		["FRM10201","Finished loading!"],
+		["FRM10301","Cannot change during Game Mode.\n\nPlease, deactivate Game Mode first!"],
 
 		["FRM20001","Invalid or no mining Bitcoin Address set. Please enter your NiceHash Mining Address:"],
 		["FRM20002","Clipboard paste"],
