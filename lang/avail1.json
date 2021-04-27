@@ -7,6 +7,7 @@
 		{ "short" : "ru", "name" : "Русский", "version" : 4 },
 		{ "short" : "ja", "name" : "日本語", "version" : 4 },
 		{ "short" : "zh", "name" : "中文", "version" : 5 },
+		{ "short" : "hu", "name" : "Magyar", "version" : 4 },
 		{ "short" : "sl", "name" : "Slovenščina", "version" : 5 }
 	]
 }
