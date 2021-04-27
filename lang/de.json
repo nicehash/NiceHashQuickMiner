@@ -1,4 +1,4 @@
-{	"version": 3,
+{	"version": 5,
 	"strings": [
 		["GEN00001","Beenden"],
 		["GEN00002","OK"],
@@ -64,7 +64,7 @@
 		["FRM10029","Die Verbindung zu excavator.exe konnte nicht hergestellt werden. Bitte konsultieren Sie die NiceHash QuickMiner Anleitung zur Fehlerbehebung."],
 		["FRM10030","Excavator.exe wird gestoppt!"],
 		["FRM10031","Dieser PC verfügt nicht über genügend virtuellen Speicher. Erhöhen Sie den virtuellen Speicher oder fügen Sie mehr physichen RAM hinzu."],
-		["FRM10040","Der Game Modus ist noch aktiv!\n\nBitte, deaktivieren Sie den Game Modus, bevor Sie den NiceHash QuickMiner schließen."],
+		["FRM10040","Der Game Modus ist noch aktiv!\n\nMöchten Sie den NiceHash QuickMiner trotzdem beenden?"],
 		["FRM10041","Diese Aktion schließt den NiceHash QuickMiner.\n\nSind Sie sicher, dass Sie den NiceHash QuickMiner schließen möchten?"],
 		["FRM10042","Die Grafikkarte konnte mit dem angeschlossenen Display nicht erkannt werden oder Sie verwenden möglicherweise eine ältere Grafikkarte für die Anzeige!"],
 		["FRM10043","Der Game Modus ist auf der primären GPU mit Display aktiviert worden. Das Mining wurde auf dieser GPU gestoppt und Game Übertaktungen wurden dafür angewendet.\n\nSpielen Sie weiter!"],
@@ -87,6 +87,7 @@
 		["FRM10102","MSI interrupts anwenden"],
 		["FRM10103","MSI deaktiviert! Bitte, aktivieren Sie MSI für eine bessere Stabilität!"],
 		["FRM10201","Laden beendet!"],
+		["FRM10301","Kann im Gamemodus nicht geändert werden.\n\nBitte deaktivieren Sie zuerst den Game Modus!"],
 
 		["FRM20001","Ungültige oder keine Mining Bitcoin Adresse wurde festgelegt. Bitte geben Sie Ihre NiceHash Mining Adresse ein:"],
 		["FRM20002","Clipboard einfügen"],
