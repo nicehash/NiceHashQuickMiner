@@ -1,6 +1,6 @@
 {
 	"langs" : [
-		{ "short" : "de", "name" : "Deutsch", "version" : 3 },
+		{ "short" : "de", "name" : "Deutsch", "version" : 5 },
 		{ "short" : "es", "name" : "Español", "version" : 4 },
 		{ "short" : "fr", "name" : "Français", "version" : 4 },
 		{ "short" : "pt", "name" : "Português", "version" : 4 },
