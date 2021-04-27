@@ -24,7 +24,7 @@
 		["INST0016","OPTIMIZE (Lite) használata minden eszközön"],
 
 		["PROG0001","A NiceHash QuickMiner már fut!"],
-		["PROG0002","NiceHah QuickMiner miatti PC összeomlás észlelve."],
+		["PROG0002","NiceHash QuickMiner miatti PC összeomlás észlelve."],
 		["PROG0003","Szeretnéd visszaállítani az összes OPTIMIZE profilt az alap (Manuális) értékre az összes videókártyán?"],
 		["PROG0004","A NiceHash QuickMiner indítása nem lehetséges.Hiba:\n\n - hiányzó fájlok\n\nNéhány fájl törlésre került egy külső program által - valószínűleg AV."],
 		["PROG0005","Hiba a telepítés közben!\n\nNiceHash QuickMiner képtelen volt folytatni a telepítést. Hiba:"],
