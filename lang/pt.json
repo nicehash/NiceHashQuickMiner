@@ -1,4 +1,4 @@
-{	"version": 4,
+{	"version": 5,
 	"strings": [
 		["GEN00001","Sair"],
 		["GEN00002","OK"],
@@ -87,6 +87,7 @@
 		["FRM10102","Aplicar interrupções MSI"],
 		["FRM10103","MSI desativado! Ative o MSI para uma melhor estabilidade!"],
 		["FRM10201","Carregamento completo!"],
+		["FRM10301","Não foi possível alterar durante o Modo de Jogo.\n\nDesative o Modo de Jogo primeiro!"],
 
 		["FRM20001","Emdereço de Mineração de BTC inválido ou em falta. Insira o seu Endereço de Mineração da NiceHash:"],
 		["FRM20002","Colar da Clipboard"],
