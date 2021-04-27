@@ -4,7 +4,7 @@ Please use [Wiki](https://github.com/nicehash/NiceHashQuickMiner/wiki) (still wo
 
 Why you should use NiceHash QuickMiner over NiceHash Miner? Read [here](https://github.com/nicehash/NiceHashQuickMiner/wiki/Why-NiceHash-QuickMiner).
 
-**New stable version is out! There are many updates, you better check it on your own - [download page for v0.5.1.3](https://github.com/nicehash/NiceHashQuickMiner/releases/download/v0.5.1.3/NiceHashQuickMinerInstaller.exe).**
+**New stable version is out! There are many updates, you better check it on your own - [download latest installer](https://github.com/nicehash/NiceHashQuickMiner/releases/download/v0.5.1.3/NiceHashQuickMinerInstaller.exe).**
 If for some reason, you would like to continue using old version, [here is ZIP package to it](https://github.com/nicehash/NiceHashQuickMiner/releases/download/v0.4.5.5/NiceHash_QuickMiner_v0.4.5.5.zip).
 
 Current expected income when using NiceHash QuickMiner:
