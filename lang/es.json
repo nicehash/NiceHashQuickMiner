@@ -21,7 +21,7 @@
 		["INST0013","Si el AV está bloqueando el archivo, permítalo o haga una excepción y luego repita la instalación."],
 		["INST0014","No se puede iniciar NiceHashQuickMiner.exe; error:"],
 		["INST0015","¡ha sido instalado exitosamente! ¡Gracias por tu apoyo!"],
-		["INST0016","Aplicar OPTIMIZACIÓN (Ligero) para todos los dispositivos"],
+		["INST0016","Aplicar OPTIMIZACIÓN (Ligera) para todos los dispositivos"],
 
 		["PROG0001","¡NiceHash QuickMiner ya se está ejecutando!"],
 		["PROG0002","Se ha detectado que NiceHash QuickMiner ha echo fallar su PC."],
@@ -111,7 +111,7 @@
 		["ABT00001","Versión:"],
 
 		["FRM90001","Ajustes opcionales"],
-		["FRM90002","Configuremos los siguientes ajustes que no son obligatorios, pero se recomiendan configurar. Si tiene prisa, puede omitir esto y configurarlos más tarde a través del archivo de configuración (nhqm.conf)."],
+		["FRM90002","Configure los siguientes ajustes que no son obligatorios, pero que se recomiendan configurar. Si tiene prisa, puede omitir esto y configurarlos más tarde a través del archivo de configuración (nhqm.conf)."],
 		["FRM90003","Saltar >>"],
 		["FRM90004","Idioma"],
 		["FRM90005","Nombre"],
@@ -130,7 +130,7 @@
 		["FRM90018","Reiniciar Excavator (predeterminado)"],
 		["FRM90019","Reiniciar Equipo (recomendado)"],
 		["FRM90020","Reinicie el controlador de NVIDIA"],
-		["FRM90021","Hay muchas más opciones que puede configurar. Consulte NiceHash QuickMiner Wiki para obtener consejos y trucos."],
+		["FRM90021","Hay muchas más opciones que se pueden configurar. Consulte la Wiki de NiceHash QuickMiner para obtener consejos y trucos."],
 		["FRM90022","¡RECOMENDADO! No olvide revisar la solución de optimización de un clic para las tarjetas de video de escritorio de las series GTX 1000, TITAN V, RTX 2000, TITAN RTX y RTX 3000. ¡Alta fiabilidad y muy buena eficiencia garantizada!"],
 		["FRM90023","Si es un principiante, le recomendamos que vaya a Administrador de Equipos. Si desea sintonizar manualmente su(s) tarjeta(s) de video, vaya a la siguiente página."],
 		["FRM90024","Llévame al Administrador de Equipos >>"],
@@ -138,7 +138,7 @@
 		["FRM90026","OCTune es una poderosa herramienta de overclocking, diseñada para cubrir todas las necesidades de cada minero. Es lo suficientemente potente como para admitir modificaciones de los relojes del núcleo, relojes de la memoria, límites de energía, tiene la capacidad de modificar el comportamiento del ventilador y le permite bajar el voltaje de las tarjetas de video para reducir el consumo de energía y aumentar la eficiencia. ¡Apague cualquier otra herramienta de overclocking y deje que OCTune tome el control total!"],
 		["FRM90027","Abra OCTune para modificar >>"],
 
-		["F0100001","Comenzando pronto automáticamente..."],
+		["F0100001","Comenzando automáticamente en:"],
 		["F0100002","Restablecer OPTIMIZACIÓN"],
 		["F0100003","Comenzar"],
 		["F0100004","Puede restablecer la optimización antes de que se aplique para evitar un fallo de la PC causado por un perfil de optimización incompatible."],
