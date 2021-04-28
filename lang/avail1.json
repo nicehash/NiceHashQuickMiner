@@ -4,7 +4,7 @@
 		{ "short" : "es", "name" : "Español", "version" : 4 },
 		{ "short" : "fr", "name" : "Français", "version" : 4 },
 		{ "short" : "pt", "name" : "Português", "version" : 4 },
-		{ "short" : "ru", "name" : "Русский", "version" : 4 },
+		{ "short" : "ru", "name" : "Русский", "version" : 5 },
 		{ "short" : "ja", "name" : "日本語", "version" : 4 },
 		{ "short" : "zh", "name" : "中文", "version" : 5 },
 		{ "short" : "hu", "name" : "Magyar", "version" : 4 },
