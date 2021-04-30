@@ -1,4 +1,4 @@
-{	"version": 4,
+{	"version": 5,
 	"strings": [
 		["GEN00001","Salir"],
 		["GEN00002","OK"],
@@ -87,6 +87,7 @@
 		["FRM10102","Aplicar interrupciones MSI"],
 		["FRM10103","MSI deshabilitado! ¡Habilite MSI para una mejor estabilidad!"],
 		["FRM10201","¡Finalizó la carga!"],
+		["FRM10301","No se puede cambiar durante el modo de juego.\n\n¡Por favor, primero desactive el modo de juego!"],
 
 		["FRM20001","Se estableció una dirección inválida o de  minería que no es de Bitcoin. Ingrese su dirección de minería de NiceHash:"],
 		["FRM20002","Pegar desde portapapeles"],
