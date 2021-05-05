@@ -7,7 +7,8 @@
     { "id": 3, "name": "High" }, 
     { "id": 4, "name": "Extreme" }, 
     { "id": 11, "name": "Efficient" }, 
-    { "id": 12, "name": "EfficientLow" }
+    { "id": 12, "name": "EfficientLow" },
+    { "id": 101, "name": "Enterprise" }
   ],
   "devices": [
     { "name": "GeForce RTX 3090", "op": [
