@@ -4,7 +4,7 @@
 		["GEN00002","OK"],
 		["GEN00003","Cancella"],
 		["GEN00004","STABILE"],
-		["GEN00005","RC (Release Candidate)"],
+		["GEN00005","RC (Candidata al Rilascio)"],
 
 		["INST0001","NiceHash QuickMiner è già installato in:"],
 		["INST0002","Vuoi sovrascrivere questa installazione?"],
