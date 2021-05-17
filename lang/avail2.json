@@ -1,0 +1,14 @@
+{
+	"langs" : [
+		{ "short" : "de", "name" : "Deutsch", "version" : 5 },
+		{ "short" : "es", "name" : "Español", "version" : 5 },
+		{ "short" : "fr", "name" : "Français", "version" : 5 },
+		{ "short" : "pt", "name" : "Português", "version" : 5 },
+		{ "short" : "ru", "name" : "Русский", "version" : 5 },
+		{ "short" : "ja", "name" : "日本語", "version" : 4 },
+		{ "short" : "zh", "name" : "中文", "version" : 5 },
+		{ "short" : "hu", "name" : "Magyar", "version" : 4 },
+		{ "short" : "sl", "name" : "Slovenščina", "version" : 5 }
+	],
+  "eula_en_1" : "{\\rtf1\\ansi\\b1NiceHash QuickMiner\\b0\\line\\linehttps://www.nicehash.com}"
+}
