@@ -8,7 +8,7 @@
 		{ "short" : "ja", "name" : "日本語", "version" : 4 },
 		{ "short" : "zh", "name" : "中文", "version" : 5 },
 		{ "short" : "hu", "name" : "Magyar", "version" : 4 },
-		{ "short" : "sl", "name" : "Slovenščina", "version" : 5 }
+		{ "short" : "sl1", "name" : "Slovenščina", "version" : 6 }
 	],
   "eula_en_1" : "{\\rtf1\\ansi\\b1NiceHash QuickMiner\\b0\\line\\line{\\field{\\*\\fldinst HYPERLINK \"https://www.nicehash.com/\"}{\\fldrslt NiceHash}}}"
 }
