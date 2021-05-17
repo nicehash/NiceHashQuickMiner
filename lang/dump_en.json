@@ -1,4 +1,4 @@
-{	"version": 5,
+{	"version": 6,
 	"strings": [
 		["GEN00001","Exit"],
 		["GEN00002","OK"],
@@ -22,6 +22,8 @@
 		["INST0014","Unable to start NiceHashQuickMiner.exe; error:"],
 		["INST0015","has been successfully installed! Thank you for your support!"],
 		["INST0016","Apply OPTIMIZE (Lite) for all devices"],
+		["INST0017","Accept"],
+		["INST0018","Decline"],
 
 		["PROG0001","NiceHash QuickMiner is already running!"],
 		["PROG0002","It has been detected that NiceHash QuickMiner has crashed your PC."],
@@ -128,8 +130,8 @@
 		["FRM90015","How to handle your PC when video card(s) crash?"],
 		["FRM90016","Error handle action:"],
 		["FRM90017","Do nothing"],
-		["FRM90018","Restart Excavator(Default)"],
-		["FRM90019","Reboot Rig(Recommended)"],
+		["FRM90018","Restart Excavator (Default)"],
+		["FRM90019","Reboot Rig (Recommended)"],
 		["FRM90020","Restart NVIDIA Driver"],
 		["FRM90021","There are many more settings you can configure. Check NiceHash QuickMiner Wiki for Tips and Tricks."],
 		["FRM90022","RECOMMENDED! Do not forget to check out One - Click - Optimize solution for GTX 1000 series, TITAN V, RTX 2000 series, TITAN RTX and RTX 3000 series desktop video cards.High reliability and very good efficiency guaranteed!"],
@@ -153,5 +155,7 @@
 		["UPDT0007","New feature available"],
 		["UPDT0008","NiceHash QuickMiner has been successfully updated to v"],
 		["UPDT0009",".\n\nNew version can automatically detect and choose best service location with very high reliability. It also has automatic fallback to secondary location when there is an outage or maintenance at primary location. Would you like to turn on automatic service location feature?"],
-		["UPDT0010",".\n\nNew version increases security of your mining. For this to work properly, we had to modify Excavator's launch command line.Click Yes if you agree to reset it. If you do not reset it, NiceHash QuickMiner may not work properly."]
+		["UPDT0010",".\n\nNew version increases security of your mining. For this to work properly, we had to modify Excavator's launch command line.Click Yes if you agree to reset it. If you do not reset it, NiceHash QuickMiner may not work properly."],
+
+		["EULA0000","{\\rtf1\\ansi\\ansicpg1252\\deff0\\nouicompat\\deflang2057{\\fonttbl{\\f0\\fnil\\fcharset0 Calibri;}{\\f1\\fnil\\fcharset2 Symbol;}}{\\colortbl ;\\red0\\green0\\blue255;}{\\*\\generator Riched20 10.0.19041}\\viewkind4\\uc1 \\pard\\sa200\\sl276\\slmult1\\b\\f0\\fs28\\lang9 NiceHash QuickMiner - End User License Agreement\\b0\\fs22\\par Dear user! You are about to start using NiceHash QuickMiner:\\par\\pard{\\pntext\\f1\\'B7\\tab}{\\*\\pn\\pnlvlblt\\pnf1\\pnindent0{\\pntxtb\\'B7}}\\fi-360\\li720\\sa200\\sl276\\slmult1 You will share computing power of your PC and for that, you will be paid accordingly in cryptocurrency Bitcoin (BTC).\\par{\\pntext\\f1\\'B7\\tab}This may result in battery life shortage of your device and increased electricity consumption.\\par\\pard\\sa200\\sl276\\slmult1 How does it work: {{\\field{\\*\\fldinst{HYPERLINK https://www.nicehash.com }}{\\fldrslt{https://www.nicehash.com\\ul0\\cf0}}}}\\f0\\fs22\\par\\pard\\sa200\\sl276\\slmult1 What is cryptocurrency: {{\\field{\\*\\fldinst{HYPERLINK https://en.wikipedia.org/wiki/Cryptocurrency }}{\\fldrslt{https://en.wikipedia.org/wiki/Cryptocurrency\\ul0\\cf0}}}}\\f0\\fs22\\par Do you accept the terms?\\par}"]
 ]}
