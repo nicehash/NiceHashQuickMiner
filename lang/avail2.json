@@ -10,5 +10,5 @@
 		{ "short" : "hu", "name" : "Magyar", "version" : 4 },
 		{ "short" : "sl1", "name" : "Slovenščina", "version" : 6 }
 	],
-  "eula_en_1" : "{\\rtf1\\ansi\\b1NiceHash QuickMiner\\b0\\line\\line{\\field{\\*\\fldinst HYPERLINK \"https://www.nicehash.com/\"}{\\fldrslt NiceHash}}\\line\\lineDo you accept the terms?}"
+  "eula_en_1" : "{\\rtf1\\ansi\\b1NiceHash QuickMiner End User Agreement\\b0\\line\\lineDear user! You are about to start using NiceHash QuickMiner:\\line\\bullet You will share computing power of your PC and for that, you will be paid accordingly in cryptocurrency Bitcoin (BTC).\\line\\bullet This may result in battery life shortage of your device and increased electricity consumption.\\line\\lineHow does it work: https://www.nicehash.com \\lineWhat is cryptocurrency: https://en.wikipedia.org/wiki/Cryptocurrency \\line\\lineDo you accept the terms?}"
 }
