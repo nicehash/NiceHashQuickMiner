@@ -38,6 +38,8 @@ When you have all the updates done, submit pull request.
 
 ### Special: Translating EULA RTF
 
+> NOTE: Must use latest NiceHashQuickMiner.exe; download: https://github.com/nicehash/NiceHashQuickMiner/releases
+
 Write text in WordPad first, style it and save into any file eg.: _example.rtf_. Then execute:
 
 `NiceHashQuickMiner.exe --port-rtf example.rtf translated.txt`
