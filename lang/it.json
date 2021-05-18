@@ -1,4 +1,4 @@
-{	"version": 5,
+{	"version": 6,
 	"strings": [
 		["GEN00001","Uscita"],
 		["GEN00002","OK"],
@@ -22,6 +22,8 @@
 		["INST0014","Impossibile avviare NiceHashQuickMiner.exe; errore:"],
 		["INST0015","è stato installato con successo! Grazie per il tuo sostegno!"],
 		["INST0016","Applica OPTIMIZE (Lite) per tutti i dispositivi"],
+		["INST0017","Accetta"],
+		["INST0018","Declina"],
 
 		["PROG0001","NiceHash QuickMiner è già in esecuzione!"],
 		["PROG0002","È stato rilevato che NiceHash QuickMiner ha causato un arresto anomalo del PC."],
@@ -88,7 +90,7 @@
 		["FRM10103","MSI disabilitato! Per favore, abilita MSI per una migliore stabilità!"],
 		["FRM10201","Caricamento completato!"],
 		["FRM10301","Impossibile modificare durante la Modalità Gioco.\n\nPer favore, disattiva la Modalità Gioco!"],
-		
+
 		["FRM20001","L'indirizzo Bitcoin di mining impostato è invalido o inesistente. Per favore inserisci il tuo Indirizzo di Mining NiceHash:"],
 		["FRM20002","Incolla"],
 		["FRM20003","Inserisci il tuo indirizzo di mining quì"],
@@ -154,4 +156,6 @@
 		["UPDT0008","NiceHash QuickMiner è stato aggiornato con successo alla versione"],
 		["UPDT0009",".\n\nLa nuova versione può rilevare e scegliere automaticamente la posizione migliore per il servizio con un'affidabilità molto elevata. Dispone inoltre di fallback automatico alla posizione secondaria in caso di interruzione o manutenzione alla posizione principale. Vuoi attivare la funzionalità della posizione automatica?"],
 		["UPDT0010",".\n\nLa nuova versione aumenta la sicurezza del mining. Per potere funzionare correttamente, abbiamo dovuto modificare la riga di comando per l'avvio di Excavator. Fai clic su Sì se accetti di reimpostarla. Se non la ripristini NiceHash QuickMiner potrebbe non funzionare correttamente."]
+
+		["EULA0000","{\\rtf1\\ansi\\ansicpg1252\\deff0\\nouicompat\\deflang2057{\\fonttbl{\\f0\\fnil\\fcharset0 Calibri;}{\\f1\\fnil\\fcharset2 Symbol;}}{\\colortbl ;\\red0\\green0\\blue255;}{\\*\\generator Riched20 10.0.19041}\\viewkind4\\uc1 \\pard\\sa200\\sl276\\slmult1\\b\\f0\\fs28\\lang9 NiceHash QuickMiner - End User License Agreement\\b0\\fs22\\par Dear user! You are about to start using NiceHash QuickMiner:\\par\\pard{\\pntext\\f1\\'B7\\tab}{\\*\\pn\\pnlvlblt\\pnf1\\pnindent0{\\pntxtb\\'B7}}\\fi-360\\li720\\sa200\\sl276\\slmult1 You will share computing power of your PC and for that, you will be paid accordingly in cryptocurrency Bitcoin (BTC).\\par{\\pntext\\f1\\'B7\\tab}This may result in battery life shortage of your device and increased electricity consumption.\\par\\pard\\sa200\\sl276\\slmult1 How does it work: {{\\field{\\*\\fldinst{HYPERLINK https://www.nicehash.com }}{\\fldrslt{https://www.nicehash.com\\ul0\\cf0}}}}\\f0\\fs22\\par\\pard\\sa200\\sl276\\slmult1 What is cryptocurrency: {{\\field{\\*\\fldinst{HYPERLINK https://en.wikipedia.org/wiki/Cryptocurrency }}{\\fldrslt{https://en.wikipedia.org/wiki/Cryptocurrency\\ul0\\cf0}}}}\\f0\\fs22\\par Do you accept the terms?\\par}"]
 ]}
