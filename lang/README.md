@@ -34,3 +34,12 @@ This will dump your language file and make a console printout of missing strings
 Again, file must be valid JSON format (verify!) and UTF8 encoded.
 
 When you have all the updates done, submit pull request.
+
+
+### Special: Translating EULA RTF
+
+Write text in WordPad first, style it and save into any file eg.: _example.rtf_. Then execute:
+
+`NiceHashQuickMiner.exe --port-rtf example.rtf translated.txt`
+
+Your translated and formatted text is ported and ready in file _translated.txt_. Copy it out and put into language file.
