@@ -1,14 +1,14 @@
 {
 	"langs" : [
-		{ "short" : "de", "group" : "", "name" : "Deutsch", "version" : 5 },
-		{ "short" : "es", "group" : "", "name" : "Español", "version" : 5 },
-		{ "short" : "fr", "group" : "", "name" : "Français", "version" : 5 },
-		{ "short" : "pt", "group" : "", "name" : "Português", "version" : 5 },
+		{ "short" : "de", "group" : "1", "name" : "Deutsch", "version" : 5 },
+		{ "short" : "es", "group" : "1", "name" : "Español", "version" : 5 },
+		{ "short" : "fr", "group" : "1", "name" : "Français", "version" : 5 },
+		{ "short" : "pt", "group" : "1", "name" : "Português", "version" : 5 },
 		{ "short" : "ru", "group" : "1", "name" : "Русский", "version" : 6 },
-		{ "short" : "ja", "group" : "", "name" : "日本語", "version" : 4 },
-		{ "short" : "zh", "group" : "", "name" : "中文", "version" : 5 },
-		{ "short" : "hu", "group" : "", "name" : "Magyar", "version" : 4 },
-		{ "short" : "sl", "group" : "", "name" : "Slovenščina", "version" : 5 }
+		{ "short" : "ja", "group" : "1", "name" : "日本語", "version" : 4 },
+		{ "short" : "zh", "group" : "1", "name" : "中文", "version" : 5 },
+		{ "short" : "hu", "group" : "1", "name" : "Magyar", "version" : 4 },
+		{ "short" : "sl", "group" : "1", "name" : "Slovenščina", "version" : 5 }
 	],
   "eula_en_1" : "{\\rtf1\\ansi\\ansicpg1252\\deff0\\nouicompat\\deflang2057{\\fonttbl{\\f0\\fnil\\fcharset0 Calibri;}{\\f1\\fnil\\fcharset2 Symbol;}}{\\colortbl ;\\red0\\green0\\blue255;}{\\*\\generator Riched20 10.0.19041}\\viewkind4\\uc1 \\pard\\sa200\\sl276\\slmult1\\b\\f0\\fs28\\lang9 NiceHash QuickMiner - End User License Agreement\\b0\\fs22\\par Dear user! You are about to start using NiceHash QuickMiner:\\par\\pard{\\pntext\\f1\\'B7\\tab}{\\*\\pn\\pnlvlblt\\pnf1\\pnindent0{\\pntxtb\\'B7}}\\fi-360\\li720\\sa200\\sl276\\slmult1 You will share computing power of your PC and for that, you will be paid accordingly in cryptocurrency Bitcoin (BTC).\\par{\\pntext\\f1\\'B7\\tab}This may result in battery life shortage of your device and increased electricity consumption.\\par\\pard\\sa200\\sl276\\slmult1 How does it work: {{\\field{\\*\\fldinst{HYPERLINK https://www.nicehash.com }}{\\fldrslt{https://www.nicehash.com\\ul0\\cf0}}}}\\f0\\fs22\\par\\pard\\sa200\\sl276\\slmult1 What is cryptocurrency: {{\\field{\\*\\fldinst{HYPERLINK https://en.wikipedia.org/wiki/Cryptocurrency }}{\\fldrslt{https://en.wikipedia.org/wiki/Cryptocurrency\\ul0\\cf0}}}}\\f0\\fs22\\par Do you accept the terms?\\par}"
 }
