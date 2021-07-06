@@ -17,6 +17,12 @@
       { "id": 2, "pt": 0, "dmc": 800, "mcc": 1065, "fm": 3, "ftg" : 58, "ftr": 94 },
       { "id": 1, "pt": 0, "dmc": -400, "mcc": 945, "fm": 3, "ftg" : 62, "ftr": 94 }
     ]},
+    { "name": "GeForce RTX 3080 Ti", "op": [
+      { "id": 11, "pt": 0, "dmc": 1600, "mcc": 600, "fm": 3, "ftg" : 58, "ftr": 88 },
+      { "id": 3, "pt": 0, "dmc": 2050, "mcc": 1560, "fm": 3, "ftg" : 64, "ftr": 90 },
+      { "id": 2, "pt": 0, "dmc": 1850, "mcc": 1605, "fm": 3, "ftg" : 62, "ftr": 94 },
+      { "id": 1, "pt": 0, "dmc": 1500, "mcc": 1530, "fm": 3, "ftg" : 62, "ftr": 94 }
+    ]},
     { "name": "GeForce RTX 3080", "op": [
       { "id": 4, "pt": 0, "dmc": 1600, "mcc": 1290, "fm": 3, "ftg" : 50, "ftr": 74 },
       { "id": 3, "pt": 0, "dmc": 1300, "mcc": 1200, "fm": 3, "ftg" : 56, "ftr": 90 },
