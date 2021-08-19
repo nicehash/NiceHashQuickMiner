@@ -114,7 +114,7 @@
 		["ABT00001","Version:"],
 
 		["FRM90001","Optional Settings"],
-		["FRM90002","Let's configure following settings which are not mandatory, but recommended to configure. If you are in a hurry, you can skip this and configure later via config file (nhqm.conf)."],
+		["FRM90002","Let's configure the following settings which are not mandatory, but recommended to configure. If you are in a hurry, you can skip this and configure later via config file (nhqm.conf)."],
 		["FRM90003","Skip >>"],
 		["FRM90004","Language"],
 		["FRM90005","Name"],
