@@ -11,6 +11,13 @@
     { "id": 101, "name": "Enterprise" }
   ],
   "devices": [
+    { "name": "CMP 90HX", "op": [
+      { "id": 12, "pt": 0, "dmc": 500, "mcc": 1305, "fm": 3, "ftg" : 58, "ftr": 90 },
+      { "id": 11, "pt": 0, "dmc": 900, "mcc": 1290, "fm": 3, "ftg" : 60, "ftr": 93 },
+      { "id": 3, "pt": 0, "dmc": 1100, "mcc": 1545, "fm": 3, "ftg" : 60, "ftr": 94 },
+      { "id": 2, "pt": 0, "dmc": 900, "mcc": 1515, "fm": 3, "ftg" : 60, "ftr": 94 },
+      { "id": 1, "pt": 0, "dmc": 500, "mcc": 1440, "fm": 3, "ftg" : 60, "ftr": 90 }
+    ]},
     { "name": "GeForce RTX 3090", "op": [
       { "id": 4, "pt": 0, "dmc": 1500, "mcc": 1200, "fm": 3, "ftg" : 50, "ftr": 74 },
       { "id": 3, "pt": 0, "dmc": 1200, "mcc": 1140, "fm": 3, "ftg" : 56, "ftr": 90 },
