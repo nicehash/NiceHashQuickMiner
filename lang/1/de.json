@@ -81,7 +81,7 @@
 		["FRM10062","Ihre Mining BTC Adresse wurde redigiert und es sind nur Protokolle der letzten 6 Stunden enthalten, um die Dateigroße zu verringern. Sie sollten diese Datei anhängen, wenn Sie ein Problem/Fehlerbericht senden."],
 		["FRM10063","Fehler beim Exportieren der Protokolle, Grund:"],
 		["FRM10064","Exportieren der Protokolldateien in eine ZIP Datei"],
-		["FRM10070","Aktivieren Sie Message Signaled Interrupts (MSI) für alle unterstützten Grafikkarten. Die Stabilität Ihrer Mininganlage kann sich dadurch deutlich erhöhen.\n\nGEFAHR! In einigen seltenen Fällen kann diese Aktion Ihre Anzeigetreiber beschädigen. Es wird empfohlen vor der Aktivierung von MSI einen Systemwiederherstellungspunkt zu erstellen.\n\nMSI jetzt aktivieren?"],
+		["FRM10070","Optimieren Sie die Stabilität, indem Sie Message Signaled Interrupts (MSI) für alle unterstützten Grafikkarten aktivieren. Ihre Mininganlage kann eine deutlich verbesserte Stabilität erhalten.\n\nGEFAHR! In einigen seltenen Fällen kann diese Aktion Ihre Anzeigetreiber beschädigen. Es wird empfohlen vor der Aktivierung von MSI eine Systemwiederherstellung durchzuführen.\n\nMSI jetzt aktivieren?"],
 		["FRM10071","Aktion fehlgeschlagen, Fehler:"],
 		["FRM10072","Alle Grafikkarten wurden bereits optimiert!"],
 		["FRM10073","Erfolgreich! Bitte starten Sie Ihren PC neu.\n\nFolgende Grafikkarten wurden optimiert:"],
