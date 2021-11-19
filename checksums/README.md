@@ -10,6 +10,8 @@ If the file's SHA1 or SHA256 does not match **precisely with each letter and num
 File Name | Checksum
 ----------|--------------
 Installer (v0.5.1.3):<br>[NiceHashQuickMinerInstaller.exe](https://github.com/nicehash/NiceHashQuickMiner/releases/download/v0.5.1.3/NiceHashQuickMinerInstaller.exe) | **SHA1:** B69D4CE6508CE3D6CDF02793D57F49660A50CEC8<br> **SHA256**: 3A308CF2B7F09A4B073BF89A95C599BA690C55136D10B7CA7C642B294DF3B839
+[NHQM_v0.5.3.0.zip](https://github.com/nicehash/NiceHashQuickMiner/releases/tag/v0.5.3.0 RC) | **SHA1:** 3ac1b5a4a006f1b1632c6854219b4839ce1a8877<br> **SHA256**: 31a326effa4bc9b2cd9bac7e7722f210564c5e7c76c3b00f6f5574e2d0049330
+[NHQM_v0.5.2.0.zip](https://github.com/nicehash/NiceHashQuickMiner/releases/tag/v0.5.2.0) | **SHA1:** 1528cd381bf76250ae15844800bf7807969180cc<br> **SHA256**: 6a08d887ea840fb11a43b4da4775d50bc8d4847071fa885145ee25e716e937b6
 [NHQM_v0.5.2.0_RC.zip](https://github.com/nicehash/NiceHashQuickMiner/releases/tag/v0.5.2.0_RC) | **SHA1:** 29AE388DF6703D3C11A2BB660E3F9A5F58D9AC30<br> **SHA256**: FA14FC4FC0776861216B58C49396C2BC7C8FBE4D74419E88483D59E8139FDBB1
 [NHQM_v0.5.1.6_RC.zip](https://github.com/nicehash/NiceHashQuickMiner/releases/tag/v0.5.1.6_RC) | **SHA1:** 5A7A2EEBBCB4CDF5B647DEF7623B01E1D0D72BFD<br> **SHA256**: 133003ED0BD2039BC8C44FA85480B9702AA0A7C464E2633F70E71E7A8615A909
 [NiceHash_QuickMiner_v0.5.1.4_RC.zip](https://github.com/nicehash/NiceHashQuickMiner/releases/tag/v0.5.1.4_RC) | **SHA1:** 7BF35522100693ED6F8CA1C86D815472DB58661D<br> **SHA256**: 345863153D9703C9D4D91D50A05095126ECA2464599CFEF63A940F5EABBBEED0
