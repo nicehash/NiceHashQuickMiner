@@ -13,6 +13,7 @@
   "stable":{
     "version_str":"0.5.2.0",
     "version":50200,
+	"package_sha256":"19777E1C2E752D59A06FC4EDDE3699F2620BE8CB4F312C7E51DADA053FDDBAD9",
     "sigs": [{
       "version": 1,
       "signatures": [
