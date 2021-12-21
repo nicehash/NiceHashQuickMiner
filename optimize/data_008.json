@@ -11,6 +11,46 @@
     { "id": 101, "name": "Enterprise" }
   ],
   "devices": [
+    { "name": "AMD Radeon RX Vega", "op": [
+      { "id": 3, "pt": 4, "mmc": 1890, "mcc": 1400, "mcv": 970, "fm": 3, "ftg" : 65},
+      { "id": 2, "pt": 4, "mmc": 1850, "mcc": 1400, "mcv": 990, "fm": 3, "ftg" : 65},
+      { "id": 1, "pt": 4, "mmc": 1800, "mcc": 1400, "mcv": 1000, "fm": 3, "ftg" : 65}
+    ]},
+    { "name": "AMD Radeon VII", "op": [
+      { "id": 3, "pt": 4, "mmc": 1190, "mcc": 1900, "mcv": 1020, "fm": 3, "ftg" : 65},
+      { "id": 2, "pt": 4, "mmc": 1190, "mcc": 1800, "mcv": 950, "fm": 3, "ftg" : 65},
+      { "id": 1, "pt": 4, "mmc": 1100, "mcc": 1740, "mcv": 950, "fm": 3, "ftg" : 65}
+    ]},
+    { "name": "AMD Radeon RX 5700 XT", "op": [
+      { "id": 3, "pt": 4, "mmc": 1890, "mcc": 1400, "mcv": 970, "fm": 3, "ftg" : 65},
+      { "id": 2, "pt": 4, "mmc": 1850, "mcc": 1400, "mcv": 990, "fm": 3, "ftg" : 65},
+      { "id": 1, "pt": 4, "mmc": 1800, "mcc": 1400, "mcv": 1000, "fm": 3, "ftg" : 65}
+    ]},
+    { "name": "AMD Radeon RX 5700", "op": [
+      { "id": 2, "pt": 4, "mmc": 1856, "mcc": 1200, "mcv": 900, "fm": 3, "ftg" : 65},
+      { "id": 1, "pt": 4, "mmc": 1856, "mcc": 1325, "mcv": 925, "fm": 3, "ftg" : 65}
+    ]},
+    { "name": "AMD Radeon RX 6900 XT", "op": [
+      { "id": 2, "pt": 5, "mmc": 2138, "mcc": 1450, "fm": 3, "ftg" : 65},
+      { "id": 1, "pt": 5, "mmc": 2100, "mcc": 1400, "fm": 3, "ftg" : 65}
+    ]},
+    { "name": "AMD Radeon RX 6800 XT", "op": [
+      { "id": 3, "pt": 5, "mmc": 2138, "mcc": 1300, "fm": 2, "ftg" : 65},
+      { "id": 2, "pt": 5, "mmc": 2138, "mcc": 1400, "fm": 2, "ftg" : 65},
+      { "id": 1, "pt": 5, "mmc": 2100, "mcc": 1500, "fm": 2, "ftg" : 65}
+    ]},
+    { "name": "AMD Radeon RX 6700 XT", "op": [
+      { "id": 2, "pt": 5, "mmc": 2138, "mcc": 1200, "fm": 3, "ftg" : 65},
+      { "id": 1, "pt": 5, "mmc": 2100, "mcc": 1300, "fm": 3, "ftg" : 65}
+    ]},
+    { "name": "AMD Radeon RX 6600 XT", "op": [
+      { "id": 2, "pt": 5, "mmc": 2230, "mcc": 950, "fm": 3, "ftg" : 65},
+      { "id": 1, "pt": 5, "mmc": 2150, "mcc": 1100, "fm": 3, "ftg" : 65}
+    ]},
+    { "name": "AMD Radeon RX 6600", "op": [
+      { "id": 2, "pt": 5, "mmc": 1890, "mcc": 900, "fm": 3, "ftg" : 65},
+      { "id": 1, "pt": 5, "mmc": 1800, "mcc": 1300, "fm": 3, "ftg" : 65}
+    ]},
     { "name": "CMP 90HX", "op": [
       { "id": 12, "pt": 0, "dmc": 500, "mcc": 1305, "fm": 3, "ftg" : 58, "ftr": 90 },
       { "id": 11, "pt": 0, "dmc": 900, "mcc": 1290, "fm": 3, "ftg" : 60, "ftr": 93 },
