@@ -1,0 +1,637 @@
+{
+  "version": 7,
+  "strings": [
+    [
+      "GEN00001",
+      "Izhod"
+    ],
+    [
+      "GEN00002",
+      "V redu"
+    ],
+    [
+      "GEN00003",
+      "Prekliči"
+    ],
+    [
+      "GEN00004",
+      "Stabilen"
+    ],
+    [
+      "GEN00005",
+      "RC (Release Candidate)"
+    ],
+    [
+      "INST0001",
+      "Nicehash QuickMiner je že nameščen v:"
+    ],
+    [
+      "INST0002",
+      "Želite prepisati to namestitev?"
+    ],
+    [
+      "INST0003",
+      "Prenesite in namestite"
+    ],
+    [
+      "INST0004",
+      "Jezik:"
+    ],
+    [
+      "INST0005",
+      "Installation folder:"
+    ],
+    [
+      "INST0006",
+      "Brskaj"
+    ],
+    [
+      "INST0007",
+      "Vrsta različice:"
+    ],
+    [
+      "INST0008",
+      "Ustvarite bližnjico na namizju"
+    ],
+    [
+      "INST0009",
+      "Po namestitvi zaženi Nicehash QuickMiner"
+    ],
+    [
+      "INST0010",
+      "Prenesite in namestite"
+    ],
+    [
+      "INST0011",
+      "Prenašanje in nalaganje, počakajte ..."
+    ],
+    [
+      "INST0012",
+      "excavator.exe ni mogoče zagnati; Napaka:"
+    ],
+    [
+      "INST0013",
+      "Če AV blokira datoteko, jo dovolite ali naredite izjemo, nato ponovite namestitev."
+    ],
+    [
+      "INST0014",
+      "Ni mogoče zagnati NicehashquickMiner.exe;Napaka:"
+    ],
+    [
+      "INST0015",
+      "je bil uspešno nameščen!"
+    ],
+    [
+      "INST0016",
+      "Nastavi OPTIMIZE (Lite) za vse naprave"
+    ],
+    [
+      "INST0017",
+      "Sprejmi"
+    ],
+    [
+      "INST0018",
+      "Zavrni"
+    ],
+    [
+      "PROG0001",
+      "Nicehash QuickMiner že teče!"
+    ],
+    [
+      "PROG0002",
+      "Zaznano je bilo, da je Nicehash QuickMiner zrušil vaš računalnik."
+    ],
+    [
+      "PROG0003",
+      "Želite ponastaviti vse nastavitvene profile nazaj na privzeto (ročno) vrednost za vse grafične kartice?"
+    ],
+    [
+      "PROG0004",
+      "Ne morem zagnati Nicehash QuickMiner.Napaka:\n\n - Manjkajoče datoteke\n\nNekatere datoteke so bile izbrisane s tretjim programom. - najverjetneje AV."
+    ],
+    [
+      "PROG0005",
+      "Napaka pri namestitvi!\n\nNicehash QuickMiner ni mogel nadaljevati z namestitvijo. Napaka:"
+    ],
+    [
+      "PROG0006",
+      "NVML ni mogoče inicializirati.\n\nNicehash QuickMiner ne deluje brez naprav NVIDIA!"
+    ],
+    [
+      "PROG0007",
+      "Nisem mogel dobiti različice NVIDIA gonilnika!"
+    ],
+    [
+      "PROG0008",
+      "Neveljavna različica gonilnika NVIDIA. Najmanj 470.05. \n\nProsimo, namestite najnovejše NVIDIA gonilnike!"
+    ],
+    [
+      "PROG0009",
+      "Ni zaznana združljiva strojna oprema!\n\nČe imate združljivo strojno opremo, poskusite znova zagnati računalnik."
+    ],
+    [
+      "FRM10001",
+      "POMEMBNO! QuickMinerja lahko nadzorujete preko kontekstnega menija. Z desnim klikom kliknite na ikono Nicehash v opravilni vrstici Windows. Poglej sliko za primer:"
+    ],
+    [
+      "FRM10002",
+      "Ok, testiral sem in razumem! Zapri to pogovorno okno."
+    ],
+    [
+      "FRM10003",
+      "Nalaganje: "
+    ],
+    [
+      "FRM10004",
+      "Pokaži nastavitve"
+    ],
+    [
+      "FRM10074",
+      "Pokaži glavno formo"
+    ],
+    [
+      "FRM10005",
+      "Vizitka"
+    ],
+    [
+      "FRM10006",
+      "Izvozi dnevnike"
+    ],
+    [
+      "FRM10007",
+      "Polni podrobni dnevniki"
+    ],
+    [
+      "FRM10008",
+      "Poglej priročnike"
+    ],
+    [
+      "FRM10009",
+      "Pomoč"
+    ],
+    [
+      "FRM10010",
+      "Zaženi z Windowsi"
+    ],
+    [
+      "FRM10011",
+      "CPU rudarjenje"
+    ],
+    [
+      "FRM10012",
+      "Uredi ukazno datoteko."
+    ],
+    [
+      "FRM10013",
+      "Uredi konfiguracijo datoteko"
+    ],
+    [
+      "FRM10014",
+      "Nastavitve"
+    ],
+    [
+      "FRM10015",
+      "Konfigurirajte"
+    ],
+    [
+      "FRM10016",
+      "Aktiviraj"
+    ],
+    [
+      "FRM10017",
+      "Način igre"
+    ],
+    [
+      "FRM10018",
+      "Začnite rudariti"
+    ],
+    [
+      "FRM10019",
+      "Odpri"
+    ],
+    [
+      "FRM10020",
+      "Deaktiviraj"
+    ],
+    [
+      "FRM10021",
+      "Zaženi"
+    ],
+    [
+      "FRM10022",
+      "Ustavi"
+    ],
+    [
+      "FRM10023",
+      "Posodobitev nove različice ni uspela, razlog:"
+    ],
+    [
+      "FRM10024",
+      "Prosimo, rešite težavo ali posodobite ročno."
+    ],
+    [
+      "FRM10025",
+      "obvestilo"
+    ],
+    [
+      "FRM10026",
+      "Excavator.exe se je začel rudariti uspešno!"
+    ],
+    [
+      "FRM10027",
+      "Hitrost"
+    ],
+    [
+      "FRM10028",
+      "Ni bilo mogoče zagnati excavator.exe. Oglejte si vodnik za odpravljanje težav z Nicehash QuickMiner."
+    ],
+    [
+      "FRM10029",
+      "Ni mogoče vzpostaviti povezave z excavator.exe. Oglejte si vodnik za odpravljanje težav z Nicehash QuickMiner."
+    ],
+    [
+      "FRM10030",
+      "Excavator.exe se je ustavil!"
+    ],
+    [
+      "FRM10031",
+      "Ta računalnik nima dovolj virtualnega pomnilnika. Povečajte virtualni pomnilnik ali dodate več fizičnega RAM-a."
+    ],
+    [
+      "FRM10040",
+      "Način igre je še vedno aktiven!\n\nŽelite zapreti NiceHash QuickMiner v vsakem primeru?"
+    ],
+    [
+      "FRM10041",
+      "To dejanje se bo zaprlo NiceHash QuickMiner.\n\nSte prepričani, da želite zapreti Nicehash QuickMiner?"
+    ],
+    [
+      "FRM10042",
+      "Ne morem zaznati grafične kartice s priključenim zaslonom ali pa za prikaz uporabljate starejšo grafično kartico!"
+    ],
+    [
+      "FRM10043",
+      "Način igre aktiviran na primarni GPU z zaslonom. Rudarjenje se je na tem GPU ustavilo, uporabljen je igraški overclock.\n\nIgraj!"
+    ],
+    [
+      "FRM10044",
+      "Način igre deaktiviran na primarni GPU z zaslonom. GPU je spet začel rudarit z rudarskim overclockom (če je nastavljen)."
+    ],
+    [
+      "FRM10050",
+      "Naloga samodejnega zagona"
+    ],
+    [
+      "FRM10051",
+      "NiceHash QuickMiner naloga samodejnega zagona je bila odstranjena."
+    ],
+    [
+      "FRM10052",
+      "Ni uspelo odstraniti NiceHash QuickMiner naloge samodejnega zagona! Razlog:"
+    ],
+    [
+      "FRM10053",
+      "Naloga samodejnga zagona NiceHash Quickminer je bila naložena uspešno.\n\nKo se Windows zažene bo NiceHash QuickMiner začel rudariti samodejno."
+    ],
+    [
+      "FRM10054",
+      "Ni bilo mogoče namestiti Nicehash QuickMiner naloge samodejnega zagona! Razlog:"
+    ],
+    [
+      "FRM10060",
+      "Ni bilo mogoče ponovno zagnati Excavator! Prosimo, ponovno zaženite Nicehash QuickMiner za popravilo te napake!"
+    ],
+    [
+      "FRM10061",
+      "Končano! Dnevniki so bili izvoženi v enotno .zip datoteko:"
+    ],
+    [
+      "FRM10062",
+      "Vaš rudarski BTC naslov je bil odstranjen. Vključenih je le v zadnjih 6 ur dnevnikov za zmanjšanje velikosti datoteke. To datoteko morate priložiti pri oddaji poročila o težavi/napaki."
+    ],
+    [
+      "FRM10063",
+      "Ni bilo mogoče izvoziti dnevnike, razlog:"
+    ],
+    [
+      "FRM10064",
+      "Izvozi datoteke dnevnika v datoteko ZIP"
+    ],
+    [
+      "FRM10070",
+      "Optimiziraj stabilnost z aktiviranjem Message Signaled Interrupts (MSI) za vse podprte grafične kartice. Stabilnost vaše rudarske naprave se lahko bistveno izboljša.\n\nNEVARNOST! V nekaterih redkih primerih lahko ta ukrep prekine vaše gonilnike. Priporočljivo je, da se pripravi obnovitev sistema pred aktiviranjem MSI.\n\nAktiviram MSI zdaj?"
+    ],
+    [
+      "FRM10071",
+      "Ukrep ni uspel, napaka:"
+    ],
+    [
+      "FRM10072",
+      "Vse grafične kartice so že optimizirane!"
+    ],
+    [
+      "FRM10073",
+      "Uspešno! Prosimo, ponovno zaženite PC! Naslednje grafične kartice so bile optimizirane:"
+    ],
+    [
+      "FRM10101",
+      "Dodatno"
+    ],
+    [
+      "FRM10102",
+      "Vklopi MSI interrupts"
+    ],
+    [
+      "FRM10103",
+      "MSI izključen! Prosimo, vključite MSI za boljšo stabilnost!"
+    ],
+    [
+      "FRM10201",
+      "Nalaganje končano!"
+    ],
+    [
+      "FRM10301",
+      "Način igre vključen: ni možno spremeniti.\n\nProsimo, najprej izključite Način igre!"
+    ],
+    [
+      "FRM20001",
+      "Neveljaven rudarksi Bitcoin naslov. Vnesite svoj rudarski naslov za NiceHash:"
+    ],
+    [
+      "FRM20002",
+      "Odložišče"
+    ],
+    [
+      "FRM20003",
+      "tukaj vnesite svoj rudarski naslov"
+    ],
+    [
+      "FRM20005",
+      "Ne veste kje? Prijavite se v svoj Nicehash račun, nato pa pojdite na to stran:"
+    ],
+    [
+      "FRM20006",
+      "Neveljaven BTC naslov.. Vneseni naslov ni pravilen."
+    ],
+    [
+      "FRM20007",
+      "Začni rudariti avtomatsko"
+    ],
+    [
+      "FRM20008",
+      "Avtomatski zagon rudarjenja"
+    ],
+    [
+      "FRM20009",
+      "NiceHash QuickMiner ne bo več avtomatsko začel z rudarjenjem."
+    ],
+    [
+      "FRM20010",
+      "NiceHash QuickMiner bo začel rudariti avtomatsko."
+    ],
+    [
+      "FRM20011",
+      "Ne kaži več tega okna"
+    ],
+    [
+      "UINS0001",
+      "Odstranite"
+    ],
+    [
+      "UINS0002",
+      "Preden odstranite NiceHash QuickMiner, prosim izberite naslednje možnosti:"
+    ],
+    [
+      "UINS0003",
+      "Ohranite konfiguracijo (nhqm.conf)."
+    ],
+    [
+      "UINS0004",
+      "Ohranite ukazne datoteke (*.json), ki vsebujejo overclock in nastavitve ventilatorja."
+    ],
+    [
+      "UINS0005",
+      "Ohranite datoteke dnevnika."
+    ],
+    [
+      "GAME0001",
+      "Možnosti načina igre"
+    ],
+    [
+      "GAME0002",
+      "Zaznan primarni GPU s priključenim prikazom:"
+    ],
+    [
+      "GAME0003",
+      "Overclock vrednosti, ki se uporabljajo na primarni GPU, ko je način igre aktiven:"
+    ],
+    [
+      "GAME0004",
+      "TDP"
+    ],
+    [
+      "GAME0005",
+      "Core clock delta"
+    ],
+    [
+      "GAME0006",
+      "Memory clock delta"
+    ],
+    [
+      "GAME0007",
+      "Nastavite ventilator na avtomatsko"
+    ],
+    [
+      "ABT00001",
+      "Različica:"
+    ],
+    [
+      "FRM90001",
+      "Neobvezne nastavitve"
+    ],
+    [
+      "FRM90002",
+      "Konfigurirajte naslednje nastavitve, ki niso obvezne, vendar priporočamo, da se konfigurirajo. Če ste v naglici, lahko to preskočite in konfigurirate pozneje preko konfiguracijske datoteke (nhqm.conf)."
+    ],
+    [
+      "FRM90003",
+      "Preskoči >>"
+    ],
+    [
+      "FRM90004",
+      "Jezik"
+    ],
+    [
+      "FRM90005",
+      "Ime"
+    ],
+    [
+      "FRM90006",
+      "Samodejni zagon"
+    ],
+    [
+      "FRM90007",
+      "Ravnanje z napako"
+    ],
+    [
+      "FRM90008",
+      "Nasveti & triki"
+    ],
+    [
+      "FRM90009",
+      "Upravljalec naprav"
+    ],
+    [
+      "FRM90010",
+      "Jezik vmesnika"
+    ],
+    [
+      "FRM90011",
+      "Poimenujte workerja"
+    ],
+    [
+      "FRM90012",
+      "Ime delavca:"
+    ],
+    [
+      "FRM90013",
+      "Želite da se Nicehash QuickMiner samodejno zažene z Windowsi?"
+    ],
+    [
+      "FRM90014",
+      "Samodejni zagon z Windowsi (Metoda upravitelja opravil)"
+    ],
+    [
+      "FRM90015",
+      "Kako ravnati z vašim računalnikom, ko grafična kartica postane neodzivna?"
+    ],
+    [
+      "FRM90016",
+      "Akcija:"
+    ],
+    [
+      "FRM90017",
+      "Naredi nič"
+    ],
+    [
+      "FRM90018",
+      "Ponovno zaženi Excavator (Privzeto)"
+    ],
+    [
+      "FRM90019",
+      "Ponovno zaženi PC (Priporočeno)"
+    ],
+    [
+      "FRM90020",
+      "Ponovni zagon NVIDIA gonilnikov"
+    ],
+    [
+      "FRM90021",
+      "Obstaja veliko več nastavitev, ki jih lahko konfigurirate. Preverite Nicehash QuickMiner Wiki za nasvete in trike."
+    ],
+    [
+      "FRM90022",
+      "PRIPOROČENO! Ne pozabite si ogledati - Optimizacijskih rešitev z enim klikom za GTX 1000 serijo, Titan V, RTX 2000 serijo, Titan RTX in RTX 3000 serijo namiznih grafičnih kartic. Visoka zanesljivost in zelo dobra učinkovitost zagotovljena!"
+    ],
+    [
+      "FRM90023",
+      "Če ste začetnik, vam priporočamo, da greste na upravitelja naprav sedaj. Če želite ročno overclockat grafično kartico, pojdite na naslednjo stran."
+    ],
+    [
+      "FRM90024",
+      "Upravljalec Naprav >>"
+    ],
+    [
+      "FRM90025",
+      "Lahko traja nekaj minut, da se vaš rudar pojavi v Upravljalcu Naprav. Prosim, bodite potrpežljivi!"
+    ],
+    [
+      "FRM90026",
+      "OCtune je močno overclocking orodje, ki zajema vse potrebe vsakega posameznega rudarja. Podpira spremembe core clokov, memory clockov, omejitve moči, ima sposobnost spreminjanja vedenja ventilatorja in vam omogoča manjšanje voltaže kartice za zmanjšanje porabe in povečanje učinkovitosti. Izklopite katero koli drugo orodje za overclocking in pustite, da OCtune prevzame popoln nadzor!"
+    ],
+    [
+      "FRM90027",
+      "Odpri OCtune >>"
+    ],
+    [
+      "FRM90028",
+      "Začni rudariti avtomatsko ob zagonu QuickMiner-ja"
+    ],
+    [
+      "F0100001",
+      "Samodejni zagon kmalu..."
+    ],
+    [
+      "F0100002",
+      "Ponastavitev OPTIMIZACIJ"
+    ],
+    [
+      "F0100003",
+      "Zagon"
+    ],
+    [
+      "F0100004",
+      "Optimizacijo lahko ponastavite preden se uporabi, da se izognete težavam računalnika, ki ga povzroča nezdružljivi optimizacijski profil."
+    ],
+    [
+      "F0120001",
+      "Začnite rudariti"
+    ],
+    [
+      "F0121001",
+      "Ustavi Rudarjenje"
+    ],
+    [
+      "F0120002",
+      "Vse je pripravljeno za začetek!"
+    ],
+    [
+      "F0121002",
+      "Rudarjenje..."
+    ],
+    [
+      "UPDT0001",
+      "Na voljo je nova različica"
+    ],
+    [
+      "UPDT0002",
+      "NiceHash QuickMiner in"
+    ],
+    [
+      "UPDT0003",
+      " je na voljo.\n\nŽelite nadgraditi sedaj?"
+    ],
+    [
+      "UPDT0004",
+      "Nova različica prenesena"
+    ],
+    [
+      "UPDT0005",
+      "NiceHash QuickMiner in"
+    ],
+    [
+      "UPDT0006",
+      " je bil prenesen.\n\nNiceHash QuickMiner je treba ponovno zagnati, da se posodobitev dokonča. Kliknite V redu, da ga znova zaženete, ko ste pripravljeni. Priporočljivo je preveriti nastavitve po posodobitvi in se prepričati, da Nicehash QuickMiner deluje pravilno in kot je pričakovano."
+    ],
+    [
+      "UPDT0007",
+      "Na voljo je nova funkcija"
+    ],
+    [
+      "UPDT0008",
+      "NiceHash QuickMiner je bil uspešno posodobljen v"
+    ],
+    [
+      "UPDT0009",
+      ".\n\nNova različica lahko samodejno zazna in izbere najboljšo lokacijo storitve z zelo visoko zanesljivostjo. Prav tako ima samodejni fallback na sekundarno lokacijo, ko je na primarni lokaciji izpad ali vzdrževanje. Želite vklopiti funkcijo samodejnega lociranja?"
+    ],
+    [
+      "UPDT0010",
+      ".\n\nNova različica poveča varnost vašega rudarjenja. Da bi to delalo pravilno, smo morali spremeniti ukazno vrstico za zagon Excavatorja. Kliknite DA, če se strinjate, da ga ponastavite. Če ga ne ponastavite, NiceHash QuickMiner morda ne bo deloval pravilno."
+    ],
+    [
+      "NOTICE0000",
+      "{\\rtf1\\ansi\\ansicpg1252\\deff0\\nouicompat{\\fonttbl{\\f0\\fswiss\\fcharset0 Helvetica-Bold;}{\\f1\\fswiss\\fcharset0 Helvetica;}{\\f2\\fswiss\\fcharset0 ArialMT;}{\\f3\\fnil\\fcharset2 Symbol;}}\n{\\colortbl ;\\red0\\green0\\blue0;\\red0\\green0\\blue255;\\red24\\green25\\blue27;}\n{\\*\\generator Riched20 10.0.22000}\\viewkind4\\uc1 \n\\pard\\cf1\\b\\f0\\fs28\\lang12 NiceHash QuickMiner \\b0\\f1\\fs24\\par\n\\par\n Spoštovnai uporabniki, pričeli boste z uporabo NiceHash storitev:\\par\n\n\\pard{\\pntext\\f3\\'B7\\tab}{\\*\\pn\\pnlvlblt\\pnf3\\pnindent2{\\pntxtb\\'B7}}\\fi-262\\li261\\tx20\\tx261 pri uporabi boste delili računsko močo vaše naprave in boste za to nagrajeni z izplačilom v kriptovaluti Bitcoin (BTC);\\par\n{\\pntext\\f3\\'B7\\tab}this may result in battery life shortage of your device and increased electricity consumption.\\par\n\n\\pard\\par\n Kako deluje: {\\cf0{\\field{\\*\\fldinst{HYPERLINK https://www.nicehash.com }}{\\fldrslt{https://www.nicehash.com\\ul0\\cf0}}}}\\ul\\f1\\fs24\\par\n\\ulnone\\par\n Kaj so kriptovalute: {\\ul{\\field{\\*\\fldinst{HYPERLINK https://en.wikipedia.org/wiki/Cryptocurrency }}{\\fldrslt{https://en.wikipedia.org/wiki/Cryptocurrency}}}}\\ul\\f1\\fs24\\par\n\\par\n\\cf3\\ulnone\\f2\\fs32\\par\n}\n"
+    ]
+  ]
+}
