@@ -1,159 +1,637 @@
-{	"version": 6,
-	"strings": [
-		["GEN00001","Beenden"],
-		["GEN00002","OK"],
-		["GEN00003","Abbrechen"],
-		["GEN00004","STABLE"],
-		["GEN00005","RC (Release Candidate)"],
-
-		["INST0001","Der NiceHash QuickMiner ist bereits installiert in:"],
-		["INST0002","Möchten Sie diese Installation überschreiben?"],
-		["INST0003","Herunterladen und Installieren"],
-		["INST0004","Sprache:"],
-		["INST0005","Installationsordner:"],
-		["INST0006","Browsen"],
-		["INST0007","Versionstyp:"],
-		["INST0008","Eine Verknüpfung auf dem Desktop erstellen"],
-		["INST0009","Den NiceHash QuickMiner nach der Installation ausführen"],
-		["INST0010","Herunterladen und Installieren"],
-		["INST0011","Herunterladen und Installieren, bitte warten..."],
-		["INST0012","excavator.exe kann nicht gestartet werden; Fehler:"],
-		["INST0013","Wenn Ihr Virenscanner die Datei blockiert, beenden Sie ihn oder fügen Sie eine Ausnahme hinzu, danach wiederholen Sie die Installation."],
-		["INST0014","NiceHashQuickMiner.exe kann nicht gestartet werden; Fehler:"],
-		["INST0015","wurde erfolgreich installiert! Vielen Dank für Ihre Unterstützung!"],
-		["INST0016","OPTIMIERUNG (Lite) für alle Geräte anwenden"],
-		["INST0017","Annehmen"],
-		["INST0018","Ablehnen"],
-
-		["PROG0001","Der NiceHash QuickMiner läuft bereits!"],
-		["PROG0002","Der NiceHash QuickMiner hat Ihren PC zum Absturz gebracht."],
-		["PROG0003","Möchten Sie alle Optimierungs-Profile für alle Grafikkarten auf den Standardwert (Manuell) zurücksetzen?"],
-		["PROG0004","Der NiceHash QuickMiner kann nicht gestartet werden. Fehler:\n\n - fehlende Dateien\n\nEinige Dateien wurden von einem Drittanbieterprogramm gelöscht - höchstwahrscheinlich der Virenscanner."],
-		["PROG0005","Fehler bei der Installation!\n\nDer NiceHash QuickMiner konnte mit der Installation nicht fortfahren. Fehler:"],
-		["PROG0006","NVML kann nicht initialisiert werden.\n\nDer NiceHash QuickMiner funktioniert nur mit NVIDIA-Karten!"],
-		["PROG0007","NVIDIA Treiberversion konnte nicht abgerufen werden!"],
-		["PROG0008","Ungültige NVIDIA Treiberversion. Minimum ist 461.33.\n\nBitte installieren Sie die neuesten NVIDIA Treiber!"],
-		["PROG0009","Es wurde keine kompatible Hardware erkannt!\n\nWenn Sie über kompatible Hardware verfügen, versuchen Sie bitte Ihren PC neu zu starten."],
-
-		["FRM10001","WICHTIG! Sie können den NiceHash QuickMiner durch das Kontextmenü steuern. Klicken Sie mit der rechten Maustaste auf das NiceHash-Symbol im Infobereich der Taskleiste. Sehen Sie sich das folgende Bild als Beispiel an:"],
-		["FRM10002","Okay, Ich habe es getestet und verstehe es! Diesen Dialog jetzt schließen."],
-		["FRM10003","Wird geladen: "],
-		["FRM10004","Optionen anzeigen"],
-		["FRM10005","Über"],
-		["FRM10006","Protokolle exportieren"],
-		["FRM10007","Vollständige detaillierte Protokollierung"],
-		["FRM10008","Anleitungen anzeigen"],
-		["FRM10009","Hilfe"],
-		["FRM10010","Mit Windows starten"],
-		["FRM10011","CPU Mining"],
-		["FRM10012","Befehlsdatei bearbeiten"],
-		["FRM10013","Konfigurationsdatei bearbeiten"],
-		["FRM10014","Einstellungen"],
-		["FRM10015","Konfigurieren"],
-		["FRM10016","Aktivieren"],
-		["FRM10017","Game-Modus"],
-		["FRM10018","Mining starten"],
-		["FRM10019","Öffnen"],
-		["FRM10020","Deaktivieren"],
-		["FRM10021","Starten"],
-		["FRM10022","Stoppen"],
-		["FRM10023","Das Update auf die neue Version ist fehlgeschlagen, Grund:"],
-		["FRM10024","Bitte beheben Sie die Fehler oder aktualisieren Sie manuell."],
-		["FRM10025","Benachrichtigung"],
-		["FRM10026","Excavator.exe hat mit dem Mining erfolgreich begonnen!"],
-		["FRM10027","Hashrate"],
-		["FRM10028","Fehler beim Starten von excavator.exe. Bitte konsultieren Sie die NiceHash QuickMiner Anleitung zur Fehlerbehebung."],
-		["FRM10029","Die Verbindung zu excavator.exe konnte nicht hergestellt werden. Bitte konsultieren Sie die NiceHash QuickMiner Anleitung zur Fehlerbehebung."],
-		["FRM10030","Excavator.exe wird gestoppt!"],
-		["FRM10031","Dieser PC verfügt nicht über genügend virtuellen Speicher. Erhöhen Sie den virtuellen Speicher oder fügen Sie mehr physischen RAM hinzu."],
-		["FRM10040","Der Game-Modus ist noch aktiv!\n\nMöchten Sie den NiceHash QuickMiner trotzdem beenden?"],
-		["FRM10041","Diese Aktion schließt den NiceHash QuickMiner.\n\nSind Sie sicher, dass Sie den NiceHash QuickMiner schließen möchten?"],
-		["FRM10042","Die Grafikkarte konnte mit dem angeschlossenen Display nicht erkannt werden oder Sie verwenden möglicherweise eine ältere Grafikkarte für die Anzeige!"],
-		["FRM10043","Der Game-Modus wurde auf der primären GPU mit Display aktiviert. Das Mining wurde auf dieser GPU gestoppt und Game-Übertaktungen wurden angewendet.\n\nSpielen Sie weiter!"],
-		["FRM10044","Der Game-Modus wurde auf der primären GPU mit Display deaktiviert. Die GPU kehrt mit angewandten Übertaktungen (wenn eingestellt) zum Mining zurück."],
-		["FRM10050","Autostart Task"],
-		["FRM10051","NiceHash QuickMiner Autostart Task wurde deinstalliert."],
-		["FRM10052","Fehler beim Deinstallieren des NiceHash QuickMiner Autostart tasks! Grund:"],
-		["FRM10053","NiceHash QuickMiner Autostart Task wurde erfolgreich installiert.\n\nDer NiceHash QuickMiner wird jetzt in Betrieb genommen und startet automatisch das Mining, wenn Windows gestartet wird."],
-		["FRM10054","Fehler beim Installieren des NiceHash QuickMiner Autostart Tasks! Grund:"],
-		["FRM10060","Neustart von Excavators ist fehlgeschlagen! Bitte, starten Sie den NiceHash QuickMiner erneut, um das Problem zu beheben!"],
-		["FRM10061","Alles erledigt! Die Protokolle wurden in eine einzelne .zip Datei exportiert:"],
-		["FRM10062","Ihre Mining BTC Adresse wurde redigiert und es sind nur Protokolle der letzten 6 Stunden enthalten, um die Dateigroße zu verringern. Sie sollten diese Datei anhängen, wenn Sie ein Problem/Fehlerbericht senden."],
-		["FRM10063","Fehler beim Exportieren der Protokolle, Grund:"],
-		["FRM10064","Exportieren der Protokolldateien in eine ZIP Datei"],
-		["FRM10070","Optimieren Sie die Stabilität, indem Sie Message Signaled Interrupts (MSI) für alle unterstützten Grafikkarten aktivieren. Ihre Mininganlage kann eine deutlich verbesserte Stabilität erhalten.\n\nGEFAHR! In einigen seltenen Fällen kann diese Aktion Ihre Anzeigetreiber beschädigen. Es wird empfohlen vor der Aktivierung von MSI eine Systemwiederherstellung durchzuführen.\n\nMSI jetzt aktivieren?"],
-		["FRM10071","Aktion fehlgeschlagen, Fehler:"],
-		["FRM10072","Alle Grafikkarten wurden bereits optimiert!"],
-		["FRM10073","Erfolgreich! Bitte starten Sie Ihren PC neu.\n\nFolgende Grafikkarten wurden optimiert:"],
-		["FRM10101","Extras"],
-		["FRM10102","MSI-Interrupts anwenden"],
-		["FRM10103","MSI deaktiviert! Bitte aktivieren Sie MSI für eine höhere Stabilität!"],
-		["FRM10201","Laden beendet!"],
-		["FRM10301","Kann im Game-Modus nicht geändert werden.\n\nBitte deaktivieren Sie zuerst den Game-Modus!"],
-
-		["FRM20001","Ungültige oder keine Mining-Bitcoin-Adresse wurde festgelegt. Bitte geben Sie Ihre NiceHash-Mining-Adresse ein:"],
-		["FRM20002","Aus Zwischenablage einfügen"],
-		["FRM20003","Geben Sie Ihre Mining-Adresse hier ein"],
-		["FRM20005","Sie kennen sie nicht? Loggen Sie sich in Ihrem NiceHash-Konto ein und gehen Sie dann zu dieser Seite:"],
-		["FRM20006","Ungültige Bitcoin-Adresse. Die eingegebene Adresse ist nicht korrekt."],
-
-		["UINS0001","Deinstallieren"],
-		["UINS0002","Bitte, wählen Sie die folgenden Optionen, bevor Sie den NiceHash QuickMiner deinstallieren:"],
-		["UINS0003","Konfigurationsdatei behalten (nhqm.conf)."],
-		["UINS0004","Befehlsdateien behalten, (*.json) welche Übertaktungs- und Lüftereinstellungen enthalten."],
-		["UINS0005","Protokolldateien behalten."],
-
-		["GAME0001","Game-Modus Optionen"],
-		["GAME0002","Primäre GPU mit angeschlossenem Display wurde erkannt:"],
-		["GAME0003","Übertaktungswerte für die primäre GPU,\nwenn der Game-Modus aktiv ist:"],
-		["GAME0004","TDP"],
-		["GAME0005","Core Clock delta"],
-		["GAME0006","Memory Clock delta"],
-		["GAME0007","Lüfter auf Automatik stellen"],
-
-		["ABT00001","Version:"],
-
-		["FRM90001","Optionale Einstellungen "],
-		["FRM90002","Lassen Sie uns die folgenden Einstellungen konfigurieren.\nDies ist nicht zwingend erforderlich, aber empfohlen.\nSie können dies auch überspringen und später über die Konfigurationsdatei (nhqm.conf) konfigurieren."],
-		["FRM90003","Überspr.>>"],
-		["FRM90004","Sprache"],
-		["FRM90005","Name"],
-		["FRM90006","Autostart"],
-		["FRM90007","Fehlerbehandlung"],
-		["FRM90008","Tipps & Tricks"],
-		["FRM90009","Anlagenverwalter"],
-		["FRM90010","Interface-Sprache"],
-		["FRM90011","Geben Sie Ihrer Mininganlage einen einzigartigen und coolen Namen!"],
-		["FRM90012","Arbeitername:"],
-		["FRM90013","NiceHash QuickMiner automatisch mit Windows starten?"],
-		["FRM90014","Autostart mit Windows (Taskplaner-Methode)"],
-		["FRM90015","Was tun bei einem Absturz der Grafikkarte(n)?"],
-		["FRM90016","Aktion:"],
-		["FRM90017","Nichts tun"],
-		["FRM90018","Excavator neu starten (Standard)"],
-		["FRM90019","Neustart der Anlage (Empfohlen)"],
-		["FRM90020","Neustart der NVIDIA Treiber"],
-		["FRM90021","Es gibt viele weitere Einstellungen, die Sie konfigurieren können. Durchsuchen Sie das NiceHash QuickMiner Wiki nach Tipps und Tricks."],
-		["FRM90022","EMPFOHLEN! Vergessen Sie nicht die One-Click Optimierungslösungen für Desktop Grafikkarten der GTX 1000 Serie, TITAN V, RTX 2000 Serie, TITAN RTX und RTX 3000 Serie anzusehen. Hohe Zuverlässigkeit und sehr gute Effizienz sind garantiert!"],
-		["FRM90023","Anfängern empfehlen wir jetzt zum Anlagenverwalter zu gehen.\nUm Ihre Grafikkarte(n) manuell abzustimmen, gehen Sie zur nächsten Seite."],
-		["FRM90024","Zum Anlagenverwalter >>"],
-		["FRM90025","Es kann einige Minuten dauern, bis Ihre Mininganlage angezeigt wird. Bitte haben Sie etwas Geduld!"],
-		["FRM90026","OCTune ist ein leistungsstarkes Übertaktungstool, das alle Bedürfnisse eines jeden Miners abdeckt. Es erlaubt die Modifikation des Core Clock, Memory Clock und Power Limit. Es kann die Lüfter steuern und die Grafikkarten untertakten, um den Stromverbrauch zu senken und die Effizienz zu erhöhen. Schalten Sie jedes andere Übertaktungstool aus und lassen Sie OCTune die volle Kontrolle übernehmen!"],
-		["FRM90027","OCTune zum Optimieren öffnen >>"],
-
-		["F0100001","Automatischer Start in Kürze..."],
-		["F0100002","Optimier. zurücksetzen"],
-		["F0100003","Start"],
-		["F0100004","Sie können die Optimierung zurücksetzen, bevor sie angewendet wird, um einen PC-Absturz aufgrund eines inkompatiblen Optimierungsprofils zu vermeiden."],
-
-		["UPDT0001","Neue Version verfügbar"],
-		["UPDT0002","NiceHash QuickMiner v"],
-		["UPDT0003"," ist verfügbar.\n\nMöchten Sie jetzt aktualisieren?"],
-		["UPDT0004","Neue Version wurde heruntergeladen"],
-		["UPDT0005","NiceHash QuickMiner v"],
-		["UPDT0006"," wurde heruntergeladen.\n\nDer NiceHash QuickMiner muss erneut gestartet werden, damit die Aktualisierung abgeschlossen werden kann. Klicken Sie auf OK, wenn Sie bereit sind ihn neu zu starten. Es wird empfohlen, die Einstellungen nach der Aktualisierung zu überprüfen, um sicherzustellen, dass der NiceHash QuickMiner wie erwartet läuft."],
-		["UPDT0007","Neue Funktion verfügbar"],
-		["UPDT0008","NiceHash QuickMiner wurde erfolgreich auf v"],
-		["UPDT0009"," aktualisiert.\n\nDie neue Version kann automatisch den besten Servicestandort mit sehr hoher Zuverlässigkeit erkennen. Sie verfügt außerdem über einen automatischen Fallback zum sekundären Standort, wenn es einen Ausfall oder eine Wartung beim primären Standort gibt. Möchten Sie die Funktion zur automatischen Ermittlung des Servicestandortes aktivieren?"],
-		["UPDT0010"," aktualisiert.\n\nDie neue Version erhöht die Sicherheit Ihres Minings. Damit dies richtig funktioniert, mussten wir die Startbefehlszeile des Excavators modifizieren. Klicken Sie auf Ja, wenn Sie einer Zurücksetzung zustimmen. Wenn Sie nicht zurücksetzen, funktioniert der NiceHash QuickMiner möglicherweise nicht richtig."]
-]}
+{
+  "version": 7,
+  "strings": [
+    [
+      "GEN00001",
+      "Beenden"
+    ],
+    [
+      "GEN00002",
+      "OK"
+    ],
+    [
+      "GEN00003",
+      "Abbrechen"
+    ],
+    [
+      "GEN00004",
+      "STABLE"
+    ],
+    [
+      "GEN00005",
+      "RC (Release Candidate)"
+    ],
+    [
+      "INST0001",
+      "Der NiceHash QuickMiner ist bereits installiert in:"
+    ],
+    [
+      "INST0002",
+      "Möchten Sie diese Installation überschreiben?"
+    ],
+    [
+      "INST0003",
+      "Herunterladen und Installieren"
+    ],
+    [
+      "INST0004",
+      "Sprache:"
+    ],
+    [
+      "INST0005",
+      "Installationsordner:"
+    ],
+    [
+      "INST0006",
+      "Browsen"
+    ],
+    [
+      "INST0007",
+      "Versionstyp:"
+    ],
+    [
+      "INST0008",
+      "Eine Verknüpfung auf dem Desktop erstellen"
+    ],
+    [
+      "INST0009",
+      "Den NiceHash QuickMiner nach der Installation ausführen"
+    ],
+    [
+      "INST0010",
+      "Herunterladen und Installieren"
+    ],
+    [
+      "INST0011",
+      "Herunterladen und Installieren, bitte warten..."
+    ],
+    [
+      "INST0012",
+      "excavator.exe kann nicht gestartet werden; Fehler:"
+    ],
+    [
+      "INST0013",
+      "Wenn Ihr Virenscanner die Datei blockiert, beenden Sie ihn oder fügen Sie eine Ausnahme hinzu, danach wiederholen Sie die Installation."
+    ],
+    [
+      "INST0014",
+      "NiceHashQuickMiner.exe kann nicht gestartet werden; Fehler:"
+    ],
+    [
+      "INST0015",
+      "wurde erfolgreich installiert! Vielen Dank für Ihre Unterstützung!"
+    ],
+    [
+      "INST0016",
+      "OPTIMIERUNG (Lite) für alle Geräte anwenden"
+    ],
+    [
+      "INST0017",
+      "Akzeptieren"
+    ],
+    [
+      "INST0018",
+      "Ablehnen"
+    ],
+    [
+      "PROG0001",
+      "Der NiceHash QuickMiner läuft bereits!"
+    ],
+    [
+      "PROG0002",
+      "Der NiceHash QuickMiner hat Ihren PC zum Absturz gebracht."
+    ],
+    [
+      "PROG0003",
+      "Möchten Sie alle Optimierungs-Profile für alle Grafikkarten auf den Standardwert (Manuell) zurücksetzen?"
+    ],
+    [
+      "PROG0004",
+      "Der NiceHash QuickMiner kann nicht gestartet werden. Fehler:\n\n - fehlende Dateien\n\nEinige Dateien wurden von einem Drittanbieterprogramm gelöscht - höchstwahrscheinlich der Virenscanner."
+    ],
+    [
+      "PROG0005",
+      "Fehler bei der Installation!\n\nDer NiceHash QuickMiner konnte mit der Installation nicht fortfahren. Fehler:"
+    ],
+    [
+      "PROG0006",
+      "NVML kann nicht initialisiert werden.\n\nDer NiceHash QuickMiner funktioniert nur mit NVIDIA-Karten!"
+    ],
+    [
+      "PROG0007",
+      "NVIDIA Treiberversion konnte nicht abgerufen werden!"
+    ],
+    [
+      "PROG0008",
+      "Ungültige NVIDIA Treiberversion. Minimum ist 470.05.\n\nBitte installieren Sie die neuesten NVIDIA Treiber!"
+    ],
+    [
+      "PROG0009",
+      "Es wurde keine kompatible Hardware erkannt!\n\nWenn Sie über kompatible Hardware verfügen, versuchen Sie bitte Ihren PC neu zu starten."
+    ],
+    [
+      "FRM10001",
+      "WICHTIG! Sie können den NiceHash QuickMiner durch das Kontextmenü steuern. Klicken Sie mit der rechten Maustaste auf das NiceHash-Symbol im Infobereich der Taskleiste. Sehen Sie sich das folgende Bild als Beispiel an:"
+    ],
+    [
+      "FRM10002",
+      "Okay, Ich habe es getestet und verstehe es! Diesen Dialog jetzt schließen."
+    ],
+    [
+      "FRM10003",
+      "Wird geladen: "
+    ],
+    [
+      "FRM10004",
+      "Optionen anzeigen"
+    ],
+    [
+      "FRM10074",
+      "Hauptformular anzeigen"
+    ],
+    [
+      "FRM10005",
+      "Über"
+    ],
+    [
+      "FRM10006",
+      "Protokolle exportieren"
+    ],
+    [
+      "FRM10007",
+      "Vollständige detaillierte Protokollierung"
+    ],
+    [
+      "FRM10008",
+      "Anleitungen anzeigen"
+    ],
+    [
+      "FRM10009",
+      "Hilfe"
+    ],
+    [
+      "FRM10010",
+      "Mit Windows starten"
+    ],
+    [
+      "FRM10011",
+      "CPU Mining"
+    ],
+    [
+      "FRM10012",
+      "Befehlsdatei bearbeiten"
+    ],
+    [
+      "FRM10013",
+      "Konfigurationsdatei bearbeiten"
+    ],
+    [
+      "FRM10014",
+      "Einstellungen"
+    ],
+    [
+      "FRM10015",
+      "Konfigurieren"
+    ],
+    [
+      "FRM10016",
+      "Aktivieren"
+    ],
+    [
+      "FRM10017",
+      "Game-Modus"
+    ],
+    [
+      "FRM10018",
+      "Mining starten"
+    ],
+    [
+      "FRM10019",
+      "Öffnen"
+    ],
+    [
+      "FRM10020",
+      "Deaktivieren"
+    ],
+    [
+      "FRM10021",
+      "Starten"
+    ],
+    [
+      "FRM10022",
+      "Stoppen"
+    ],
+    [
+      "FRM10023",
+      "Das Update auf die neue Version ist fehlgeschlagen, Grund:"
+    ],
+    [
+      "FRM10024",
+      "Bitte beheben Sie die Fehler oder aktualisieren Sie manuell."
+    ],
+    [
+      "FRM10025",
+      "Benachrichtigung"
+    ],
+    [
+      "FRM10026",
+      "Excavator.exe hat mit dem Mining erfolgreich begonnen!"
+    ],
+    [
+      "FRM10027",
+      "Hashrate"
+    ],
+    [
+      "FRM10028",
+      "Fehler beim Starten von excavator.exe. Bitte konsultieren Sie die NiceHash QuickMiner Anleitung zur Fehlerbehebung."
+    ],
+    [
+      "FRM10029",
+      "Die Verbindung zu excavator.exe konnte nicht hergestellt werden. Bitte konsultieren Sie die NiceHash QuickMiner Anleitung zur Fehlerbehebung."
+    ],
+    [
+      "FRM10030",
+      "Excavator.exe wird gestoppt!"
+    ],
+    [
+      "FRM10031",
+      "Dieser PC verfügt nicht über genügend virtuellen Speicher. Erhöhen Sie den virtuellen Speicher oder fügen Sie mehr physischen RAM hinzu."
+    ],
+    [
+      "FRM10040",
+      "Der Game-Modus ist noch aktiv!\n\nMöchten Sie den NiceHash QuickMiner trotzdem beenden?"
+    ],
+    [
+      "FRM10041",
+      "Diese Aktion schließt den NiceHash QuickMiner.\n\nSind Sie sicher, dass Sie den NiceHash QuickMiner schließen möchten?"
+    ],
+    [
+      "FRM10042",
+      "Die Grafikkarte konnte mit dem angeschlossenen Display nicht erkannt werden oder Sie verwenden möglicherweise eine ältere Grafikkarte für die Anzeige!"
+    ],
+    [
+      "FRM10043",
+      "Der Game-Modus wurde auf der primären GPU mit Display aktiviert. Das Mining wurde auf dieser GPU gestoppt und Game-Übertaktungen wurden angewendet.\n\nSpielen Sie weiter!"
+    ],
+    [
+      "FRM10044",
+      "Der Game-Modus wurde auf der primären GPU mit Display deaktiviert. Die GPU kehrt mit angewandten Übertaktungen (wenn eingestellt) zum Mining zurück."
+    ],
+    [
+      "FRM10050",
+      "Autostart Task"
+    ],
+    [
+      "FRM10051",
+      "NiceHash QuickMiner Autostart Task wurde deinstalliert."
+    ],
+    [
+      "FRM10052",
+      "Fehler beim Deinstallieren des NiceHash QuickMiner Autostart tasks! Grund:"
+    ],
+    [
+      "FRM10053",
+      "NiceHash QuickMiner Autostart Task wurde erfolgreich installiert.\n\nDer NiceHash QuickMiner wird jetzt in Betrieb genommen und startet automatisch das Mining, wenn Windows gestartet wird."
+    ],
+    [
+      "FRM10054",
+      "Fehler beim Installieren des NiceHash QuickMiner Autostart Tasks! Grund:"
+    ],
+    [
+      "FRM10060",
+      "Neustart von Excavators ist fehlgeschlagen! Bitte, starten Sie den NiceHash QuickMiner erneut, um das Problem zu beheben!"
+    ],
+    [
+      "FRM10061",
+      "Alles erledigt! Die Protokolle wurden in eine einzelne .zip Datei exportiert:"
+    ],
+    [
+      "FRM10062",
+      "Ihre Mining BTC Adresse wurde redigiert und es sind nur Protokolle der letzten 6 Stunden enthalten, um die Dateigroße zu verringern. Sie sollten diese Datei anhängen, wenn Sie ein Problem/Fehlerbericht senden."
+    ],
+    [
+      "FRM10063",
+      "Fehler beim Exportieren der Protokolle, Grund:"
+    ],
+    [
+      "FRM10064",
+      "Exportieren der Protokolldateien in eine ZIP Datei"
+    ],
+    [
+      "FRM10070",
+      "Aktivieren Sie Message Signaled Interrupts (MSI) für alle unterstützten Grafikkarten. Die Stabilität Ihrer Mininganlage kann sich dadurch deutlich erhöhen.\n\nGEFAHR! In einigen seltenen Fällen kann diese Aktion Ihre Anzeigetreiber beschädigen. Es wird empfohlen vor der Aktivierung von MSI einen Systemwiederherstellungspunkt zu erstellen.\n\nMSI jetzt aktivieren?"
+    ],
+    [
+      "FRM10071",
+      "Aktion fehlgeschlagen, Fehler:"
+    ],
+    [
+      "FRM10072",
+      "Alle Grafikkarten wurden bereits optimiert!"
+    ],
+    [
+      "FRM10073",
+      "Erfolgreich! Bitte starten Sie Ihren PC neu.\n\nFolgende Grafikkarten wurden optimiert:"
+    ],
+    [
+      "FRM10101",
+      "Extras"
+    ],
+    [
+      "FRM10102",
+      "MSI-Interrupts anwenden"
+    ],
+    [
+      "FRM10103",
+      "MSI deaktiviert! Bitte aktivieren Sie MSI für eine höhere Stabilität!"
+    ],
+    [
+      "FRM10201",
+      "Laden beendet!"
+    ],
+    [
+      "FRM10301",
+      "Kann im Game-Modus nicht geändert werden.\n\nBitte deaktivieren Sie zuerst den Game-Modus!"
+    ],
+    [
+      "FRM20001",
+      "Ungültige oder keine Mining-Bitcoin-Adresse wurde festgelegt. Bitte geben Sie Ihre NiceHash-Mining-Adresse ein:"
+    ],
+    [
+      "FRM20002",
+      "Aus Zwischenablage einfügen"
+    ],
+    [
+      "FRM20003",
+      "Geben Sie Ihre Mining-Adresse hier ein"
+    ],
+    [
+      "FRM20005",
+      "Sie kennen sie nicht? Loggen Sie sich in Ihrem NiceHash-Konto ein und gehen Sie dann zu dieser Seite:"
+    ],
+    [
+      "FRM20006",
+      "Ungültige Bitcoin-Adresse. Die eingegebene Adresse ist nicht korrekt."
+    ],
+    [
+      "FRM20007",
+      "Mining automatisch starten"
+    ],
+    [
+      "FRM20008",
+      "Mining-Autostart"
+    ],
+    [
+      "FRM20009",
+      "Der NiceHash QuickMiner beginnt das Mining nicht mehr automatisch."
+    ],
+    [
+      "FRM20010",
+      "Der NiceHash QuickMiner beginnt automatisch mit dem Mining."
+    ],
+    [
+      "FRM20011",
+      "Diesen Bildschirm nicht mehr anzeigen"
+    ],
+    [
+      "UINS0001",
+      "Deinstallieren"
+    ],
+    [
+      "UINS0002",
+      "Bitte, wählen Sie die folgenden Optionen, bevor Sie den NiceHash QuickMiner deinstallieren:"
+    ],
+    [
+      "UINS0003",
+      "Konfigurationsdatei behalten (nhqm.conf)."
+    ],
+    [
+      "UINS0004",
+      "Befehlsdateien behalten, (*.json) welche Übertaktungs- und Lüftereinstellungen enthalten."
+    ],
+    [
+      "UINS0005",
+      "Protokolldateien behalten."
+    ],
+    [
+      "GAME0001",
+      "Game-Modus Optionen"
+    ],
+    [
+      "GAME0002",
+      "Primäre GPU mit angeschlossenem Display wurde erkannt:"
+    ],
+    [
+      "GAME0003",
+      "Übertaktungswerte für die primäre GPU,\nwenn der Game-Modus aktiv ist:"
+    ],
+    [
+      "GAME0004",
+      "TDP"
+    ],
+    [
+      "GAME0005",
+      "Core Clock delta"
+    ],
+    [
+      "GAME0006",
+      "Memory Clock delta"
+    ],
+    [
+      "GAME0007",
+      "Lüfter auf Automatik stellen"
+    ],
+    [
+      "ABT00001",
+      "Version:"
+    ],
+    [
+      "FRM90001",
+      "Optionale Einstellungen "
+    ],
+    [
+      "FRM90002",
+      "Lassen Sie uns die folgenden Einstellungen konfigurieren.\nDies ist nicht zwingend erforderlich, aber empfohlen.\nSie können dies auch überspringen und später über die Konfigurationsdatei (nhqm.conf) konfigurieren."
+    ],
+    [
+      "FRM90003",
+      "Überspr.>>"
+    ],
+    [
+      "FRM90004",
+      "Sprache"
+    ],
+    [
+      "FRM90005",
+      "Name"
+    ],
+    [
+      "FRM90006",
+      "Autostart"
+    ],
+    [
+      "FRM90007",
+      "Fehlerbehandlung"
+    ],
+    [
+      "FRM90008",
+      "Tipps & Tricks"
+    ],
+    [
+      "FRM90009",
+      "Anlagenverwalter"
+    ],
+    [
+      "FRM90010",
+      "Interface-Sprache"
+    ],
+    [
+      "FRM90011",
+      "Geben Sie Ihrer Mininganlage einen einzigartigen und coolen Namen!"
+    ],
+    [
+      "FRM90012",
+      "Arbeitername:"
+    ],
+    [
+      "FRM90013",
+      "NiceHash QuickMiner automatisch mit Windows starten?"
+    ],
+    [
+      "FRM90014",
+      "Autostart mit Windows (Taskplaner-Methode)"
+    ],
+    [
+      "FRM90015",
+      "Was tun bei einem Absturz der Grafikkarte(n)?"
+    ],
+    [
+      "FRM90016",
+      "Aktion:"
+    ],
+    [
+      "FRM90017",
+      "Nichts tun"
+    ],
+    [
+      "FRM90018",
+      "Excavator neu starten (Standard)"
+    ],
+    [
+      "FRM90019",
+      "Neustart der Anlage (Empfohlen)"
+    ],
+    [
+      "FRM90020",
+      "Neustart der NVIDIA Treiber"
+    ],
+    [
+      "FRM90021",
+      "Es gibt viele weitere Einstellungen, die Sie konfigurieren können. Durchsuchen Sie das NiceHash QuickMiner Wiki nach Tipps und Tricks."
+    ],
+    [
+      "FRM90022",
+      "EMPFOHLEN! Vergessen Sie nicht die One-Click Optimierungslösungen für Desktop Grafikkarten der GTX 1000 Serie, TITAN V, RTX 2000 Serie, TITAN RTX und RTX 3000 Serie anzusehen. Hohe Zuverlässigkeit und sehr gute Effizienz sind garantiert!"
+    ],
+    [
+      "FRM90023",
+      "Anfängern empfehlen wir jetzt zum Anlagenverwalter zu gehen.\nUm Ihre Grafikkarte(n) manuell abzustimmen, gehen Sie zur nächsten Seite."
+    ],
+    [
+      "FRM90024",
+      "Zum Anlagenverwalter >>"
+    ],
+    [
+      "FRM90025",
+      "Es kann einige Minuten dauern, bis Ihre Mininganlage angezeigt wird. Bitte haben Sie etwas Geduld!"
+    ],
+    [
+      "FRM90026",
+      "OCTune ist ein leistungsstarkes Übertaktungstool, das alle Bedürfnisse eines jeden Miners abdeckt. Es erlaubt die Modifikation des Core Clock, Memory Clock und Power Limit. Es kann die Lüfter steuern und die Grafikkarten untertakten, um den Stromverbrauch zu senken und die Effizienz zu erhöhen. Schalten Sie jedes andere Übertaktungstool aus und lassen Sie OCTune die volle Kontrolle übernehmen!"
+    ],
+    [
+      "FRM90027",
+      "OCTune zum Optimieren öffnen >>"
+    ],
+    [
+      "FRM90028",
+      "Starten Sie das Mining automatisch, wenn der QuickMiner startet"
+    ],
+    [
+      "F0100001",
+      "Automatischer Start in Kürze..."
+    ],
+    [
+      "F0100002",
+      "Optimier. zurücksetzen"
+    ],
+    [
+      "F0100003",
+      "Start"
+    ],
+    [
+      "F0100004",
+      "Sie können die Optimierung zurücksetzen, bevor sie angewendet wird, um einen PC-Absturz aufgrund eines inkompatiblen Optimierungsprofils zu vermeiden."
+    ],
+    [
+      "F0120001",
+      "Mit Mining beginnen"
+    ],
+    [
+      "F0121001",
+      "Mining stoppen"
+    ],
+    [
+      "F0120002",
+      "Sie sind bereit!"
+    ],
+    [
+      "F0121002",
+      "Mining..."
+    ],
+    [
+      "UPDT0001",
+      "Neue Version verfügbar"
+    ],
+    [
+      "UPDT0002",
+      "NiceHash QuickMiner v"
+    ],
+    [
+      "UPDT0003",
+      " ist verfügbar.\n\nMöchten Sie jetzt aktualisieren?"
+    ],
+    [
+      "UPDT0004",
+      "Neue Version wurde heruntergeladen"
+    ],
+    [
+      "UPDT0005",
+      "NiceHash QuickMiner v"
+    ],
+    [
+      "UPDT0006",
+      " wurde heruntergeladen.\n\nDer NiceHash QuickMiner muss erneut gestartet werden, damit die Aktualisierung abgeschlossen werden kann. Klicken Sie auf OK, wenn Sie bereit sind ihn neu zu starten. Es wird empfohlen, die Einstellungen nach der Aktualisierung zu überprüfen, um sicherzustellen, dass der NiceHash QuickMiner wie erwartet läuft."
+    ],
+    [
+      "UPDT0007",
+      "Neue Funktion verfügbar"
+    ],
+    [
+      "UPDT0008",
+      "NiceHash QuickMiner wurde erfolgreich auf v"
+    ],
+    [
+      "UPDT0009",
+      " aktualisiert.\n\nDie neue Version kann automatisch den besten Servicestandort mit sehr hoher Zuverlässigkeit erkennen. Sie verfügt außerdem über einen automatischen Fallback zum sekundären Standort, wenn es einen Ausfall oder eine Wartung beim primären Standort gibt. Möchten Sie die Funktion zur automatischen Ermittlung des Servicestandortes aktivieren?"
+    ],
+    [
+      "UPDT0010",
+      " aktualisiert.\n\nDie neue Version erhöht die Sicherheit Ihres Minings. Damit dies richtig funktioniert, mussten wir die Startbefehlszeile des Excavators modifizieren. Klicken Sie auf Ja, wenn Sie einer Zurücksetzung zustimmen. Wenn Sie nicht zurücksetzen, funktioniert der NiceHash QuickMiner möglicherweise nicht richtig."
+    ],
+    [
+      "NOTICE0000",
+      "{\\rtf1\\ansi\\ansicpg1252\\deff0\\nouicompat{\\fonttbl{\\f0\\fswiss\\fcharset0 Helvetica-Bold;}{\\f1\\fswiss\\fcharset0 Helvetica;}{\\f2\\fswiss\\fcharset0 ArialMT;}{\\f3\\fnil\\fcharset2 Symbol;}}\n{\\colortbl ;\\red0\\green0\\blue0;\\red0\\green0\\blue255;\\red24\\green25\\blue27;}\n{\\*\\generator Riched20 10.0.22000}\\viewkind4\\uc1 \n\\pard\\cf1\\b\\f0\\fs28\\lang12 NiceHash QuickMiner \\b0\\f1\\fs24\\par\n\\par\nLiebe NiceHash Benutzer, Sie sind dabei, die NiceHash-Dienste zu nutzen:\\par\n\n\\pard{\\pntext\\f3\\'B7\\tab}{\\*\\pn\\pnlvlblt\\pnf3\\pnindent2{\\pntxtb\\'B7}}\\fi-262\\li261\\tx20\\tx261Sie werden die Rechenleistung Ihres Geräts teilen und werden dafür entsprechend in Kryptowährung Bitcoin bezahlt (BTC);\\par\n{\\pntext\\f3\\'B7\\tab}dies kann zu einer Verkürzung der Batterielebensdauer Ihres Geräts und einem erhöhten Stromverbrauch führen.\\par\n\n\\pard\\par\nSo funktioniert es: {\\cf0{\\field{\\*\\fldinst{HYPERLINK https://www.nicehash.com }}{\\fldrslt{https://www.nicehash.com\\ul0\\cf0}}}}\\ul\\f1\\fs24\\par\n\\ulnone\\par\nWas ist Kryptowährung: {\\ul{\\field{\\*\\fldinst{HYPERLINK https://en.wikipedia.org/wiki/Cryptocurrency }}{\\fldrslt{https://en.wikipedia.org/wiki/Cryptocurrency}}}}\\ul\\f1\\fs24\\par\n\\par\n\\cf3\\ulnone\\f2\\fs32\\par\n}\n"
+    ]
+  ]
+}
