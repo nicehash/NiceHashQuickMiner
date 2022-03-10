@@ -273,6 +273,11 @@
     ]},
     { "pci_devs": ["2231"], "op": [
       { "id": 101, "pt": 0, "dmc": 0, "mcc": 990, "fm": 3, "ftg" : 60, "ftr": 84 }
+    ]},
+    { "name": "GeForce RTX 3060 Laptop GPU", "op": [
+        { "id": 3, "pt": 0, "dmc": 1850, "mcc": 1250, "fm": 3, "ftg" : 60, "ftr": 68},
+        { "id": 2, "pt": 0, "dmc": 1775, "mcc": 1200, "fm": 3, "ftg" : 60, "ftr": 70},
+        { "id": 1, "pt": 0, "dmc": 1700, "mcc": 1200, "fm": 3, "ftg" : 62, "ftr": 72}
     ]}
   ]
 }
