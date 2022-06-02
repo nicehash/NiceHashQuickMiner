@@ -30,7 +30,7 @@
 		["PROG0005","Hiba a telepítés közben!\n\nNiceHash QuickMiner képtelen volt folytatni a telepítést. Hiba:"],
 		["PROG0006","NVML inicializálása nem lehetséges.\n\nNiceHash QuickMiner nem működik NVIDIA eszközök nelkül!"],
 		["PROG0007","NVIDIA driver verzója ismeretlen!"],
-		["PROG0008","Érvénytelen NVIDIA driver verzió. Minimum 461.33.\n\nKérlek telepítsd a legfrissebbb NVIDIA drivert!"],
+		["PROG0008","Érvénytelen NVIDIA driver verzió. Minimum 511.09.\n\nKérlek telepítsd a legfrissebbb NVIDIA drivert!"],
 		["PROG0009","Nem észlelhető kompatibilis hardver!\n\nHa van kompatibilis hardvered, kérlek indítsd újra a PC-d."],
 
 		["FRM10001","FONTOS! A NiceHash QuickMiner-t vezérelheted a környezetérzékeny menü segítségével. Jobb egér kattintás NiceHash Icon a Windows Értesítések ezköztálcán. Mint például az alábbi képen:"],
