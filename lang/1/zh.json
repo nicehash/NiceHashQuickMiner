@@ -30,7 +30,7 @@
 		["PROG0005","安装错误\n\nNiceHash QuickMiner无法正常继续安装程序。错误:"],
 		["PROG0006","无法正常初始化NVML.\n\nNiceHash QuickMiner只适配于NVIDIA显卡！"],
 		["PROG0007","无法获取驱动程序版本信息！"],
-		["PROG0008","NVIDIA驱动程序版本错误，最低版本要求为461.33.\n\n请安装最新的NVIDIA驱动程序！"],
+		["PROG0008","NVIDIA驱动程序版本错误，最低版本要求为511.09.\n\n请安装最新的NVIDIA驱动程序！"],
 		["PROG0009","系统未安装任何可适配的显卡\n\n如果您有适配的显卡，请尝试重启您的PC。"],
 
 		["FRM10001","重要，您可以通过快捷菜单控制您的NiceHash QuickMiner，请在Windows通知任务栏中右键点击NiceHash图标，请观看以下图片中的参考案例:"],
