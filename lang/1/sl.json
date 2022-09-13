@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "strings": [
     [
       "GEN00001",
@@ -123,7 +123,7 @@
     ],
     [
       "PROG0008",
-      "Neveljavna različica gonilnika NVIDIA. Najmanj 511.09.\n\nProsimo, namestite najnovejše NVIDIA gonilnike!"
+      "Neveljavna različica gonilnika NVIDIA. Najstarejša sprejem. razl. je 511.09. \n\nProsimo, namestite najnovejše NVIDIA gonilnike!"
     ],
     [
       "PROG0009",
@@ -355,7 +355,7 @@
     ],
     [
       "FRM20001",
-      "Neveljaven rudarksi Bitcoin naslov. Vnesite svoj rudarski naslov za NiceHash:"
+      "Neveljaven ali manjkajoč naslov za rudarjenje. Vnesite vaš NiceHash naslov za rudarjenje:"
     ],
     [
       "FRM20002",
@@ -366,12 +366,16 @@
       "tukaj vnesite svoj rudarski naslov"
     ],
     [
+      "FRM20004",
+      "Naslov najden v registru. Kliknite na tipko Vredu, če želite uporabiti ta naslov, sicer ga zamenjajte"
+    ],
+    [
       "FRM20005",
       "Ne veste kje? Prijavite se v svoj Nicehash račun, nato pa pojdite na to stran:"
     ],
     [
       "FRM20006",
-      "Neveljaven BTC naslov.. Vneseni naslov ni pravilen."
+      "Neveljaven naslov za rudarjenje. Vneseni naslov ni pravilen."
     ],
     [
       "FRM20007",
@@ -628,6 +632,46 @@
     [
       "UPDT0010",
       ".\n\nNova različica poveča varnost vašega rudarjenja. Da bi to delalo pravilno, smo morali spremeniti ukazno vrstico za zagon Excavatorja. Kliknite DA, če se strinjate, da ga ponastavite. Če ga ne ponastavite, NiceHash QuickMiner morda ne bo deloval pravilno."
+    ],
+    [
+      "ETHF0001",
+      "Rudarjenje Ethereuma se je končalo, preverite možnosti, ki so na voljo tukaj"
+    ],
+    [
+      "ETHF0002",
+      "https://www.nicehash.com/my/mining/rigs"
+    ],
+    [
+      "ETHF0003",
+      "Več Informacij"
+    ],
+    [
+      "ETHF0004",
+      "Zapri"
+    ],
+    [
+      "ETHSW0001",
+      "Izplačila za rudarnje z DaggerHashimoto alg. so se zmanjšala zaradi prehoda Ethereuma na Proof of Stake.\nNamesto tega sedaj rudarite Ethereum Classic z algoritmom - ETChash.\nIzberete lahko tudi drug algoritem z desnim klikom na ikono QuickMiner.\n\nNe pozabite nastaviti optimizacijskega profila v Rig Managerju!"
+    ],
+    [
+      "ETHSW0004",
+      "Zapri"
+    ],
+    [
+      "NHMA0001",
+      "Opazili smo, da uporabljate zunanji naslov za izplačila rudarjenja.\nPreklopite na NiceHash naslov za izplačila in uživate v nižjih provizijah in drugih ugodnostih. "
+    ],
+    [
+      "NHMA0002",
+      "Spremeni naslov"
+    ],
+    [
+      "NHMA0003",
+      "Zapri"
+    ],
+    [
+      "NHMA0004",
+      "Več Informacij"
     ],
     [
       "NOTICE0000",
