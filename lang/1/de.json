@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "strings": [
     [
       "GEN00001",
@@ -355,7 +355,7 @@
     ],
     [
       "FRM20001",
-      "Ungültige oder keine Mining-Bitcoin-Adresse wurde festgelegt. Bitte geben Sie Ihre NiceHash-Mining-Adresse ein:"
+      "Ungültige oder keine Mining-Adresse wurde festgelegt. Bitte geben Sie Ihre NiceHash-Mining-Adresse ein:"
     ],
     [
       "FRM20002",
@@ -366,12 +366,16 @@
       "Geben Sie Ihre Mining-Adresse hier ein"
     ],
     [
+      "FRM20004",
+      "Mining wurde in der Registrierung gefunden. Klicken Sie auf OK, wenn Sie diese Adresse verwenden möchten, andernfalls ersetzen Sie, sie"
+    ],
+    [
       "FRM20005",
       "Sie kennen sie nicht? Loggen Sie sich in Ihrem NiceHash-Konto ein und gehen Sie dann zu dieser Seite:"
     ],
     [
       "FRM20006",
-      "Ungültige Bitcoin-Adresse. Die eingegebene Adresse ist nicht korrekt."
+      "Ungültige Mining-Adresse. Die eingegebene Adresse ist nicht korrekt."
     ],
     [
       "FRM20007",
@@ -628,6 +632,46 @@
     [
       "UPDT0010",
       " aktualisiert.\n\nDie neue Version erhöht die Sicherheit Ihres Minings. Damit dies richtig funktioniert, mussten wir die Startbefehlszeile des Excavators modifizieren. Klicken Sie auf Ja, wenn Sie einer Zurücksetzung zustimmen. Wenn Sie nicht zurücksetzen, funktioniert der NiceHash QuickMiner möglicherweise nicht richtig."
+    ],
+    [
+      "ETHF0001",
+      "Das Ethereum-Mining ist beendet, überprüfen Sie die hier verfügbaren Optionen"
+    ],
+    [
+      "ETHF0002",
+      "https://www.nicehash.com/my/mining/rigs"
+    ],
+    [
+      "ETHF0003",
+      "Mehr Informationen"
+    ],
+    [
+      "ETHF0004",
+      "Schließen"
+    ],
+    [
+      "ETHSW0001",
+      "Die Auszahlungsrate von DaggerHashimoto ist aufgrund des Wechsels von Ethereum zum Proof of Stake zurückgegangen.\nStattdessen minen Sie jetzt Ethereum Classic mit dem ETChash-Algorithmus.\nSie können einen anderen Algorithmus auswählen, indem Sie mit der rechten Maustaste auf das Taskleistensymbol des QuickMiners klicken.\n\nDenken Sie daran, das Optimierungsprofil über den Anlageverwalter einzustellen!"
+    ],
+    [
+      "ETHSW0004",
+      "Schließen"
+    ],
+    [
+      "NHMA0001",
+      "Wir haben festgestellt, dass Sie eine externe Mining-Adresse verwenden.\nWechseln Sie zur NiceHash-Mining-Adresse, um niedrigere Gebühren und andere Vorteile zu genießen. "
+    ],
+    [
+      "NHMA0002",
+      "Adresse ändern"
+    ],
+    [
+      "NHMA0003",
+      "Schließen"
+    ],
+    [
+      "NHMA0004",
+      "Mehr Informationen"
     ],
     [
       "NOTICE0000",
