@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "strings": [
     [
       "GEN00001",
@@ -123,7 +123,7 @@
     ],
     [
       "PROG0008",
-      "Version du pilote NVIDIA non valide. Le minimum est 511.09. \n\nVeuillez installer les derniers pilotes NVIDIA!"
+      "Version du pilote NVIDIA non valide. Le minimum est 511.09.\n\nVeuillez installer les derniers pilotes NVIDIA!"
     ],
     [
       "PROG0009",
@@ -175,7 +175,7 @@
     ],
     [
       "FRM10011",
-      "CPU Minière"
+      "CPU Miner"
     ],
     [
       "FRM10012",
@@ -203,7 +203,7 @@
     ],
     [
       "FRM10018",
-      "Commencer minière"
+      "Démarrer le minage"
     ],
     [
       "FRM10019",
@@ -235,7 +235,7 @@
     ],
     [
       "FRM10026",
-      "Excavator.exe a commencé minière avec succès!"
+      "Excavator.exe à démarrer le minage avec succès !"
     ],
     [
       "FRM10027",
@@ -275,7 +275,7 @@
     ],
     [
       "FRM10044",
-      "Mode de jeu désactivé sur le GPU principal avec écran. Le GPU est de retour à minière avec des overclocks miniers appliqués (s'il est réglé)."
+      "Mode de jeu désactivé sur le GPU principal avec écran. Le GPU a recommencer le minage avec des overclocks miner appliqués (s'il est réglé)."
     ],
     [
       "FRM10050",
@@ -291,7 +291,7 @@
     ],
     [
       "FRM10053",
-      "NiceHash QuickMiner tâche de démarrage automatique a été installée avec succès.\n\nNiceHash QuickMiner va maintenant lancer et démarrer minière automatiquement au démarrage de Windows."
+      "NiceHash QuickMiner tâche de démarrage automatique a été installée avec succès.\n\nNiceHash QuickMiner va maintenant lancer et démarrer le minage automatiquement au démarrage de Windows."
     ],
     [
       "FRM10054",
@@ -307,7 +307,7 @@
     ],
     [
       "FRM10062",
-      "Votre adresse BTC minière a été expurgée et seules les 6 dernières heures de journaux sont incluses pour réduire la taille du fichier. Vous devez joindre ce fichier lors de la soumission d'un rapport de problème/bogue."
+      "Votre adresse BTC de minage a été expurgée et seulement les dernières 6 heures de logs sont incluses pour réduire la taille du fichier. Vous devez joindre ce fichier lorsque vous soumettez un rapport de problème/bogue."
     ],
     [
       "FRM10063",
@@ -319,7 +319,7 @@
     ],
     [
       "FRM10070",
-      "Optimiser la stabilité en activant les interruptions signalées par message (MSI) pour toutes les cartes vidéo prises en charge. Votre rig minière peut obtenir une stabilité considérablement améliorée.\n\nDANGER! Dans certains cas rares, cette action peut endommager vos pilotes d'affichage. Il est recommandé d'effectuer une restauration du système avant d'activer MSI.\n\nActivez MSI maintenant?"
+      "Optimiser la stabilité en activant les interruptions signalées par message (MSI) pour toutes les cartes vidéo prises en charge. Votre rig de minage peut obtenir une stabilité considérablement améliorée.\n\nDANGER! Dans certains cas rares, cette action peut endommager vos pilotes d'affichage. Il est recommandé d'effectuer une restauration du système avant d'activer MSI.\n\nActivez MSI maintenant?"
     ],
     [
       "FRM10071",
@@ -355,7 +355,7 @@
     ],
     [
       "FRM20001",
-      "Invalide ou pas d'adresse Bitcoin minière situé. Veuillez saisir votre adresse NiceHash minière:"
+      "Invalide ou aucune adresse de minage définie. Veuillez saisir votre Adresse De Minage NiceHash :"
     ],
     [
       "FRM20002",
@@ -363,7 +363,11 @@
     ],
     [
       "FRM20003",
-      "Entrez votre adresse minière ici"
+      "Entrez votre adresse de minage ici"
+    ],
+    [
+      "FRM20004",
+      "Trouvé minage dans le registre. Cliquez sur Ok si vous souhaitez utiliser cette adresse sinon remplacez-la"
     ],
     [
       "FRM20005",
@@ -371,15 +375,15 @@
     ],
     [
       "FRM20006",
-      "Adresse BTC invalide. L'adresse saisie n'est pas correcte."
+      "Adresse de minage non valide. L'adresse saisie n'est pas correcte."
     ],
     [
       "FRM20007",
-      "Démarrer Minière automatiquement"
+      "Démarrer Le Minage automatiquement"
     ],
     [
       "FRM20008",
-      "Minier démarrage auto"
+      "Minage démarrage auto"
     ],
     [
       "FRM20009",
@@ -387,7 +391,7 @@
     ],
     [
       "FRM20010",
-      "NiceHash QuickMiner commencera à miner automatiquement."
+      "NiceHash QuickMiner démarrer à miner automatiquement."
     ],
     [
       "FRM20011",
@@ -487,7 +491,7 @@
     ],
     [
       "FRM90011",
-      "Donnez à votre rig minière un nom unique et cool!"
+      "Donnez à votre rig de minage un nom unique et cool!"
     ],
     [
       "FRM90012",
@@ -495,7 +499,7 @@
     ],
     [
       "FRM90013",
-      "Souhaitez-vous que NiceHash QuickMiner démarrer automatiquement avec Windows?"
+      "Souhaitez-vous que NiceHash QuickMiner démarrer automatiquement avec Windows ?"
     ],
     [
       "FRM90014",
@@ -555,7 +559,7 @@
     ],
     [
       "FRM90028",
-      "Démarrer minière automatiquement au démarrage de QuickMiner"
+      "Démarrer le minage automatiquement au démarrage de QuickMiner"
     ],
     [
       "F0100001",
@@ -575,11 +579,11 @@
     ],
     [
       "F0120001",
-      "Démarrer Minière"
+      "Lancez Le Minage"
     ],
     [
       "F0121001",
-      "Arrêtez Minière"
+      "Arrêtez Le Minage"
     ],
     [
       "F0120002",
@@ -587,7 +591,7 @@
     ],
     [
       "F0121002",
-      "Minière..."
+      "Miner..."
     ],
     [
       "UPDT0001",
@@ -627,7 +631,47 @@
     ],
     [
       "UPDT0010",
-      ".\n\nLa nouvelle version augmente la sécurité de votre minière. Pour que cela fonctionne correctement, nous avons dû modifier la ligne de commande de lancement d'Excavator.Cliquez sur Oui si vous acceptez de le réinitialiser. Si vous ne le réinitialisez pas, NiceHash QuickMiner peut ne pas fonctionner correctement."
+      ".\n\nLa nouvelle version augmente la sécurité de votre minage. Pour que cela fonctionne correctement, nous avons dû modifier la ligne de commande de lancement d'Excavator.Cliquez sur Oui si vous acceptez de le réinitialiser. Si vous ne le réinitialisez pas, NiceHash QuickMiner peut ne pas fonctionner correctement."
+    ],
+    [
+      "ETHF0001",
+      "Le minage d'Ethereum est terminée, vérifier les options disponibles ici"
+    ],
+    [
+      "ETHF0002",
+      "https://www.nicehash.com/my/mining/rigs"
+    ],
+    [
+      "ETHF0003",
+      "Plus d'information"
+    ],
+    [
+      "ETHF0004",
+      "Fermer"
+    ],
+    [
+      "ETHSW0001",
+      "Les bénéfices de DaggerHashimoto ont diminué en raison du passage d'Ethereum à la preuve de participation.\nVous minez maintenant Ethereum Classic sur l'algorithme ETChash à la place.\nVous pouvez sélectionner un algorithme différent en cliquant sur le bouton droit sur l'icône de la barre QuickMiner.\n\nN'oubliez pas de définir le profil d'optimisation via Rig Manager !"
+    ],
+    [
+      "ETHSW0004",
+      "Fermer"
+    ],
+    [
+      "NHMA0001",
+      "Nous avons remarqué que vous utilisez une adresse de minage externe.\nPassez à l'adresse de minage NiceHash pour profiter de frais réduits et d'autres avantages. "
+    ],
+    [
+      "NHMA0002",
+      "Changement d'adresse"
+    ],
+    [
+      "NHMA0003",
+      "Fermer"
+    ],
+    [
+      "NHMA0004",
+      "Plus d'information"
     ],
     [
       "NOTICE0000",
