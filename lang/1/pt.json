@@ -1,9 +1,9 @@
 {
-  "version": 9,
+  "version": 8,
   "strings": [
     [
       "GEN00001",
-      "Выход"
+      "Sair"
     ],
     [
       "GEN00002",
@@ -11,423 +11,423 @@
     ],
     [
       "GEN00003",
-      "Отмена"
+      "Cancelar"
     ],
     [
       "GEN00004",
-      "СТАБИЛЬНАЯ"
+      "ESTÁVEL"
     ],
     [
       "GEN00005",
-      "RC (Кандидат на выпуск)"
+      "RC (Release Candidate)"
     ],
     [
       "INST0001",
-      "NiceHash QuickMiner уже установлен в:"
+      "O NiceHash QuickMiner já está instalado:"
     ],
     [
       "INST0002",
-      "Хотите перезаписать эту установку?"
+      "Gostaria de substituir a instalação?"
     ],
     [
       "INST0003",
-      "Загрузить и установить"
+      "Descarregar e Instalar"
     ],
     [
       "INST0004",
-      "Язык:"
+      "Língua:"
     ],
     [
       "INST0005",
-      "Папка установки:"
+      "Pasta de instalação:"
     ],
     [
       "INST0006",
-      "Обзор"
+      "Procurar"
     ],
     [
       "INST0007",
-      "Тип версии:"
+      "Tipo de versão:"
     ],
     [
       "INST0008",
-      "Создать ярлык на рабочем столе"
+      "Criar um atalho no ambiente de trabalho"
     ],
     [
       "INST0009",
-      "Запустить NiceHash QuickMiner после установки"
+      "Executar o NiceHash QuickMiner depois da instalação"
     ],
     [
       "INST0010",
-      "Загрузить и установить"
+      "Descarregar e Instalar"
     ],
     [
       "INST0011",
-      "Загрузка и установка, подождите, пожалуйста..."
+      "A descarregar e instalar, por favor, espere..."
     ],
     [
       "INST0012",
-      "Невозможно запустить excavator.exe; ошибка:"
+      "Não foi possível iniciar o excavator.exe; erro:"
     ],
     [
       "INST0013",
-      "Если антивирус блокирует файл, разрешите его или добавьте в исключения, затем повторите установку."
+      "Se o AV está a bloquear o ficheiro, permita-o ou faça uma exceção e repita a instalação."
     ],
     [
       "INST0014",
-      "Невозможно запустить NiceHashQuickMiner.exe; ошибка:"
+      "Não foi possível iniciar o NiceHashQuickMiner.exe; erro:"
     ],
     [
       "INST0015",
-      "был успешно установлен! Благодарим вас за вашу поддержку!"
+      "já foi instalado com sucesso! Obrigado pelo seu apoio!"
     ],
     [
       "INST0016",
-      "Примените ОПТИМИЗИРОВАТЬ (Легкий) для всех устройств"
+      "Aplicar OTIMIZAÇÃO (Leve) para todos os dispositivos"
     ],
     [
       "INST0017",
-      "Принять"
+      "Aceitar"
     ],
     [
       "INST0018",
-      "Отклонить"
+      "Rejeitar"
     ],
     [
       "PROG0001",
-      "NiceHash QuickMiner уже работает!"
+      "O NiceHash QuickMiner já está em execução!"
     ],
     [
       "PROG0002",
-      "Было обнаружено, что NiceHash QuickMiner привел к сбою вашего ПК."
+      "Foi detetado que o NiceHash QuickMiner levou ao 'crash' do seu PC."
     ],
     [
       "PROG0003",
-      "Хотите сбросить все настроенные оптимизации и вернуться ко значениям по умолчанию (Ручной) для всех видеокарт?"
+      "Gostaria de redefinir todos os perfis de OTIMIZAÇÃO de volta para os valores padrão (Manual) para todas as GPUs?"
     ],
     [
       "PROG0004",
-      "Невозможно запустить NiceHash QuickMiner. Ошибка:\n\n - файлы отсутствуют\n\nНекоторые файлы были удалены сторонней программой — вероятнее всего, антивирусом."
+      "Não foi possível iniciar o NiceHash QuickMiner. Erro:\n\n - ficheiros em falta\n\nAlguns ficheiros foram apagados por um programa terceiro - provavelmente um AV."
     ],
     [
       "PROG0005",
-      "Ошибка установки!\n\nNiceHash QuickMiner не смог продолжить установку. Ошибка:"
+      "Erro na instalação!\n\nO NiceHash QuickMiner não conseguio continuar a instalação. Erro:"
     ],
     [
       "PROG0006",
-      "Невозможно инициализировать NVML.\n\nNiceHash QuickMiner не работает без устройств NVIDIA!"
+      "Não foi possível iniciar o NVML.\n\nO NiceHash QuickMiner não funciona sem dispositivos da NVIDIA!"
     ],
     [
       "PROG0007",
-      "Не удалось получить версию драйвера NVIDIA!"
+      "Não foi possível obter a versão do driver da NVIDIA!"
     ],
     [
       "PROG0008",
-      "Недопустимая версия драйвера NVIDIA. Минимум — 511.09.\n\nПожалуйста, установите последнюю версию драйверов NVIDIA!"
+      "Versão do driver da NVIDIA inválida. A versão mínima é 511.09.\n\nPor favor, instale os drivers mais recentes da NVIDIA!"
     ],
     [
       "PROG0009",
-      "Совместимые устройства не обнаружены!\n\nЕсли у вас совместимое устройство, пожалуйста, попробуйте перезагрузить свой ПК."
+      "Não foi detetado hardware compatível!\n\nSe tem hardware compatível, tente reiniciar o PC."
     ],
     [
       "FRM10001",
-      "ВАЖНО! Вы можете управлять NiceHash QuickMiner через контекстное меню. Нажмите правой кнопкой мыши на значке NiceHash в области уведомлений Windows, как это показано на примере ниже:"
+      "IMPORTANTE! Pode controlar o NiceHash QuickMiner a partir do menu. Carregue com o botão direito do rato no ícone da NiceHash nas barra de Notificações do Windows. Veja o exemplo na seguinte imagem:"
     ],
     [
       "FRM10002",
-      "Отлично, все понятно! Закрыть это окно."
+      "Okay, eu testei e compreendo! Fechar esta janela agora."
     ],
     [
       "FRM10003",
-      "Загрузка: "
+      "A carregar: "
     ],
     [
       "FRM10004",
-      "Показать настройки"
+      "Mostrar Opções"
     ],
     [
       "FRM10074",
-      "Показать главное окно"
+      "Mostrar Formulário Principal"
     ],
     [
       "FRM10005",
-      "О программе"
+      "Sobre"
     ],
     [
       "FRM10006",
-      "Экспортировать логи"
+      "Exportação de logs"
     ],
     [
       "FRM10007",
-      "Полное логирование"
+      "Logging completo e detalhado"
     ],
     [
       "FRM10008",
-      "Показать руководства"
+      "Ver Manuais"
     ],
     [
       "FRM10009",
-      "Помощь"
+      "Ajuda"
     ],
     [
       "FRM10010",
-      "Автозапуск при загрузке Windows"
+      "Iniciar com o Windows"
     ],
     [
       "FRM10011",
-      "Майнинг на процессоре"
+      "Mineração com CPU"
     ],
     [
       "FRM10012",
-      "Редактировать исполняемый файл"
+      "Editar ficheiro de comandos"
     ],
     [
       "FRM10013",
-      "Редактировать файл конфигурации"
+      "Editar ficheiro de config"
     ],
     [
       "FRM10014",
-      "Настройки"
+      "Definições"
     ],
     [
       "FRM10015",
-      "Настроить"
+      "Configurar"
     ],
     [
       "FRM10016",
-      "Активировать"
+      "Ativar"
     ],
     [
       "FRM10017",
-      "Режим игры"
+      "Modo de Jogo"
     ],
     [
       "FRM10018",
-      "Запуск майнинга"
+      "Iniciar a mineração"
     ],
     [
       "FRM10019",
-      "Открыть"
+      "Abrir"
     ],
     [
       "FRM10020",
-      "Деактивировать"
+      "Desativar"
     ],
     [
       "FRM10021",
-      "Запустить"
+      "Iniciar"
     ],
     [
       "FRM10022",
-      "Остановить"
+      "Parar"
     ],
     [
       "FRM10023",
-      "Обновление на новую версию не удалось, причина:"
+      "Falha na atualização para a nova versão, razão:"
     ],
     [
       "FRM10024",
-      "Пожалуйста, решите проблемы или обновитесь вручную."
+      "Por favor, resolva os problemas ou atualize manualmente."
     ],
     [
       "FRM10025",
-      "уведомление"
+      "notificação"
     ],
     [
       "FRM10026",
-      "Excavator.exe успешно начал майнинг!"
+      "O Excavator.exe começou a minar com sucesso!"
     ],
     [
       "FRM10027",
-      "Скорость"
+      "Velocidade"
     ],
     [
       "FRM10028",
-      "Не удалось запустить excavator.exe. Пожалуйста, обратитесь к руководству по исправлению ошибок NiceHash QuickMiner."
+      "Falha ao iniciar o excavator.exe. Consulte o guia troubleshooting do NiceHash QuickMiner."
     ],
     [
       "FRM10029",
-      "Не удалось установить подключение к excavator.exe. Пожалуйста, обратитесь к руководству по исправлению ошибок NiceHash QuickMiner."
+      "Falha a estabelecer uma conexão com o excavator.exe. Consulte o guia troubleshooting do NiceHash QuickMiner."
     ],
     [
       "FRM10030",
-      "Excavator.exe был остановлен!"
+      "O Excavator.exe parou!"
     ],
     [
       "FRM10031",
-      "У этого ПК недостаточно виртуальной памяти. Увеличьте виртуальную память или добавьте больше физического ОЗУ."
+      "Este PC não tem memória virtual suficiente. Aumente a memória virtual ou adicione mais RAM."
     ],
     [
       "FRM10040",
-      "Режим игры все еще активен!\n\nВы все равно хотите выйти из NiceHash QuickMiner?"
+      "O Modod de Jogo ainda está ativo!\n\nAinda deseja sair do NiceHash QuickMiner?"
     ],
     [
       "FRM10041",
-      "Это действие закроет NiceHash QuickMiner.\n\nВы уверены, что хотите выйти из NiceHash QuickMiner?"
+      "Esta ação fechará o NiceHash QuickMiner.\n\nTem a certeza que pretende saír do NiceHash QuickMiner?"
     ],
     [
       "FRM10042",
-      "Не удалось обнаружить видеокарту с подключенным дисплеем или вы используете старую видеокарту для отображения!"
+      "Não foi possível detetar uma placa gráfica conectada a um monitor, ou poderá estar a usar uma GPU muito antiga!"
     ],
     [
       "FRM10043",
-      "Режим игры активирован на основной видеокарте с дисплеем. Майнинг был остановлен на этой видеокарте, и для нее был применен игровой разгон.\n\nИграйте!"
+      "O Modo de Jogo foi ativado na GPU principal, com ecrã. A mineração parou nesta GPU e os overclocks de jogos foram aplicados.\n\nBons jogos!"
     ],
     [
       "FRM10044",
-      "Режим игры деактивирован на основной видеокарте с дисплеем. Видеокарта вернулась к майнингу с примененным разгоном для майнинга (если он был настроен)."
+      "O Modo de Jogo foi desativado na GPU principal, com ecrã. A GPU retomou a mineração e os overclocks de mineração foram aplicados (se definidos)."
     ],
     [
       "FRM10050",
-      "Задание автозапуска"
+      "Autostart task"
     ],
     [
       "FRM10051",
-      "Задание автозапуска NiceHash QuickMiner было удалено."
+      "A autostart task do NiceHash QuickMiner foi desinstalada."
     ],
     [
       "FRM10052",
-      "Не удалось удалить задание автозапуска NiceHash QuickMiner! Причина:"
+      "Falha ao desinstalar a autostart task do NiceHash QuickMiner! Razão:"
     ],
     [
       "FRM10053",
-      "Задание автозапуска NiceHash QuickMiner было успешно установлено.\n\nNiceHash QuickMiner теперь будет запускаться и начинать майнинг при загрузке Windows."
+      "A autostart task do NiceHash QuickMiner foi instalada com sucesso.\n\nO NiceHash QuickMiner irá agora iniciar a mineração automaticamente, quando o Windows iniciar."
     ],
     [
       "FRM10054",
-      "Не удалось установить задание автозапуска NiceHash QuickMiner! Причина:"
+      "Falha ao instalar a autostart task do NiceHash QuickMiner! Razão:"
     ],
     [
       "FRM10060",
-      "Не удалось перезапустить Excavator! Пожалуйста, перезапустите NiceHash QuickMiner для исправления этой проблемы!"
+      "Falla ao reiniciar o Excavator! Reinicie o NiceHash QuickMiner para resolver o problema!"
     ],
     [
       "FRM10061",
-      "Готово! Логи были экспортированы в один файл .zip:"
+      "Tudo pronto! Os logs foram exportados para um ficheiro .zip:"
     ],
     [
       "FRM10062",
-      "Ваш Биткоин-адрес для майнинга был удален, и были включены только последние 6 часов логов, чтобы уменьшить размер файла. Вы должны прикрепить этот файл при отправке отчета об ошибке."
+      "O seu Endereço de Mineração de BTC foi removido e apenas foram incluídos os logs das últimas 6h, para reduzir o tamanho do ficheiro. Deverá anexá-lo ao submeter o relatório de bug/problema."
     ],
     [
       "FRM10063",
-      "Не удалось экспортировать логи, причина:"
+      "Falha na exportação de logs, razão:"
     ],
     [
       "FRM10064",
-      "Экспортирование лог-файлов в файл ZIP"
+      "Exportar os logs para um ficheiro ZIP"
     ],
     [
       "FRM10070",
-      "Оптимизируйте стабильность, активировав прерывания с сигнализацией сообщений (MSI) для всех поддерживаемых видеокарт. Стабильность вашего рига для майнинга может быть существенно увеличена.\n\nОПАСНОСТЬ! В некоторых редких случаях это действие может повредить драйверы вашего дисплея. Рекомендуется выполнить восстановление системы перед активацией MSI.\n\nАктивировать MSI сейчас?"
+      "Otimize a estabilidade ativando o Message Signaled Interrupts (MSI) para todas as GPUs. A estabilidade da sua rig poderá melhorar consideravelmente.\n\nPERIGO! Muito raramente, esta ação poderá causar erros nos drivers. É recomendado efetuar um ponto de restauro do sistema antes de ativar o MSI.\n\nAtivar o MSI agora?"
     ],
     [
       "FRM10071",
-      "Действие не удалось, ошибка:"
+      "Ação falhada, erro:"
     ],
     [
       "FRM10072",
-      "Все видеокарты успешно оптимизированы!"
+      "Todas as GPUs já estão otimizadas!"
     ],
     [
       "FRM10073",
-      "Успешно! Пожалуйста, перезагрузите свой ПК.\n\nБыли оптимизированы следующие видеокарты:"
+      "Sucesso! Reinicie o seu PC.\n\nAs seguintes GPUs foram otimizadas:"
     ],
     [
       "FRM10101",
-      "Дополнительно"
+      "Extra"
     ],
     [
       "FRM10102",
-      "Примените прерывания MSI"
+      "Aplicar interrupções MSI"
     ],
     [
       "FRM10103",
-      "MSI отключены! Пожалуйста, включите MSI для повышения стабильности!"
+      "MSI desativado! Ative o MSI para uma melhor estabilidade!"
     ],
     [
       "FRM10201",
-      "Загрузка завершена!"
+      "Carregamento completo!"
     ],
     [
       "FRM10301",
-      "Невозможно изменить в режиме игры.\n\nПожалуйста, сперва деактивируйте режим игры!"
+      "Não foi possível alterar durante o Modo de Jogo.\n\nDesative o Modo de Jogo primeiro!"
     ],
     [
       "FRM20001",
-      "Адрес для майнинга неверный или отсутствует. Пожалуйста, введите ваш адрес для майнинга NiceHash:"
+      "Endereço de Mineração inválido ou em falta. Por favor insira o seu Endereço de Mineração da NiceHash:"
     ],
     [
       "FRM20002",
-      "Вставить из буфера обмена"
+      "Colar da Clipboard"
     ],
     [
       "FRM20003",
-      "введите свой адрес для майнинга здесь"
+      "Insira o seu endereço de mineração aqui"
     ],
     [
       "FRM20004",
-      "Адрес для майнинга найден в реестре. Нажмите «ОК», если хотите использовать этот адрес, в противном случае замените его"
+      "Endereço de Mineração encontrado no registo. Clique em Ok se você quiser usar este endereço, caso contrário, substitua-o"
     ],
     [
       "FRM20005",
-      "Не знаете, где его получить? Войдите в свой аккаунт NiceHash, затем перейдите на эту страницу:"
+      "Não sabe onde encontrá-lo? Inicie sessão na sua conta NiceHash e vá a esta página:"
     ],
     [
       "FRM20006",
-      "Недействительный адрес для майнинга. Введенный адрес неверный."
+      "Endereço de mineração inválido. O endereço inserido está incorreto."
     ],
     [
       "FRM20007",
-      "Запускать майнинг автоматически"
+      "Começar a Minar automaticamente"
     ],
     [
       "FRM20008",
-      "Автозапуск майнинга"
+      "Começo automático da mineração"
     ],
     [
       "FRM20009",
-      "NiceHash QuickMiner больше не будет запускаться автоматически."
+      "O NiceHash QuickMiner não vai mais começar a minar automaticamente."
     ],
     [
       "FRM20010",
-      "NiceHash QuickMiner будет запускать майнинг автоматически."
+      "O NiceHash QuickMiner irá começar a minar automaticamente."
     ],
     [
       "FRM20011",
-      "Не показывать больше это окно"
+      "Não mostrar este ecrã novamente"
     ],
     [
       "UINS0001",
-      "Удалить"
+      "Desinstalar"
     ],
     [
       "UINS0002",
-      "Пожалуйста, выберите следующие настройки перед удалением NiceHash QuickMiner:"
+      "Selecione as seguintes opções antes de desinstalar o NiceHash QuickMiner:"
     ],
     [
       "UINS0003",
-      "Сохранить файл конфигурации (nhqm.conf)."
+      "Manter o ficheiro de config (nhqm.conf)."
     ],
     [
       "UINS0004",
-      "Сохранить командные файлы (*.json), содержащие настройки разгона и вентиляторов."
+      "Manter o ficheiro de comandos (*.json), com os OCs e configurações das ventoinhas."
     ],
     [
       "UINS0005",
-      "Сохранить лог-файлы."
+      "Manter os ficheiros de log."
     ],
     [
       "GAME0001",
-      "Настройки режима игры"
+      "Opções do Modo de Jogo"
     ],
     [
       "GAME0002",
-      "Обнаружена основная видеокарта с подключенным дисплеем:"
+      "Detetar a GPU primária, com ecrã conectado:"
     ],
     [
       "GAME0003",
-      "Значения разгона для применения к основной видеокарте при активном режиме игры:"
+      "Os valores de overclock a aplicar na GPU primária ao ativar o Modo de jogo:"
     ],
     [
       "GAME0004",
@@ -435,207 +435,207 @@
     ],
     [
       "GAME0005",
-      "Дельта част. ядра"
+      "Core clock delta"
     ],
     [
       "GAME0006",
-      "Дельта част. памяти"
+      "Memory clock delta"
     ],
     [
       "GAME0007",
-      "Автонастройка вентилятора"
+      "Def. ventoinhas para auto."
     ],
     [
       "ABT00001",
-      "Версия:"
+      "Versão:"
     ],
     [
       "FRM90001",
-      "Необязательные настройки"
+      "Definições Opcionais"
     ],
     [
       "FRM90002",
-      "Давайте сконфигурируем следующие настройки, которые не являются обязательными, но рекомендуются. Если вы торопитесь, вы можете пропустить этот шаг и выполнить настройку позже через файл конфигурации (nhqm.conf)."
+      "Vamos configurar as seguintes definições não obrigatórias, mas recomendadas. Se está com pressa, poderá fazer isto mais tarde, no ficheiro de config (nhqm.conf)."
     ],
     [
       "FRM90003",
-      "Пропустить >>"
+      "Pular >>"
     ],
     [
       "FRM90004",
-      "Язык"
+      "Língua"
     ],
     [
       "FRM90005",
-      "Имя"
+      "Nome"
     ],
     [
       "FRM90006",
-      "Автозапуск"
+      "Autostart"
     ],
     [
       "FRM90007",
-      "Обработка ошибок"
+      "Gestão de Erros"
     ],
     [
       "FRM90008",
-      "Советы и подсказки"
+      "Dicas & Truques"
     ],
     [
       "FRM90009",
-      "Менеджер ригов"
+      "Rig Manager"
     ],
     [
       "FRM90010",
-      "Язык интерфейса"
+      "Língua da Interface"
     ],
     [
       "FRM90011",
-      "Придумайте уникальное и необычное имя для своего майнинг рига!"
+      "Dê um nome único e interessante à sua rig!"
     ],
     [
       "FRM90012",
-      "Имя воркера:"
+      "Nome do trabalhador:"
     ],
     [
       "FRM90013",
-      "Хотите, чтобы NiceHash QuickMiner автоматически запускался при загрузке Windows?"
+      "Gostaria que o NiceHash QuickMiner iniciasse automaticamente com o Windows?"
     ],
     [
       "FRM90014",
-      "Автозапуск при загрузке Windows (через Планировщик заданий)"
+      "Iniciar automaticamente com o Windows (Método do Task Scheduler)"
     ],
     [
       "FRM90015",
-      "Что будем делать в случае сбоя видеокарт?"
+      "O que fazer com o seu PC quando as GPUs dão erro?"
     ],
     [
       "FRM90016",
-      "Действие:"
+      "Ação da gestão de Erros:"
     ],
     [
       "FRM90017",
-      "Ничего не делать"
+      "Não fazer nada"
     ],
     [
       "FRM90018",
-      "Перезапускать Excavator (по умолчанию)"
+      "Reiniciar o Excavator(Padrão)"
     ],
     [
       "FRM90019",
-      "Перезагружать риг (рекомендуется)"
+      "Reiniciar a Rig(Recomendado)"
     ],
     [
       "FRM90020",
-      "Перезапускать драйвер NVIDIA"
+      "Reiniciar o driver da NVIDIA"
     ],
     [
       "FRM90021",
-      "Другие доступные настройки, а также полезные рекомендации и советы, вы можете найти в нашей базе знаний NiceHash QuickMiner."
+      "Há muitas outras configurações que pode definir. Leia a Wiki do NiceHash QuickMiner para Dicas e Truques."
     ],
     [
       "FRM90022",
-      "РЕКОМЕНДУЕМ! Попробуйте использовать оптимизацию \"в один клик\" для десктопных видеокарт серии GTX 1000, TITAN V, TITAN RTX, а также серий RTX 2000 и RTX 3000. Надежность и высокая эффективность гарантированы!"
+      "RECOMENDADO! Não se esqueça de verificar a Otimização com 1 - Click - para as séries GTX 1000s, TITAN V, RTX 2000, TITAN RTX e RTX 3000 das placas gráficas de desktop. É garantida grande confiabilidade e eficiência!"
     ],
     [
       "FRM90023",
-      "Если вы новичок, рекомендуем на этом шаге перейти в Менеджер ригов. Чтобы настроить видеокарты вручную, перейдите на следующую страницу."
+      "Se é novo, recomendamos que vá ao Rig Manager agora. Se quiser efetuar os OCs manualmente, vá à próxima página."
     ],
     [
       "FRM90024",
-      "Перейти к Менеджеру ригов >>"
+      "Leve-me ao Rig Manager >>"
     ],
     [
       "FRM90025",
-      "Прежде чем майнер появится в Менеджере ригов, может пройти несколько минут. Пожалуйста, будьте терпеливы!"
+      "Pode demorar alguns minutos para que a sua rig apareça no Gestor de Rigs. Por favor tenha paciência!"
     ],
     [
       "FRM90026",
-      "OCTune — мощный инструмент для разгона. Он поддерживает модификацию частот ядра и памяти, ограничений питания, управляет вентиляторами и способен выполнять андервольтинг для снижения потребления мощности и увеличения эффективности. Отключите другие инструменты разгона и используйте для этого OCTune!"
+      "O OCTune é uma poderosa ferramenta de overclocking que satifaz todas as necessidades de um mineiro. Esta suporta modificações dos core clocks, memory clocks, limites de potência, a alteração do comportamento das ventoinhas e permite ainda o undervolt da GPU, para reduzir o consumo energético e aumentar a eficiência. Desligue outras ferramentas de OC e deixe o OCTune ter controlo total!"
     ],
     [
       "FRM90027",
-      "Открыть OCTune для настройки >>"
+      "Abrir o OCTune para ajustar >>"
     ],
     [
       "FRM90028",
-      "Автозапуск майнинга при старте QuickMiner"
+      "Começar a minar automaticamente quando o QuickMiner é iniciado"
     ],
     [
       "F0100001",
-      "Скоро запустится автоматически..."
+      "A iniciar automaticamente em breve..."
     ],
     [
       "F0100002",
-      "Сброс оптимизации"
+      "Redefinir OTIMIZAÇÃO"
     ],
     [
       "F0100003",
-      "Запуск"
+      "Iniciar"
     ],
     [
       "F0100004",
-      "Вы можете сбросить оптимизацию перед ее применением, чтобы избежать сбоя ПК в связи с несовместимостью профилей оптимизации."
+      "Pode redefinir a Otimização antes de ser aplicada, evitando o 'crash' do PC, causado por perfis de otimização incompatíveis."
     ],
     [
       "F0120001",
-      "Начать майнинг"
+      "Começar a Minerar"
     ],
     [
       "F0121001",
-      "Остановить майнинг"
+      "Parar de Minerar"
     ],
     [
       "F0120002",
-      "Вы готовы к работе!"
+      "Você está pronto para começar!"
     ],
     [
       "F0121002",
-      "Майнинг..."
+      "Minerando..."
     ],
     [
       "UPDT0001",
-      "Доступна новая версия"
+      "Nova versão disponível"
     ],
     [
       "UPDT0002",
-      "NiceHash QuickMiner v"
+      "O NiceHash QuickMiner v"
     ],
     [
       "UPDT0003",
-      " доступен.\n\nХотите обновиться сейчас?"
+      " está disponível.\n\nDeseja atualizar agora?"
     ],
     [
       "UPDT0004",
-      "Новая версия загружена"
+      "Nova versão descarregada"
     ],
     [
       "UPDT0005",
-      "NiceHash QuickMiner v"
+      "O NiceHash QuickMiner v"
     ],
     [
       "UPDT0006",
-      " был загружен.\n\nNiceHash QuickMiner должен быть перезагружен, чтобы завершить обновление. Нажмите ОК для перезапуска, когда будете готовы. Рекомендуется после обновления проверить настройки, чтобы убедиться, что NiceHash QuickMiner работает так, как надо."
+      " foi descarregado.\n\nO NiceHash QuickMiner tem de reiniciar para completar a autalização. Carregue em OK para reiniciar, quando estiver pronto. É recomendado verificar as configurações depois da atualização, certificando-se de que o NiceHash QuickMiner funciona como esperado."
     ],
     [
       "UPDT0007",
-      "Доступна новая функция"
+      "Nova funcionalidade disponível"
     ],
     [
       "UPDT0008",
-      "NiceHash QuickMiner был успешно обновлен до v"
+      "O NiceHash QuickMiner foi atualizado para a v"
     ],
     [
       "UPDT0009",
-      ".\n\nНовая версия может автоматически обнаруживать и выбирать лучшую локацию с очень высокой надежностью. В ней также есть автоматическое переключение на другую локацию в случае недоступности или технических работ на первой локации. Хотите включить функцию автоматического выбора локации сервиса?"
+      ".\n\nA nova versão pode detetar e selecionar automaticamente a melhor localização. Também tem um 'fallback' automático para uma localização secundária, caso haja uma interrupção na localização primária. Gostaria de ativar a funcionalidade de localização automática dos serviços?"
     ],
     [
       "UPDT0010",
-      ".\n\nНовая версия увеличивает безопасность вашего майнинга. Для правильной работы, нам нужно модифицировать командную строку запуска Excavator. Нажмите Да, если согласны сбросить ее. Если вы ее не сбросите, NiceHash QuickMiner может не работать правильно."
+      ".\n\nA nova versão aumenta a segurança da mineração. Para isto funcionar, alterámos a linha de comandos de execução do Excavator. Carregue em Sim, se concorda em redefiní-la. Se não a redefinir, o NiceHash QuickMiner poderá não funcionar."
     ],
     [
       "ETHF0001",
-      "Майнинг Ethereum завершен, проверьте варианты, доступные здесь"
+      "A mineração de Ethereum terminou, verifique as opções disponíveis aqui"
     ],
     [
       "ETHF0002",
@@ -643,39 +643,39 @@
     ],
     [
       "ETHF0003",
-      "Больше информации"
+      "Mais Informação"
     ],
     [
       "ETHF0004",
-      "Закрыть"
+      "Fechar"
     ],
     [
       "ETHSW0001",
-      "Платежная ставка DaggerHashimoto снизилась из-за перехода Ethereum на Proof of Stake.\nТеперь вместо этого вы майните Ethereum Classic на алгоритме ETChash.\nВы можете выбрать другой алгоритм, нажав правой кнопкой мыши на значок QuickMiner в трее.\n\nНе забудьте установить профиль оптимизации через Rig Manager!"
+      "A taxa de pagamento de DaggerHashimoto diminuiu devido à mudança do Ethereum para Prova de Participação.\nAgora você está a minerar Ethereum Classic no algoritmo ETCash.\nVocê pode selecionar um algoritmo diferente clicando com o botão direito do rato no ícone da bandeja do QuickMiner.\n\nNão se esqueça de definir o perfil de otimização no Gestor de Rigs!"
     ],
     [
       "ETHSW0004",
-      "Закрыть"
+      "Fechar"
     ],
     [
       "NHMA0001",
-      "Мы заметили, что вы используете внешний адрес для майнинга.\nПерейдите на адрес для майнинга NiceHash, чтобы получить более низкие комиссии и другие преимущества. "
+      "Reparámos que você está a usar um endereço de mineração externo.\nMude para o endereço de mineração NiceHash para aproveitar taxas mais baixas e outras vantagens. "
     ],
     [
       "NHMA0002",
-      "Изменить адрес"
+      "Alterar endereço"
     ],
     [
       "NHMA0003",
-      "Закрыть"
+      "Fechar"
     ],
     [
       "NHMA0004",
-      "Больше информации"
+      "Mais Informação"
     ],
     [
       "NOTICE0000",
-      "{\\rtf1\\ansi\\ansicpg1252\\deff0\\nouicompat{\\fonttbl{\\f0\\fswiss\\fcharset0 Helvetica-Bold;}{\\f1\\fswiss\\fcharset0 Helvetica;}{\\f2\\fswiss\\fcharset0 ArialMT;}{\\f3\\fnil\\fcharset2 Symbol;}}\n{\\colortbl ;\\red0\\green0\\blue0;\\red0\\green0\\blue255;\\red24\\green25\\blue27;}\n{\\*\\generator Riched20 10.0.22000}\\viewkind4\\uc1 \n\\pard\\cf1\\b\\f0\\fs28\\lang12 NiceHash QuickMiner \\b0\\f1\\fs24\\par\n\\par\n Дорогой пользователь NiceHash, вы собираетесь начать использовать услуги NiceHash:\\par\n\n\\pard{\\pntext\\f3\\'B7\\tab}{\\*\\pn\\pnlvlblt\\pnf3\\pnindent2{\\pntxtb\\'B7}}\\fi-262\\li261\\tx20\\tx261 вы будете делиться вычислительной мощностью своего устройства и получать за это оплату в криптовалюте Биткоин (BTC);\\par\n{\\pntext\\f3\\'B7\\tab}это может привести к сокращению срока службы батареи вашего устройства и повышенному потреблению электроэнергии.\\par\n\n\\pard\\par\n Как это работает: {\\cf0{\\field{\\*\\fldinst{HYPERLINK https://www.nicehash.com }}{\\fldrslt{https://www.nicehash.com\\ul0\\cf0}}}}\\ul\\f1\\fs24\\par\n\\ulnone\\par\n Что собой представляет криптовалюта: {\\ul{\\field{\\*\\fldinst{HYPERLINK https://en.wikipedia.org/wiki/Cryptocurrency }}{\\fldrslt{https://en.wikipedia.org/wiki/Cryptocurrency}}}}\\ul\\f1\\fs24\\par\n\\par\n\\cf3\\ulnone\\f2\\fs32\\par\n}\n"
+      "{\\rtf1\\ansi\\ansicpg1252\\deff0\\nouicompat{\\fonttbl{\\f0\\fswiss\\fcharset0 Helvetica-Bold;}{\\f1\\fswiss\\fcharset0 Helvetica;}{\\f2\\fswiss\\fcharset0 ArialMT;}{\\f3\\fnil\\fcharset2 Symbol;}}\n{\\colortbl ;\\red0\\green0\\blue0;\\red0\\green0\\blue255;\\red24\\green25\\blue27;}\n{\\*\\generator Riched20 10.0.22000}\\viewkind4\\uc1 \n\\pard\\cf1\\b\\f0\\fs28\\lang12 NiceHash QuickMiner \\b0\\f1\\fs24\\par\n\\par\n Caro utilizador da NiceHash, você está prestes a começar a usar os serviços da NiceHash:\\par\n\n\\pard{\\pntext\\f3\\'B7\\tab}{\\*\\pn\\pnlvlblt\\pnf3\\pnindent2{\\pntxtb\\'B7}}\\fi-262\\li261\\tx20\\tx261\nvocê irá partilhar o poder de computação do seu dispositivo e, por isso, irá ser pago em conformidade na criptomoeda Bitcoin (BTC);\\par\n{\\pntext\\f3\\'B7\\tab}isso pode resultar na perda de vida útil da bateria do seu dispositivo e no aumento do consumo de electricidade.\\par\n\n\\pard\\par\n Como funciona: {\\cf0{\\field{\\*\\fldinst{HYPERLINK https://www.nicehash.com }}{\\fldrslt{https://www.nicehash.com\\ul0\\cf0}}}}\\ul\\f1\\fs24\\par\n\\ulnone\\par\n O que são criptomoedas: {\\ul{\\field{\\*\\fldinst{HYPERLINK https://en.wikipedia.org/wiki/Cryptocurrency }}{\\fldrslt{https://en.wikipedia.org/wiki/Cryptocurrency}}}}\\ul\\f1\\fs24\\par\n\\par\n\\cf3\\ulnone\\f2\\fs32\\par\n}\n"
     ]
   ]
 }
