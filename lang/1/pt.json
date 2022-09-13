@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "strings": [
     [
       "GEN00001",
@@ -123,7 +123,7 @@
     ],
     [
       "PROG0008",
-      "Versão do driver da NVIDIA inválida. A mínima é 511.09.\n\nPor favor, instale os drivers mais recentes da NVIDIA!"
+      "Versão do driver da NVIDIA inválida. A versão mínima é 511.09.\n\nPor favor, instale os drivers mais recentes da NVIDIA!"
     ],
     [
       "PROG0009",
@@ -355,7 +355,7 @@
     ],
     [
       "FRM20001",
-      "Emdereço de Mineração de BTC inválido ou em falta. Insira o seu Endereço de Mineração da NiceHash:"
+      "Endereço de Mineração inválido ou em falta. Por favor insira o seu Endereço de Mineração da NiceHash:"
     ],
     [
       "FRM20002",
@@ -366,12 +366,16 @@
       "Insira o seu endereço de mineração aqui"
     ],
     [
+      "FRM20004",
+      "Endereço de Mineração encontrado no registo. Clique em Ok se você quiser usar este endereço, caso contrário, substitua-o"
+    ],
+    [
       "FRM20005",
       "Não sabe onde encontrá-lo? Inicie sessão na sua conta NiceHash e vá a esta página:"
     ],
     [
       "FRM20006",
-      "Endereço de BTC inválido. O endereço inserido está incorreto."
+      "Endereço de mineração inválido. O endereço inserido está incorreto."
     ],
     [
       "FRM20007",
@@ -543,7 +547,7 @@
     ],
     [
       "FRM90025",
-      "Pode demorar vários minutos para o seu Mineiro aparecer no Rig Manager. Por favor, seja paciênte!"
+      "Pode demorar alguns minutos para que a sua rig apareça no Gestor de Rigs. Por favor tenha paciência!"
     ],
     [
       "FRM90026",
@@ -628,6 +632,46 @@
     [
       "UPDT0010",
       ".\n\nA nova versão aumenta a segurança da mineração. Para isto funcionar, alterámos a linha de comandos de execução do Excavator. Carregue em Sim, se concorda em redefiní-la. Se não a redefinir, o NiceHash QuickMiner poderá não funcionar."
+    ],
+    [
+      "ETHF0001",
+      "A mineração de Ethereum terminou, verifique as opções disponíveis aqui"
+    ],
+    [
+      "ETHF0002",
+      "https://www.nicehash.com/my/mining/rigs"
+    ],
+    [
+      "ETHF0003",
+      "Mais Informação"
+    ],
+    [
+      "ETHF0004",
+      "Fechar"
+    ],
+    [
+      "ETHSW0001",
+      "A taxa de pagamento de DaggerHashimoto diminuiu devido à mudança do Ethereum para Prova de Participação.\nAgora você está a minerar Ethereum Classic no algoritmo ETCash.\nVocê pode selecionar um algoritmo diferente clicando com o botão direito do rato no ícone da bandeja do QuickMiner.\n\nNão se esqueça de definir o perfil de otimização no Gestor de Rigs!"
+    ],
+    [
+      "ETHSW0004",
+      "Fechar"
+    ],
+    [
+      "NHMA0001",
+      "Reparámos que você está a usar um endereço de mineração externo.\nMude para o endereço de mineração NiceHash para aproveitar taxas mais baixas e outras vantagens. "
+    ],
+    [
+      "NHMA0002",
+      "Alterar endereço"
+    ],
+    [
+      "NHMA0003",
+      "Fechar"
+    ],
+    [
+      "NHMA0004",
+      "Mais Informação"
     ],
     [
       "NOTICE0000",
