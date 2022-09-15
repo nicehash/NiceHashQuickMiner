@@ -8,10 +8,6 @@ Why you should use NiceHash QuickMiner over NiceHash Miner? Read [here](https://
 
 NiceHash QuickMiner was the first software to fully unlock LHR cards. Read more [here.](https://www.nicehash.com/blog/post/100-lhr-unlock-at-nicehash-its-here)
 
-Current expected income when using NiceHash QuickMiner:
-
-<a href="https://www.nicehash.com/profitability-calculator" target="_blank">![Profitability list](https://miner-plugins.nicehash.com/nhqm/imagegen/getimg.png?t=4574123)</a>
-
 For news, updates and important info regarding NiceHash QuickMiner, follow us on twitter: https://twitter.com/NiceHashMining
 
 Supported hardware:
