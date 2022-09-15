@@ -11,18 +11,18 @@ NiceHash QuickMiner was the first software to fully unlock LHR cards. Read more 
 For news, updates and important info regarding NiceHash QuickMiner, follow us on twitter: https://twitter.com/NiceHashMining
 
 Supported hardware:
-* NVIDIA GeForce GTX 1000 series with min. 6 GB of GDDRAM,
-* NVIDIA GeForce RTX 2000 series with min. 6 GB of GDDRAM,
-* NVIDIA GeForce RTX 3000 series with min. 6 GB of GDDRAM,
-* NVIDIA Quadro P series and later with min. 5 GB of GDDRAM,
+* NVIDIA GeForce GTX 1000 series with min. 4 GB of GDDRAM,
+* NVIDIA GeForce RTX 2000 series with min. 4 GB of GDDRAM,
+* NVIDIA GeForce RTX 3000 series with min. 4 GB of GDDRAM,
+* NVIDIA Quadro P series and later with min. 4 GB of GDDRAM,
 * NVIDIA Tesla P series and later,
 * Intel CPUs with AVX2,
 * AMD CPUs with AVX2.
-* AMD Radeon RX 400 series with min. 6GB of GDDRAM,
-* AMD Radeon RX 500 series with min. 6GB of GDDRAM,
-* AMD Radeon RX 5000 series with min. 6GB of GDDRAM,
-* AMD Radeon RX 6000 series with min. 6GB of GDDRAM,
-* AMD Radeon PRO series with min. 6GB of GDDRAM
+* AMD Radeon RX 400 series with min. 4GB of GDDRAM,
+* AMD Radeon RX 500 series with min. 4GB of GDDRAM,
+* AMD Radeon RX 5000 series with min. 4GB of GDDRAM,
+* AMD Radeon RX 6000 series with min. 64GB of GDDRAM,
+* AMD Radeon PRO series with min. 4GB of GDDRAM
 
 If you have GeForce RTX 3060, [read here about drivers](https://github.com/nicehash/NiceHashQuickMiner/wiki/GeForce-RTX-3060).
 
