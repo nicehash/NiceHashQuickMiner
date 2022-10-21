@@ -1,7 +1,7 @@
 {
     "version_str":"0.6.1.0_RC",
     "version":60100,
-    "package_sha256":"7205a39cc30f1da712df3fea23f4074679ea927b5181c52be4bdabd5991ca567",
+    "package_sha256":"7205A39CC30F1DA712DF3FEA23F4074679EA927B5181C52BE4BDABD5991CA567",
     "sigs": [{
       "version": 1,
       "signatures": [
