@@ -101,6 +101,13 @@
             { "id": 2, "pt": 0, "dmc": 1400, "mcc": 980, "fm": 3, "ftg" : 65, "ftr": 94 },
             { "id": 1, "pt": 0, "dmc": 1300, "mcc": 980, "fm": 3, "ftg" : 67, "ftr": 94 }
             ]},
+            { "name": "GeForce RTX 4090", "op": [
+            { "id": 11, "pt": 0, "dmc": 1600, "mcc": 1800, "fm": 3, "ftg" : 67, "ftr": 92 },
+            { "id": 4, "pt": 0, "dmc": 2200, "mcc": 2300, "fm": 3, "ftg" : 67, "ftr": 92 },
+            { "id": 3, "pt": 0, "dmc": 1900, "mcc": 2150, "fm": 3, "ftg" : 67, "ftr": 92 },
+            { "id": 2, "pt": 0, "dmc": 1500, "mcc": 2070, "fm": 3, "ftg" : 67, "ftr": 94 },
+            { "id": 1, "pt": 0, "dmc": 1000, "mcc": 2000, "fm": 3, "ftg" : 65, "ftr": 94 }
+            ]},
             { "name": "GeForce RTX 3090 Ti", "op": [
             { "id": 4, "pt": 0, "dmc": 1850, "mcc": 1400, "fm": 3, "ftg" : 60, "ftr": 92 },
             { "id": 3, "pt": 0, "dmc": 1550, "mcc": 1400, "fm": 3, "ftg" : 60, "ftr": 92 },
@@ -389,6 +396,12 @@
             { "id": 2, "pt": 0, "dmc": 1200, "mcc": 1200, "fm": 3, "ftg" : 65, "ftr": 94 },
             { "id": 1, "pt": 0, "dmc": 600, "mcc": 1100, "fm": 3, "ftg" : 67, "ftr": 94 }
             ]},
+             { "name": "GeForce RTX 4090", "op": [
+            { "id": 4, "pt": 0, "dmc": 2200, "mcc": 2000, "fm": 3, "ftg" : 65, "ftr": 92 },
+            { "id": 3, "pt": 0, "dmc": 1700, "mcc": 1880, "fm": 3, "ftg" : 65, "ftr": 92 },
+            { "id": 2, "pt": 0, "dmc": 1250, "mcc": 1780, "fm": 3, "ftg" : 67, "ftr": 94 },
+            { "id": 1, "pt": 0, "dmc": 950, "mcc": 1680, "fm": 3, "ftg" : 67, "ftr": 94 }
+            ]},
             { "name": "GeForce RTX 3090 Ti", "op": [
             { "id": 4, "pt": 2, "dmc": 1750, "mcc": 1730, "mcv": 730, "fm": 3, "ftg" : 60, "ftr": 92 },
             { "id": 3, "pt": 2, "dmc": 1450, "mcc": 1400, "mcv": 740, "fm": 3, "ftg" : 60, "ftr": 92 },
@@ -520,6 +533,13 @@
             {"name": "kawpow"}  
         ],
         "devices": [
+            { "name": "GeForce RTX 4090", "op": [
+            { "id": 12, "pt": 0, "dmc": -250, "mcc": 1850, "fm": 3, "ftg" : 65, "ftr": 85 },
+            { "id": 11, "pt": 0, "dmc": -450, "mcc": 1700, "fm": 3, "ftg" : 65, "ftr": 85 },
+            { "id": 3, "pt": 0, "dmc": 2150, "mcc": 2100, "fm": 3, "ftg" : 65, "ftr": 90 },
+            { "id": 2, "pt": 0, "dmc": 1750, "mcc": 1980, "fm": 3, "ftg" : 65, "ftr": 94 },
+            { "id": 1, "pt": 0, "dmc": 1450, "mcc": 1850, "fm": 3, "ftg" : 67, "ftr": 94 }
+            ]},
             { "name": "GeForce RTX 3090 Ti", "op": [
             { "id": 12, "pt": 0, "dmc": -250, "mcc": 1250, "fm": 3, "ftg" : 50, "ftr": 74 },
             { "id": 11, "pt": 0, "dmc": -150, "mcc": 1450, "fm": 3, "ftg" : 50, "ftr": 74 },
