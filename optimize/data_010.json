@@ -703,6 +703,10 @@
             { "id": 2, "pt": 1, "dmc": 700, "dcc": 150, "pl": 210, "fm": 2, "ftg" : 58},
             { "id": 1, "pt": 1, "dmc": 500, "dcc": 100, "pl": 160, "fm": 2, "ftg" : 62}
             ]},
+            { "name": "AMD Radeon RX 6900 XT", "op": [
+            { "id": 2, "pt": 5, "mmc": 2138, "mcc": 1800, "fm": 3, "ftg" : 65},
+            { "id": 1, "pt": 5, "mmc": 2100, "mcc": 1800, "fm": 3, "ftg" : 65}
+            ]},
             { "name": "AMD Radeon RX 6800 XT", "op": [
             { "id": 3, "pt": 5, "mmc": 2138, "mcc": 1800, "mcv": 793, "fm": 3, "ftg" : 65},
             { "id": 2, "pt": 5, "mmc": 2138, "mcc": 2050, "mcv": 820, "fm": 3, "ftg" : 65},
@@ -727,6 +731,15 @@
             { "id": 3, "pt": 5, "mmc": 2138, "mcc": 2200, "fm": 3, "ftg" : 65},
             { "id": 2, "pt": 5, "mmc": 2100, "mcc": 2200, "fm": 3, "ftg" : 65},
             { "id": 1, "pt": 5, "mmc": 2050, "mcc": 2250, "fm": 3, "ftg" : 65}
+            ]},
+            { "name": "AMD Radeon RX 6600 XT", "op": [
+            { "id": 2, "pt": 5, "mmc": 2270, "mcc": 1800, "fm": 3, "ftg" : 65},
+            { "id": 1, "pt": 5, "mmc": 2200, "mcc": 1800, "fm": 3, "ftg" : 65}
+            ]},
+            { "name": "AMD Radeon RX 6600", "op": [
+            { "id": 3, "pt": 5, "mmc": 1890, "mcc": 1850, "fm": 3, "ftg" : 65},
+            { "id": 2, "pt": 5, "mmc": 1850, "mcc": 1800, "fm": 3, "ftg" : 65},
+            { "id": 1, "pt": 5, "mmc": 1800, "mcc": 1750, "fm": 3, "ftg" : 65}
             ]},
             { "name": "AMD Radeon RX 5700 XT", "op": [
             { "id": 3, "pt": 5, "mmc": 1820, "mcc": 1250, "mcv": 850, "fm": 3, "ftg" : 65},
