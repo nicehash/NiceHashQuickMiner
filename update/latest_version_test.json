@@ -1,7 +1,7 @@
 {
     "version_str":"0.6.1.2",
     "version":60102,
-    "package_sha256":"B2BEA7F02EE39AD0E36263BC28B3CB3C03DE93B7871781AE28F90379AA07170X",
+    "package_sha256":"B2BEA7F02EE39AD0E36263BC28B3CB3C03DE93B7871781AE28F90379AA07170C",
     "sigs": [{
       "version": 1,
       "signatures": [
@@ -13,7 +13,7 @@
   "stable":{
     "version_str":"0.6.1.2",
     "version":60102,
-    "package_sha256":"B2BEA7F02EE39AD0E36263BC28B3CB3C03DE93B7871781AE28F90379AA07170X",
+    "package_sha256":"B2BEA7F02EE39AD0E36263BC28B3CB3C03DE93B7871781AE28F90379AA07170C",
     "sigs": [{
       "version": 1,
       "signatures": [
