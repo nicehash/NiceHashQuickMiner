@@ -1,6 +1,6 @@
 {
     "data_version": 11,
-    "iteration": 1,
+    "iteration": 2,
     "op_names": [
         { "id": 1, "name": "Lite" }, 
         { "id": 2, "name": "Medium" }, 
@@ -987,6 +987,18 @@
             { "id": 3, "pt": 0, "dmc": -500, "mcc": 1600, "fm": 3, "ftg" : 56, "ftr": 90 },
             { "id": 2, "pt": 0, "dmc": -500, "mcc": 1499, "fm": 3, "ftg" : 58, "ftr": 94 },
             { "id": 1, "pt": 0, "dmc": -500, "mcc": 1305, "fm": 3, "ftg" : 62, "ftr": 94 }
+            ]},
+            { "name": "GeForce RTX 3070", "op": [
+            { "id": 11, "pt": 2, "dmc": -500, "mcc": 1520, "mcv": 740, "fm": 3, "ftg" : 56, "ftr": 68 },
+            { "id": 3, "pt": 2, "dmc": -500, "mcc": 1630, "mcv": 790, "fm": 3, "ftg" : 56, "ftr": 68 },
+            { "id": 2, "pt": 0, "dmc": -500, "mcc": 1450, "fm": 3, "ftg" : 58, "ftr": 70 },
+            { "id": 1, "pt": 0, "dmc": -500, "mcc": 1350, "fm": 3, "ftg" : 62, "ftr": 72 }
+            ]},
+            { "name": "GeForce GTX 1060 6GB", "op": [
+            { "id": 11, "pt": 2, "dmc": -500, "mcc": 1700, "mcv": 770, "fm": 2, "ftg" : 56 },
+            { "id": 3, "pt": 2, "dmc": -500, "mcc": 2050,  "mcv": 990, "fm": 2, "ftg" : 58},
+            { "id": 2, "pt": 1, "dmc": -500, "dcc": 130, "pl": 110, "fm": 2, "ftg" : 58 },
+            { "id": 1, "pt": 1, "dmc": -500, "dcc": 100, "pl": 90, "fm": 2, "ftg" : 59 }
             ]}
         ]}
         ]
