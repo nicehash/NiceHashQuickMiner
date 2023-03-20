@@ -9,13 +9,14 @@ If the file's SHA1 or SHA256 does not match **precisely with each letter and num
 
 File Name | Checksum
 ----------|--------------
-[NHQM_v0.6.2.0_RC.zip](https://github.com/nicehash/NiceHashQuickMiner/releases/tag/v0.6.2.0) | **SHA1:** 8bd7231f9e733343721953ae04fb424463f764ad<br> **SHA256**: 2396c4574233a3f46e779b11014d459ce28a68c4a5d01f217196cddf4cf62887
+[NHQM_v0.6.3.0_RC.zip](https://github.com/nicehash/NiceHashQuickMiner/releases/tag/v0.6.3.0) | **SHA1:** c38279aa7eae6f6c04bec5234b13cea651adf34a<br> **SHA256**: 3893b2fc5aeb926dfcbd33015231ba119462b504884276b120202772e7ba48c6
 Installer (v0.6.0.1 onward):<br>[NiceHashQuickMinerInstaller.exe](https://github.com/nicehash/NiceHashQuickMiner/releases/download/v0.6.0.1/NiceHashQuickMinerInstaller.exe) | **SHA1:** 0cfc8069d3729623765cd9398c842f1f4b27b4da<br> **SHA256**: 08a353f8aa9cf1fd06cc478bb2b70196afb6fdb033c23e4169817e882e7de026
 [NHQM_v0.6.1.2.zip](https://github.com/nicehash/NiceHashQuickMiner/releases/tag/v0.6.1.2) | **SHA1:** 3422fc43dd825b7ee58e208d6308b820d432968d<br> **SHA256**: 8e2463252bbf1c45c3b30d8c4cbc05bc7dddd3def728a3719716443b6bb106fe
 
 
 Old files | Checksum
 ----------|--------------
+[NHQM_v0.6.2.0_RC.zip](https://github.com/nicehash/NiceHashQuickMiner/releases/tag/v0.6.2.0) | **SHA1:** 8bd7231f9e733343721953ae04fb424463f764ad<br> **SHA256**: 2396c4574233a3f46e779b11014d459ce28a68c4a5d01f217196cddf4cf62887
 [NHQM_v0.6.0.1.zip](https://github.com/nicehash/NiceHashQuickMiner/releases/tag/v0.6.0.1) | **SHA1:** 2de3dd64f20a641d36f194bdf0266ba40512a295<br> **SHA256**: eca4dde8c7126d9cb55109a894c7e389600629c8d099b93d93ae79687b596103
 [NHQM_v0.6.1.1_RC.zip](https://github.com/nicehash/NiceHashQuickMiner/releases/tag/v0.6.1.1_RC) | **SHA1:** 2cdea94436a8c691817e585aab56024288a0e6b1<br> **SHA256**: ade33c8cbbbd5b04bb23b6ae5d0ae2ee02cc7ba6d4b5fdc9bc2653198012bf09
 [NHQM_v0.6.1.0_RC.zip](https://github.com/nicehash/NiceHashQuickMiner/releases/tag/v0.6.1.0_RC) | **SHA1:** f6259888362f31a2fc1420d9e5a5844b0ef6d197<br> **SHA256**: 5257ade57bd83b26894337a4c87975990572843945acd13f465f11e26001999d
