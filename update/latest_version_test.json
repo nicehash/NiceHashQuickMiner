@@ -1,6 +1,6 @@
 {
     "version_str":"0.7.2.0_RC",
-    "version":70001,
+    "version":70200,
     "package_sha256":"25E9A63EC6BBCFB0D16B6B1060C84F8F9EDBECD85673F9A61214C4BB2B0068DF",
     "sigs": [{
       "version": 1,
@@ -12,7 +12,7 @@
     ],
   "stable":{
     "version_str":"0.6.7.0",
-    "version":60602,
+    "version":60700,
     "package_sha256":"D26CC7865EB1A9B5C9445415A853B45A04D42AE6479770986B374C092ECFA982",
     "sigs": [{
       "version": 1,
