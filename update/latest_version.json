@@ -12,7 +12,7 @@
     ],
   "stable":{
     "version_str":"0.6.7.0",
-    "version":60602,
+    "version":60700,
     "package_sha256":"D26CC7865EB1A9B5C9445415A853B45A04D42AE6479770986B374C092ECFA982",
     "sigs": [{
       "version": 1,
